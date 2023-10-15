@@ -1,0 +1,866 @@
+
+jQuery(function ($) {
+
+    "use strict";
+    // CONFIGURATOR
+
+    let atrNames = ['thickness','facet','main_lighting','backlight','heating','lens',
+        'lens-type', 'lens-sub-type','clock','clock_value','audio','audio_value','shelf', 'accessories', 'set_accessories','towel_rail', 'tempering_glass',
+        'tempering_glass_value', 'shower_shelf','mounting_system','entrance_part','door_hinges', 'door_handles','opening_door','handle_type','handle_type_value',
+        'special_installation','placement_partition','upper_corner','type_sealant','glass_holder','shelf_type','shelf_type_value','switch-type-1',
+        'switch-8', 'switch-9', 'switch-10', 'switch-95', 'switch-96', 'switch-97','switch-98','switch-99','switch-100','switch-101','switch-102','switch-103', 'lens-type-detail','color','protect_glass'];
+
+
+    $( document ).ready(function() {
+        if(window.location.href.includes('?')){
+            let standart = $("input[name=standard]:checked")
+            if(standart && standart.val() == 'parameters'){
+                let s = $("input[name=parameters_s]").val();
+                let h = $("input[name=parameters_h]").val();
+                if(s && h){
+                    checkSH(s,h)
+                    chengeProductSize($("input[name=parameters_s]").val(), $("input[name=parameters_h]").val());
+                }
+            }else{
+                let s = $("input[name=parameters_s]").val();
+                let h = $("input[name=parameters_h]").val();
+                let l = $("input[name=parameters_l]").val();
+                let l1 = $("input[name=parameters_l1]").val();
+                let l2 = $("input[name=parameters_l2]").val();
+                let m = $("input[name=parameters_m]").val();
+                let d = $("input[name=parameters_d]").val();
+                let b1 = $("input[name=parameters_b1]").val();
+                let b2 = $("input[name=parameters_b2]").val();
+                checkSH(s,h,l,l1,l2,m,d,b1,b2)
+                chengeProductSize($("input[name=parameters_s]").val(), $("input[name=parameters_h]").val(), $("input[name=parameters_l]").val(), 
+                $("input[name=parameters_l1]").val(), $("input[name=parameters_l2]").val(), $("input[name=parameters_m]").val(), $("input[name=parameters_d]").val(),null,null,null,$("input[name=parameters_b1]").val(), $("input[name=parameters_b2]").val()); 
+                
+            }
+        }
+    });
+
+    function chengeProductSize(s,h,l,l1,l2,m,d,delOrigId,isDeleteStep,delGrOrigId,b1,b2) {
+        let data={};
+        data.id = $('#config-order').attr('data-product_id');
+        data.default_atr = _functions.getProductOptions();
+        data.s = s;
+        data.h = h;
+        data.l = l;
+        data.l1 = l1;
+        data.l2 = l2;
+        data.m = m;
+        data.d = d;
+        data.b1 = b1;
+        data.b2 = b2;
+        data.step_size = true;
+        
+        if(isDeleteStep){
+                data.default_atr.forEach(item => {
+                    if(item.originAtrGrId == 32 && delGrOrigId == 32){
+                        data.default_atr.forEach(item => {
+                            if(item.originAtrGrId == 8) item.depend_delete = true
+                        })
+                    }
+                    if(item.originAtrGrId == 35 && delGrOrigId == 35){
+                        data.default_atr.forEach(item => {
+                            if(item.originAtrGrId == 95) item.depend_delete = true
+                        })
+                    }
+                    if(item.originAtrGrId == 14 && delGrOrigId == 14){
+                        data.default_atr.forEach(item => {
+                            if(item.originAtrGrId == 101) item.depend_delete = true
+                        })
+                    }
+                    if(item.originAtrGrId == 17 && delGrOrigId == 17){
+                        data.default_atr.forEach(item => {
+                            if(item.originAtrGrId == 98) item.depend_delete = true
+                        })
+                    }
+                    if(item.originAtrGrId == 83 && delGrOrigId == 83){
+                        data.default_atr.forEach(item => {
+                            if(item.originAtrGrId == 89) item.depend_delete = true
+                        })
+                    }
+                })
+            
+            data.default_atr = data.default_atr.filter(i => i.depend_delete != true);
+        }
+        
+
+        if(isDeleteStep) data.isDeleteStep = isDeleteStep;
+        if(data.default_atr && data.default_atr.length && delOrigId){
+            data.default_atr = data.default_atr.filter(i => i.originAtrId != delOrigId);
+        }
+        let activeLink = window.location.pathname;
+
+        $.ajax({
+            type: "post",
+            // context: this,
+            url: activeLink,
+            data: data,
+            success: function (data) {
+                if (data.stepHtml) {
+                    if (data.stepHtml.originStep1) $('#origin-step-1').html(data.stepHtml.originStep1);
+                    if (data.stepHtml.originStep7) $('#origin-step-7').html(data.stepHtml.originStep7);
+                    if (data.stepHtml.originStep10) $('#origin-step-10').html(data.stepHtml.originStep10);
+                    if (data.stepHtml.originStep13) $('#origin-step-13').html(data.stepHtml.originStep13);
+                    if (data.stepHtml.originStep16) $('#origin-step-16').html(data.stepHtml.originStep16);
+                    if (data.stepHtml.originStep19) $('#origin-step-19').html(data.stepHtml.originStep19);
+                    if (data.stepHtml.originStep22) $('#origin-step-22').html(data.stepHtml.originStep22);
+                    if (data.stepHtml.originStep28) $('#origin-step-28').html(data.stepHtml.originStep28);
+                    if (data.stepHtml.originStep31) $('#origin-step-31').html(data.stepHtml.originStep31);
+                    if (data.stepHtml.originStep76) $('#origin-step-76').html(data.stepHtml.originStep76);
+                    if (data.stepHtml.originStep37) $('#origin-step-37').html(data.stepHtml.originStep37);
+                    if (data.stepHtml.originStep94) $('#origin-step-94').html(data.stepHtml.originStep94);
+                    if(isDeleteStep){
+                        if (data.stepHtml.originStep25) $('#origin-step-25').html(data.stepHtml.originStep25);
+                        if (data.stepHtml.originStep34) $('#origin-step-34').html(data.stepHtml.originStep34);
+                        if (data.stepHtml.originStep37) $('#origin-step-37').html(data.stepHtml.originStep37);
+                        if (data.stepHtml.originStep40) $('#origin-step-40').html(data.stepHtml.originStep40);
+                        if (data.stepHtml.originStep43) $('#origin-step-43').html(data.stepHtml.originStep43);
+                        if (data.stepHtml.originStep46) $('#origin-step-46').html(data.stepHtml.originStep46);
+                        if (data.stepHtml.originStep49) $('#origin-step-49').html(data.stepHtml.originStep49);
+                        if (data.stepHtml.originStep52) $('#origin-step-52').html(data.stepHtml.originStep52);
+                        if (data.stepHtml.originStep55) $('#origin-step-55').html(data.stepHtml.originStep55);
+                        if (data.stepHtml.originStep58) $('#origin-step-58').html(data.stepHtml.originStep58);
+                        if (data.stepHtml.originStep61) $('#origin-step-61').html(data.stepHtml.originStep61);
+                        if (data.stepHtml.originStep64) $('#origin-step-64').html(data.stepHtml.originStep64);
+                        if (data.stepHtml.originStep67) $('#origin-step-67').html(data.stepHtml.originStep67);
+                        if (data.stepHtml.originStep73) $('#origin-step-73').html(data.stepHtml.originStep73);
+                        if (data.stepHtml.originStep94) $('#origin-step-94').html(data.stepHtml.originStep94);
+                    }
+                };
+                if (data.reviewHtml && !delOrigId) {
+                    $('#review-tab').html(data.reviewHtml);
+                    // $('.pdf-section-info').html(data.reviewHtml);
+                }else if(data.reviewHtml && delOrigId){
+                    $('.cc-info-stock-prize b').text(data.price_without_option_price);
+                    
+                };
+                if(data.new_image_path){
+                    $('#main-img').attr('data-main-img-path',data.new_image_path)
+                    $('#main-img-source1').attr('srcset',data.new_image_path)
+                    $('#main-img-source2').attr('srcset',data.new_image_path)
+                    $('#main-img-composite').attr('src',data.new_image_path)
+                }
+                if (data.discounted_price) {
+                    $('#config-order').attr('data-price', data.discounted_price)
+                    $('#config-order-secondary-btn').attr('data-price', data.discounted_price)
+                    $('.config-price b').text(data.discounted_price)
+                    $('.cc-checkout-all-prise b').text(data.discounted_price);
+                }else if(data.price){
+                    $('.cc-checkout-all-prise b').text(data.price);
+                    $('#config-order').attr('data-price', data.price)
+                    $('#config-order-secondary-btn').attr('data-price', data.price)
+                    $('.config-price b').text(data.price)
+                }
+
+                $('#config-order').attr('data-s', s);
+                $('#config-order').attr('data-h', h);
+                $('#config-order').attr('data-l', l);
+                $('#config-order').attr('data-l1', l1);
+                $('#config-order').attr('data-l2', l2);
+                $('#config-order').attr('data-m', m);
+                $('#config-order').attr('data-d', d);
+                $('#config-order').attr('data-b1', b1);
+                $('#config-order').attr('data-b2',b2);
+
+                if(data.product.shower_type && data.product.shower_type == 5){
+                    $('#config-order').attr('data-l1', data.product.l1.value);
+                    $('#config-order').attr('data-l2', data.product.l2.value);
+                    $("input[name=parameters_l1]").val(data.product.l1.value), 
+                    $("input[name=parameters_l2]").val(data.product.l2.value)
+                }
+
+                setTimeout(function () {
+                        $('.checkbox-entry-wrap').each(function () {
+                            let $this = $(this);
+                            let ratioPrice = $(this).data("ratio-price");
+                            let oldRatioPrice = $(this).data("old-ratio-price");
+                            if (!ratioPrice == '') {
+                                $this.find('.checkbox-entry b i').first().text(ratioPrice)
+                            } else {
+                                $this.find('.checkbox-entry b').first().css("display", "none");
+                            }
+                            if (!oldRatioPrice == '') {
+                                $this.find('.checkbox-entry .configurator_price-old i').text(oldRatioPrice)
+                            } else {
+                                $this.find('.checkbox-entry .configurator_price-old').css("display", "none");
+                            }
+                        });
+                        $('.config-checkbox-unchecked-none').each(function() {
+                            let $this = $(this);
+                            let ratioPrice = $(this).data("ratio-price");
+                            let oldRatioPrice = $(this).data("old-ratio-price");
+                
+                            if (!ratioPrice == '') {
+                                $this.find('.checkbox-entry b i').first().text(ratioPrice)
+                            } else {
+                                $this.find('.checkbox-entry b').first().css("display", "none");
+                            }
+                            if (!oldRatioPrice == '') {
+                                $this.find('.checkbox-entry .configurator_price-old i').text(oldRatioPrice)
+                            } else {
+                                $this.find('.checkbox-entry .configurator_price-old').css("display", "none");
+                            }
+                        });
+                }, 100);
+
+                if ($('.SelectBox').length) {
+                    $('.SelectBox').each(function () {
+                        $(this).SumoSelect({
+                            floatWidth: 0,
+                            nativeOnDevice: []
+                        });
+                    });
+                }
+                $('.dropdown-item-parent').each(function() {
+                    let parentSelect = $(this);
+            
+                    parentSelect.on('change', function() {
+                        let th = $(this),
+                            thOption = th.find('option:selected'),
+                            thOptionAttr = thOption.attr('some-attr'),
+                            thChildSelects = th.closest('.row').find('.dropdown-item-child select');
+                        
+                        thChildSelects.each(function() {
+                            let child = $(this),
+                                childttr = child.attr('some-attr');
+            
+                            thOptionAttr === childttr ? child.closest(".dropdown-child-wrapper").addClass('show') : child.closest(".dropdown-child-wrapper").removeClass('show');
+                        });
+                    });
+                });
+
+                _functions.changeImg();
+            },
+            error: function (data) {
+                console.warn(data)
+            }
+        })
+    }
+
+    _functions.chengeProductOptions = function(trigger_switch) {
+        let data={};
+        data.default_atr = _functions.getProductOptions();
+        data.id = $('#config-order').attr('data-product_id');
+        data.s = $('#config-order').attr('data-s');
+        data.h = $('#config-order').attr('data-h');
+        data.l = $('#config-order').attr('data-l');
+        data.l1 = $('#config-order').attr('data-l1');
+        data.l2 = $('#config-order').attr('data-l2');
+        data.m = $('#config-order').attr('data-m');
+        data.d = $('#config-order').attr('data-d');
+        data.b1 = $('#config-order').attr('data-b1');
+        data.b2 = $('#config-order').attr('data-b2');
+        let activeLink = window.location.pathname;
+
+        $.ajax({
+            type: "post",
+            context: this,
+            url: activeLink,
+            data: data,
+            success: function (data) {
+                if (data.reviewHtml) $('#review-tab').html(data.reviewHtml);
+                // if (data.reviewHtml) $('.pdf-section-info').html(data.reviewHtml);
+                if(!trigger_switch){
+                    if (data.stepHtml) {
+                        if (data.stepHtml.originStep25) $('#origin-step-25').html(data.stepHtml.originStep25);
+                    }
+                }
+                if(data.new_image_path){
+                    $('#main-img').attr('data-main-img-path',data.new_image_path)
+                    $('#main-img-source1').attr('srcset',data.new_image_path)
+                    $('#main-img-source2').attr('srcset',data.new_image_path)
+                    $('#main-img-composite').attr('src',data.new_image_path)
+                }
+               
+                if (data.discounted_price) {
+                    $('#config-order').attr('data-price', data.discounted_price)
+                    $('.config-price b').text(data.discounted_price)
+                }else if(data.price){
+                    $('#config-order').attr('data-price', data.price)
+                    $('.config-price b').text(data.price)
+                }
+               
+
+                if ($('.SelectBox').length) {
+                    $('.SelectBox').each(function () {
+                        $(this).SumoSelect({
+                            floatWidth: 0,
+                            nativeOnDevice: []
+                        });
+                    });
+                }
+                $('.dropdown-item-parent').each(function() {
+                    let parentSelect = $(this);
+            
+                    parentSelect.on('change', function() {
+                        let th = $(this),
+                            thOption = th.find('option:selected'),
+                            thOptionAttr = thOption.attr('some-attr'),
+                            thChildSelects = th.closest('.row').find('.dropdown-item-child select');
+                        
+                        thChildSelects.each(function() {
+                            let child = $(this),
+                                childttr = child.attr('some-attr');
+            
+                            thOptionAttr === childttr ? child.closest(".dropdown-child-wrapper").addClass('show') : child.closest(".dropdown-child-wrapper").removeClass('show');
+                        });
+                    });
+                });
+                _functions.changeImg();
+            },
+            error: function (data) {
+                console.warn(data)
+            }
+        })
+
+        return false
+    }
+
+
+    $( document ).ready(function() {
+        let pathSplited = window.location.pathname.split("/")
+        if(pathSplited.includes('configurator')){
+            _functions.changeImg()
+        }
+    });
+
+    _functions.changeImg = function(delOrigId) {
+        let data = {};
+        let mainImgPath = $('#main-img').attr('data-main-img-path');
+        if(mainImgPath) data.mainImg = 'public'+mainImgPath;
+        let arr = [];
+        if(data.default_atr && data.default_atr.length && delOrigId){
+            data.default_atr = data.default_atr.filter(i => i.originAtrId != delOrigId);
+        }
+        $("input[type=radio]:checked").each(function(){
+            let originAtrId = $(this).attr('data-origin-atr-id');
+            if(delOrigId && originAtrId && originAtrId == delOrigId){
+
+            }else{
+                let atrName = $(this).attr('name');
+                let ifParentChecked = null
+                let getParentBlock = $('.config-group').find(`.toggle-block-control[data-origin-atr-id='${originAtrId}']`)
+                if(!getParentBlock.length){
+                    ifParentChecked = true
+                } else {
+                    ifParentChecked = getParentBlock.is(':checked')
+                }
+                let noChangeImg = $(this).attr('data-noChangeImg')
+                let imgPath = $(this).attr('data-img-config-path');
+                if(atrName && !noChangeImg && ifParentChecked){
+                    if(atrNames.includes(atrName) && imgPath ){
+                        arr.push('public'+imgPath)
+                    }
+                }
+            }
+        });
+        $("input[type=checkbox]:checked").each(function(){
+            let originAtrId = $(this).attr('data-origin-atr-id');
+            if(delOrigId && originAtrId && originAtrId == delOrigId){
+
+            }else{
+                let atrName = $(this).attr('name');
+                let noChangeImg = $(this).attr('data-noChangeImg')
+                let imgPath = $(this).attr('data-img-config-path');
+                if(atrName && !noChangeImg){
+                    if(atrNames.includes(atrName) && imgPath){
+                        arr.push('public'+imgPath)
+                    }
+                }
+            }
+        });
+        data.compositeArr = arr;
+
+        $.ajax({
+            type: "post",
+            url: '/compositeImg',
+            data: data,
+            xhrFields:{
+                responseType: 'blob'
+            },
+            success: function (data) {
+                    let blobData = data;
+                    let url = window.URL || window.webkitURL;
+                    let src = url.createObjectURL(blobData);
+                    $('#main-img-composite').attr("src", src);
+                    $('#main-img-source1').attr("srcset", src);
+                    $('#main-img-source2').attr("srcset", src);
+                
+            },
+            error: function (data) { 
+                let mainPath = $('#main-img').attr('data-main-img-path');
+                if(mainPath){
+                    $('#main-img-composite').attr("src", mainPath);
+                    $('#main-img-source1').attr("srcset", mainPath);
+                    $('#main-img-source2').attr("srcset", mainPath);
+                }
+                
+            }
+        })
+        return false
+    }
+
+    $(document).on("click", "input[name=size]", function () { 
+        let s = $(this).attr('data-s');
+        let h = $(this).attr('data-h');
+        chengeProductSize(s,h) 
+    })
+
+
+    $(document).on("click", "input[type=radio]", function () {
+        let atrName = $(this).attr('name');
+        
+
+        // let th = $(this),
+        // thParent = th.closest('.config-checkbox-wrap').find('.checkbox-entry-wrap').not('.checkboxes-block .checkbox-entry-wrap'); 
+        // thParent.find('input').prop('checked', true).attr('checked', true);
+        
+
+        if(atrName){
+            if(atrName && atrName == 'standard' && $(this).is(":checked")){
+                let val = $(this).val();
+                let s;
+                let h;
+                if(val && val == 'standard'){
+                    s = $("input[name=size]:checked").attr('data-s');
+                    h = $("input[name=size]:checked").attr('data-h');
+                }else if(val && val == 'parameters'){
+                    s = $("input[name=parameters_s]").val();
+                    h = $("input[name=parameters_h]").val();
+                }
+                if(s && h){
+                    chengeProductSize(s,h);
+                }
+            }
+            if(atrName){
+                if(atrNames.includes(atrName) || atrName.split('-')[0] == 'facet'){
+                    setTimeout(() => {
+                      _functions.chengeProductOptions();
+                    }, 400);
+                  //  _functions.changeImg();
+                }
+            }
+        }
+    })
+
+    $(document).on("click", "input[type=checkbox]", function () {
+        let atrName = $(this).attr('name');
+
+        // if(!this.checked){
+        //     $(this).closest('.config-checkbox-wrap').find(".checkboxes-block .checkbox-entry-wrap").each(function(){
+        //         $(this).find('input').prop( "checked", false )
+        //     })
+        // }
+
+        if(atrName){
+
+            if(atrNames.includes(atrName) || atrName.split('-')[0] == 'facet'){
+                setTimeout(() => {
+                  _functions.chengeProductOptions();
+                }, 400);
+                //_functions.changeImg();
+            }
+        }
+    })
+    $(document).on("change", ".switch_types", function () {
+        let atrName = $(this).find('option:selected').attr('name');
+
+        // if(!this.checked){
+        //     $(this).closest('.config-checkbox-wrap').find(".checkboxes-block .checkbox-entry-wrap").each(function(){
+        //         $(this).find('input').prop( "checked", false )
+        //     })
+        // }
+
+        if(atrName){
+
+            if(atrNames.includes(atrName) || atrName.split('-')[0] == 'facet'){
+                _functions.chengeProductOptions(true);
+               // _functions.changeImg();
+            }
+        }
+    })
+    $(document).on("change", ".switch-values", function () {
+        let atrName = $(this).find('option:selected').attr('name');
+
+        // if(!this.checked){
+        //     $(this).closest('.config-checkbox-wrap').find(".checkboxes-block .checkbox-entry-wrap").each(function(){
+        //         $(this).find('input').prop( "checked", false )
+        //     })
+        // }
+
+        if(atrName){
+
+            if(atrNames.includes(atrName) || atrName.split('-')[0] == 'facet'){
+                _functions.chengeProductOptions(true);
+               // _functions.changeImg();
+            }
+        }
+    })
+
+    $(document).on('click', '.checkbox-entry-with-select', function(e) {
+        e.preventDefault();
+        let th = $(this),
+            thStatus = th.find('input').prop('checked'),
+            thSelects = th.closest('.row').find('.dropdown-item'),
+            thChildSelect = th.closest('.row').find('.dropdown-item-child');
+
+        if(thStatus === true) {
+            th.find('input').prop('checked', false);
+            thChildSelect.find('.dropdown-child-wrapper').removeClass('show');
+
+            thSelects.find('select.SelectBox').each(function() {
+                let reloadSelects = $(this);
+                reloadSelects[0].sumo.unSelectAll();
+            });
+
+            th.next().slideUp();
+        } else {
+            th.find('input').prop('checked', true);
+            th.next().slideDown();
+        }
+
+        _functions.chengeProductOptions(true);
+        //_functions.changeImg();
+    });
+
+
+
+    function checkSH(s,h,l,l1,l2,m,d,b1,b2) {
+        if(s) s = Number(s);
+        if(h) h = Number(h);
+        if(l) l = Number(l);
+        if(l1) l1 = Number(l1);
+        if(l2) l2 = Number(l2);
+        if(m) m = Number(m);
+        if(d) d = Number(d);
+        if(b1) b1 = Number(b1);
+        if(b2) b2 = Number(b2);
+        let paramsObj = {
+            s: null,
+            h: null,
+            l: null,
+            l1: null,
+            l2: null,
+            m: null,
+            d: null,
+            b1: null,
+            b2: null
+        }
+
+        let argsNames = ['s','h','l','l1','l2','m','d','b1','b2'];
+        let args = [...arguments];
+        let arr = [];
+        
+        function checkParams(name, val) {
+            if(val){
+                let min = $(`input[name=parameters_${name}]`).attr('min');
+                let max = $(`input[name=parameters_${name}]`).attr('max');
+                if(+val <= +min) val = min;
+                if(+val >= +max) val = max;
+                $(`input[name=parameters_${name}]`).val(val);
+                $('#config-order').attr(`data-${name}`, val);
+                paramsObj[name] = +val
+            }
+        }
+        if(args && args.length){
+            for (let i = 0; i < argsNames.length; i++) {
+                arr.push({
+                    name: argsNames[i],
+                    value: args[i],
+                })
+            }
+            for (const i of arr) {
+                checkParams(i.name, i.value);
+            }
+        }
+
+        $('input[name=towel_rail]').each(function(){
+            let min_s = +$(this).attr('data-addition-s');
+            let min_l = +$(this).attr('data-addition-l');
+            let min_m = +$(this).attr('data-addition-m');
+            let min_l1 = +$(this).attr('data-addition-l1');
+            let min_l2 = +$(this).attr('data-addition-l2');
+            let min_s_d = +$(this).attr('data-addition-s_d');
+            let min_s_2 = +$(this).attr('data-addition-s_2');
+    
+            if(min_s && s && min_s > s) {
+                $(this).prop("disabled", true); 
+            } else if(min_s && s && min_s <= s) {
+                $(this).prop("disabled", false); 
+            }
+            if(min_l && l && min_l > l) {
+                $(this).prop("disabled", true); 
+            } else if (min_l && l && min_l <= l) {
+                $(this).prop("disabled", false); 
+            }
+            if(min_m && m && min_m > m) {
+                $(this).prop("disabled", true); 
+            } else if(min_m && m && min_m <= m) {
+                $(this).prop("disabled", false); 
+            }
+            if(min_l1 && l1 && min_l1 > l1) {
+                $(this).prop("disabled", true); 
+            } else if(min_l1 && l1 && min_l1 <= l1) {
+                $(this).prop("disabled", false); 
+            }
+            if(min_l2 && l2 && min_l2 > l2) {
+                $(this).prop("disabled", true); 
+            } else if(min_l2 && l2 && min_l2 <= l2) {
+                $(this).prop("disabled", false); 
+            }
+            if(min_s_d && s && d && min_s_d > (s - d)) {
+                $(this).prop("disabled", true); 
+            } else if(min_s_d && s && d && min_s_d <= (s - d)){
+                $(this).prop("disabled", false); 
+            }
+            if(min_s_2 && s && min_s_2 > (s / 2)) {
+                $(this).prop("disabled", true); 
+            } else if(min_s_2 && s && min_s_2 <= (s / 2)) {
+                $(this).prop("disabled", false); 
+            }
+        
+        })
+        return paramsObj
+    }
+
+    $(document).on("click", ".chenge-size-btn", function () {
+        let s = $("input[name=parameters_s]").val();
+        let h = $("input[name=parameters_h]").val();
+        let l = $("input[name=parameters_l]").val();
+        let l1 = $("input[name=parameters_l1]").val();
+        let l2 = $("input[name=parameters_l2]").val();
+        let m = $("input[name=parameters_m]").val();
+        let d = $("input[name=parameters_d]").val();
+        let b1 = $("input[name=parameters_b1]").val();
+        let b2 = $("input[name=parameters_b2]").val();
+        $(this).attr("disabled", true);
+        let paramsObj = checkSH(s,h,l,l1,l2,m,d,b1,b2);
+        if(paramsObj.s) s =  paramsObj.s
+        if(paramsObj.h) h =  paramsObj.h
+        if(paramsObj.l) l =  paramsObj.l
+        if(paramsObj.l1) l1 =  paramsObj.l1
+        if(paramsObj.l2) l2 =  paramsObj.l2
+        if(paramsObj.m) m =  paramsObj.m
+        if(paramsObj.d) d =  paramsObj.d
+        if(paramsObj.b1) b1 =  paramsObj.b1
+        if(paramsObj.b2) b2 =  paramsObj.b2
+        chengeProductSize(s,h,l,l1,l2,m,d,null,null,null,b1,b2);
+        $(this).attr("disabled", false);
+    })
+
+
+    let parmName = ['parameters_s', 'parameters_h', 'parameters_l', 'parameters_l1', 'parameters_l2', 'parameters_m', 'parameters_d','parameters_b1','parameters_b2'];
+    
+    $(document).on("input", "input", function () {
+        let name = $(this).attr('name');
+        let min = +$(this).attr("min");
+        let max = +$(this).attr("max");
+        if(name && parmName.includes(name)){
+            
+            let input = $(this);
+            var handle = input.data("handle");
+            if (handle) {
+                clearTimeout(handle);
+            }
+
+            handle = setTimeout(function() {
+                let value = input.val();
+                value = Number(value)
+                if(value <= min) value = min;
+                if(value >= max) value = max;
+                input.val(value);
+                // console.log('Changing output to: ' + value);
+                let standart = $("input[name=standard]:checked")
+                if(standart && standart.val() == 'parameters'){
+                    let s = $("input[name=parameters_s]").val();
+                    let h = $("input[name=parameters_h]").val();
+                    if(s && h){
+                        checkSH(s,h)
+                        chengeProductSize($("input[name=parameters_s]").val(), $("input[name=parameters_h]").val());
+                    }
+                }else{
+                    let s = $("input[name=parameters_s]").val();
+                    let h = $("input[name=parameters_h]").val();
+                    let l = $("input[name=parameters_l]").val();
+                    let l1 = $("input[name=parameters_l1]").val();
+                    let l2 = $("input[name=parameters_l2]").val();
+                    let m = $("input[name=parameters_m]").val();
+                    let d = $("input[name=parameters_d]").val();
+                    let b1 = $("input[name=parameters_b1]").val();
+                    let b2 = $("input[name=parameters_b2]").val();
+                    checkSH(s,h,l,l1,l2,m,d,b1,b2)
+                    chengeProductSize($("input[name=parameters_s]").val(), $("input[name=parameters_h]").val(), $("input[name=parameters_l]").val(), 
+                    $("input[name=parameters_l1]").val(), $("input[name=parameters_l2]").val(), $("input[name=parameters_m]").val(), $("input[name=parameters_d]").val(),null,null,null, $("input[name=parameters_b1]").val(), $("input[name=parameters_b2]").val());    
+                }
+
+                input.data("handle", 0);
+            }, 2000);
+            input.data("handle", handle); 
+        }
+    })
+
+    $(document).on("blur", "input", function () {
+        let name = $(this).attr('name');
+        if(name && parmName.includes(name)){
+            let standart = $("input[name=standard]:checked")
+            if(standart && standart.val() == 'parameters'){
+                let s = $("input[name=parameters_s]").val();
+                let h = $("input[name=parameters_h]").val();
+                if(s && h){
+                    checkSH(s,h)
+                    chengeProductSize($("input[name=parameters_s]").val(), $("input[name=parameters_h]").val());
+                }
+            }else{
+                let s = $("input[name=parameters_s]").val();
+                let h = $("input[name=parameters_h]").val();
+                let l = $("input[name=parameters_l]").val();
+                let l1 = $("input[name=parameters_l1]").val();
+                let l2 = $("input[name=parameters_l2]").val();
+                let m = $("input[name=parameters_m]").val();
+                let d = $("input[name=parameters_d]").val();
+                let b1 = $("input[name=parameters_b1]").val();
+                let b2 = $("input[name=parameters_b2]").val();
+                checkSH(s,h,l,l1,l2,m,d,b1,b2)
+                chengeProductSize($("input[name=parameters_s]").val(), $("input[name=parameters_h]").val(), $("input[name=parameters_l]").val(), 
+                $("input[name=parameters_l1]").val(), $("input[name=parameters_l2]").val(), $("input[name=parameters_m]").val(), $("input[name=parameters_d]").val(),null,null,null,$("input[name=parameters_b1]").val(), $("input[name=parameters_b2]").val());   
+            }
+        }
+    })
+
+    $(document).on("click", ".cc-option-close", function () {
+        let delOrigId = $(this).attr('data-atr-origin_id');
+        let delGrOrigId = $(this).attr('data-atr-gr-origin_id');
+        let s = $('#config-order').attr('data-s');
+        let h = $('#config-order').attr('data-h');
+        let l = $("input[name=parameters_l]").val();
+        let l1 = $("input[name=parameters_l1]").val();
+        let l2 = $("input[name=parameters_l2]").val();
+        let m = $("input[name=parameters_m]").val();
+        let d = $("input[name=parameters_d]").val();
+        let b1 = $("input[name=parameters_b1]").val();
+        let b2 = $("input[name=parameters_b2]").val();
+        chengeProductSize(s,h,l,l1,l2,m,d,delOrigId,true,delGrOrigId,b1,b2)
+        _functions.changeImg(delOrigId);
+    })
+
+    $(document).on("click", ".btn-reset", function () {
+        location.reload();
+    })
+
+    $(document).on("click", ".open-popup-config", function (e) {
+        let data ={};
+        data.id = $(this).attr('data-atr-gr-id');
+        data.product_id = $(this).attr('data-product_id');
+        data.lang = $('body').data("lang");
+        
+        $.ajax({
+            type: "post",
+            context: this,
+            url: '/configuratorPopup',
+            data: data,
+            success: function (data) {
+                if (data.html) $('.popup-content[data-rel="' + $(this).data('rel') + '"]').html(data.html);
+                e.preventDefault();
+                _functions.openPopup('.popup-content[data-rel="' + $(this).data('rel') + '"]');
+            },
+            error: function (data) {
+               
+            }
+        })
+    })
+
+    let originalConfiguratorLink = $(".copy-link").attr("data-original_href",window.location.host + window.location.pathname)
+
+    $(document).on('click', '.copy-link', function(){
+            let data={};
+            data.default_atr = _functions.getProductOptions();
+            data.id = $('#config-order').attr('data-product_id');
+            data.s = $('#config-order').attr('data-s');
+            data.h = $('#config-order').attr('data-h');
+            data.l = $('#config-order').attr('data-l');
+            data.l1 = $('#config-order').attr('data-l1');
+            data.l2 = $('#config-order').attr('data-l2');
+            data.m = $('#config-order').attr('data-m');
+            data.d = $('#config-order').attr('data-d');
+            data.b1 = $('#config-order').attr('data-b1');
+            data.b2 = $('#config-order').attr('data-b2');
+            data.copy_values_from_configurator = true
+            let activeLink =  originalConfiguratorLink.attr("data-original_href")
+            activeLink = activeLink + "?" + jQuery.param(data)
+            const elem = document.createElement('textarea');
+            elem.value = (activeLink);
+            document.body.appendChild(elem);
+            elem.select();
+            document.execCommand('copy');
+            document.body.removeChild(elem);   
+    })
+
+    $(document).on('click', '.generate_pdf_btn', function(){
+        let data={};
+        data.default_atr = _functions.getProductOptions();
+        data.id = $('#config-order').attr('data-product_id');
+        data.s = $('#config-order').attr('data-s');
+        data.h = $('#config-order').attr('data-h');
+        data.l = $('#config-order').attr('data-l');
+        data.l1 = $('#config-order').attr('data-l1');
+        data.l2 = $('#config-order').attr('data-l2');
+        data.m = $('#config-order').attr('data-m');
+        data.d = $('#config-order').attr('data-d');
+        data.b1 = $('#config-order').attr('data-b1');
+        data.b2 = $('#config-order').attr('data-b2');
+
+        
+
+        let compositeData = {};
+        let mainImgPath = $('#main-img').attr('data-main-img-path');
+        if(mainImgPath) compositeData.mainImg = 'public'+mainImgPath;
+        let arr = [];
+        $("input[type=radio]:checked").each(function(){
+            let originAtrId = $(this).attr('data-origin-atr-id');
+            // if(delOrigId && originAtrId && originAtrId == delOrigId){
+
+            // }else{
+                let ifParentChecked = null
+                let getParentBlock = $('.config-group').find(`.toggle-block-control[data-origin-atr-id='${originAtrId}']`)
+                if(!getParentBlock.length){
+                    ifParentChecked = true
+                } else {
+                    ifParentChecked = getParentBlock.is(':checked')
+                }
+                let atrName = $(this).attr('name');
+                let noChangeImg = $(this).attr('data-noChangeImg')
+                let imgPath = $(this).attr('data-img-config-path');
+                if(atrName && !noChangeImg && ifParentChecked){
+                    if(atrNames.includes(atrName) && imgPath ){
+                        arr.push('public'+imgPath)
+                    }
+                }
+            //}
+        });
+        $("input[type=checkbox]:checked").each(function(){
+            let originAtrId = $(this).attr('data-origin-atr-id');
+            // if(delOrigId && originAtrId && originAtrId == delOrigId){
+
+            // }else{
+                let atrName = $(this).attr('name');
+                let noChangeImg = $(this).attr('data-noChangeImg')
+                let imgPath = $(this).attr('data-img-config-path');
+                if(atrName && !noChangeImg){
+                    if(atrNames.includes(atrName) && imgPath){
+                        arr.push('public'+imgPath)
+                    }
+                }
+            //}
+        });
+        compositeData.compositeArr = arr;
+
+        data.compositeData = compositeData
+        
+        let link = '/generate_rewiew_pdf' + "?" + jQuery.param(data)
+        $('.generate_pdf_btn a').prop('href', link)
+})
+
+});

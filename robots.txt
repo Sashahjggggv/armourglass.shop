@@ -1,0 +1,9 @@
+User-agent: Googlebot
+Disallow: /auth
+Disallow: /configurator
+User-agent: Googlebot-image
+Disallow: /auth
+Disallow: /configurator
+Disallow: /?
+
+Sitemap: https://studioglass.ua/sitemap.xml
