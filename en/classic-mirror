@@ -29,12 +29,12 @@
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=0" />
     <meta name="google-site-verification" content="_TssH0mwWwYlp7QE3SXnnyjrfpdPCnsAnNmcgxrhnvQ" />
     <link href="/css/bootstrap-grid.min.css" rel="stylesheet" type="text/css" />
-    <link href="/css/main.css" rel="stylesheet" type="text/css" />
+    <link href="/css/main.css?v=1.0" rel="stylesheet" type="text/css" />
     <link href="/css/custom.css?v=1.1" rel="stylesheet" type="text/css" />
     <link rel="shortcut icon" href="/img/favicon.ico" />
     <title>Classic Mirror</title>
-<link rel="canonical" href="https://armourglass.shop/en/classic-mirror"/>
-<base href="https://armourglass.shop">
+<link rel="canonical" href="https://studioglass.ua/en/classic-mirror"/>
+<base href="https://studioglass.ua">
 
 </head>
 
@@ -264,7 +264,7 @@
                         <ul class="social">
                             <li>
                                  
-                                <a href="https://www.instagram.com/armourglass.shop" target="_blank">
+                                <a href="https://www.instagram.com/studioglass.ua" target="_blank">
                                         <img class="s-icon-b" src="/uploads/pages/original/instagram-b_1.svg" alt="">
                                 </a>
                             </li>
@@ -476,10 +476,9 @@
                                         <a class="product_image" href="/en/merage">
                                             <div class="img-default">
                                                 <picture>
-                                                    <source id="main-img-source1" srcset="/uploads/products/725X725/blank_0000_meerauge.webp" type="image/webp">
-
-                                                    <source srcset='/uploads/products/725X725/blank_0000_meerauge.jpg' type='image/jpg'>
-                                                    <img src='/uploads/products/725X725/blank_0000_meerauge.jpg' alt='' loading='lazy'>
+                                                        <source id="main-img-source1" srcset="/uploads/products/725X725/blank_0000_meerauge.webp" type="image/webp">
+                                                        <source srcset="/uploads/products/725X725/blank_0000_meerauge.jpg" type="image/png">
+                                                        <img src="/uploads/products/725X725/blank_0000_meerauge.jpg" alt="">
                                                 </picture>
                                             </div>
                                             <div class="img-hover">
@@ -533,524 +532,21 @@
                         <div class="swiper-slide">
                             <div class="product js-product" data-price="2960">
                                 <div class="product_image-wrap">
-                                    <a class="product_image" href="/undefined-5">
-                                        <div class="img-default">
-                                            <picture>
-
-                                                <source id="main-img-source1" srcset="/uploads/products/725X725/cristal-930.webp" type="image/webp">
-                                                <source srcset="/uploads/products/725X725/cristal-930.jpg" type="image/png">
-                                                <img src="/uploads/products/725X725/cristal-930.jpg" alt="">
-                                            </picture>
-                                        </div>
-                                        <div class="img-hover">
-                                            <picture>
-                                                <source id="main-img-source1" srcset="/uploads/products/725X725/cristal-loft-930.webp" type="image/webp">
-
-                                                <source srcset="/uploads/products/725X725/cristal-loft-930.jpg" type="image/png">
-                                                <img src="/uploads/products/725X725/cristal-loft-930.jpg" alt="">
-                                            </picture>
-                                        </div>
-
-                                        <ul class="product_labels">
-                                            <li class="product_label" style="background-color: #FF671F;">PROMOTION</li>
-                                        </ul>
-                                    </a>
-                                </div>
-                                <div class="product_title">
-                                    <a href="/undefined-5">
-                                        Душова кутова кабіна StudioGlass Cristal 
-                                    </a>
-                                </div>
-                                <div class="product_price-wrap">
-                                        <div class="product_price-old"><b class="price-old">24068</b> UAH</div>
-                                        <div class="product_price" ><b  class="price">21662</b> UAH</div>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="swiper-slide">
-                            <div class="product js-product" data-price="2960">
-                                <div class="product_image-wrap">
-                                    <a class="product_image" href="/sklyani-dveri-dlya-dushu-colombo-color">
-                                        <div class="img-default">
-                                            <picture>
-
-                                                <source id="main-img-source1" srcset="/uploads/products/725X725/colombo-loft-930.webp" type="image/webp">
-                                                <source srcset="/uploads/products/725X725/colombo-loft-930.jpg" type="image/png">
-                                                <img src="/uploads/products/725X725/colombo-loft-930.jpg" alt="">
-                                            </picture>
-                                        </div>
-                                        <div class="img-hover">
-                                            <picture>
-                                                <source id="main-img-source1" srcset="/uploads/products/725X725/colombo-loft-930.webp" type="image/webp">
-
-                                                <source srcset="/uploads/products/725X725/colombo-loft-930.jpg" type="image/png">
-                                                <img src="/uploads/products/725X725/colombo-loft-930.jpg" alt="">
-                                            </picture>
-                                        </div>
-
-                                        <ul class="product_labels">
-                                        </ul>
-                                    </a>
-                                </div>
-                                <div class="product_title">
-                                    <a href="/sklyani-dveri-dlya-dushu-colombo-color">
-                                        Glass shower door COLOMBO color
-                                    </a>
-                                </div>
-                                <div class="product_price-wrap">
-                                        <div class="product_price" ><b  class="price">17915</b> <b >UAH</b> </div>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="swiper-slide">
-                            <div class="product js-product" data-price="2960">
-                                <div class="product_image-wrap">
-                                    <a class="product_image" href="/shtorka-dlya-vannoyi-liri-color">
-                                        <div class="img-default">
-                                            <picture>
-
-                                                <source id="main-img-source1" srcset="/uploads/products/725X725/liri-loft-blank-930.webp" type="image/webp">
-                                                <source srcset="/uploads/products/725X725/liri-loft-blank-930.jpg" type="image/png">
-                                                <img src="/uploads/products/725X725/liri-loft-blank-930.jpg" alt="">
-                                            </picture>
-                                        </div>
-                                        <div class="img-hover">
-                                            <picture>
-                                                <source id="main-img-source1" srcset="/uploads/products/725X725/liri-loft-blank-930.webp" type="image/webp">
-
-                                                <source srcset="/uploads/products/725X725/liri-loft-blank-930.jpg" type="image/png">
-                                                <img src="/uploads/products/725X725/liri-loft-blank-930.jpg" alt="">
-                                            </picture>
-                                        </div>
-
-                                        <ul class="product_labels">
-                                        </ul>
-                                    </a>
-                                </div>
-                                <div class="product_title">
-                                    <a href="/shtorka-dlya-vannoyi-liri-color">
-                                        Glass curtain for the bathroom LIRI color
-                                    </a>
-                                </div>
-                                <div class="product_price-wrap">
-                                        <div class="product_price" ><b  class="price">10523</b> <b >UAH</b> </div>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="swiper-slide">
-                            <div class="product js-product" data-price="2960">
-                                <div class="product_image-wrap">
-                                    <a class="product_image" href="/krugle-derev-yane-dzerkalo-z-led-pidsvitkoyu-studioglass-everglades-800-mm-1010-1013-1016-1040-1046-1052">
-                                        <div class="img-default">
-                                            <picture>
-
-                                                <source id="main-img-source1" srcset="/uploads/products/725X725/falls-930.webp" type="image/webp">
-                                                <source srcset="/uploads/products/725X725/falls-930.jpg" type="image/png">
-                                                <img src="/uploads/products/725X725/falls-930.jpg" alt="">
-                                            </picture>
-                                        </div>
-                                        <div class="img-hover">
-                                            <picture>
-                                                <source id="main-img-source1" srcset="/uploads/products/725X725/falls-930.webp" type="image/webp">
-
-                                                <source srcset="/uploads/products/725X725/falls-930.jpg" type="image/png">
-                                                <img src="/uploads/products/725X725/falls-930.jpg" alt="">
-                                            </picture>
-                                        </div>
-
-                                        <ul class="product_labels">
-                                            <li class="product_label" style="background-color: #FF671F;">/В</li>
-                                        </ul>
-                                    </a>
-                                </div>
-                                <div class="product_title">
-                                    <a href="/krugle-derev-yane-dzerkalo-z-led-pidsvitkoyu-studioglass-everglades-800-mm-1010-1013-1016-1040-1046-1052">
-                                        Кругле дерев’яне дзеркало з LED-підсвіткою StudioGlass EVERGLADES 800 мм
-                                    </a>
-                                </div>
-                                <div class="product_price-wrap">
-                                        <div class="product_price" ><b  class="price">11155</b> <b >UAH</b> </div>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="swiper-slide">
-                            <div class="product js-product" data-price="2960">
-                                <div class="product_image-wrap">
-                                    <a class="product_image" href="/krugle-derev-yane-dzerkalo-z-led-pidsvitkoyu-studioglass-everglades-800-mm-1010-1013-1016-1040-1046-1052-1055-1058">
-                                        <div class="img-default">
-                                            <picture>
-
-                                                <source id="main-img-source1" srcset="/uploads/products/725X725/falls-loft-930.webp" type="image/webp">
-                                                <source srcset="/uploads/products/725X725/falls-loft-930.jpg" type="image/png">
-                                                <img src="/uploads/products/725X725/falls-loft-930.jpg" alt="">
-                                            </picture>
-                                        </div>
-                                        <div class="img-hover">
-                                            <picture>
-                                                <source id="main-img-source1" srcset="/uploads/products/725X725/falls-loft-930.webp" type="image/webp">
-
-                                                <source srcset="/uploads/products/725X725/falls-loft-930.jpg" type="image/png">
-                                                <img src="/uploads/products/725X725/falls-loft-930.jpg" alt="">
-                                            </picture>
-                                        </div>
-
-                                        <ul class="product_labels">
-                                            <li class="product_label" style="background-color: #FF671F;">/В</li>
-                                        </ul>
-                                    </a>
-                                </div>
-                                <div class="product_title">
-                                    <a href="/krugle-derev-yane-dzerkalo-z-led-pidsvitkoyu-studioglass-everglades-800-mm-1010-1013-1016-1040-1046-1052-1055-1058">
-                                        Кругле дерев’яне дзеркало з LED-підсвіткою StudioGlass EVERGLADES 800 мм
-                                    </a>
-                                </div>
-                                <div class="product_price-wrap">
-                                        <div class="product_price" ><b  class="price">13788</b> <b >UAH</b> </div>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="swiper-slide">
-                            <div class="product js-product" data-price="2960">
-                                <div class="product_image-wrap">
-                                    <a class="product_image" href="/sklyana-dushova-kabina-cristal-1">
-                                        <div class="img-default">
-                                            <picture>
-
-                                                <source id="main-img-source1" srcset="/uploads/products/725X725/cristal-930.webp" type="image/webp">
-                                                <source srcset="/uploads/products/725X725/cristal-930.jpg" type="image/png">
-                                                <img src="/uploads/products/725X725/cristal-930.jpg" alt="">
-                                            </picture>
-                                        </div>
-                                        <div class="img-hover">
-                                            <picture>
-                                                <source id="main-img-source1" srcset="/uploads/products/725X725/cristal-930.webp" type="image/webp">
-
-                                                <source srcset="/uploads/products/725X725/cristal-930.jpg" type="image/png">
-                                                <img src="/uploads/products/725X725/cristal-930.jpg" alt="">
-                                            </picture>
-                                        </div>
-
-                                        <ul class="product_labels">
-                                            <li class="product_label" style="background-color: #FF671F;">/В</li>
-                                        </ul>
-                                    </a>
-                                </div>
-                                <div class="product_title">
-                                    <a href="/sklyana-dushova-kabina-cristal-1">
-                                        Скляна душова кабіна CRISTAL
-                                    </a>
-                                </div>
-                                <div class="product_price-wrap">
-                                        <div class="product_price" ><b  class="price">25798</b> <b >UAH</b> </div>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="swiper-slide">
-                            <div class="product js-product" data-price="2960">
-                                <div class="product_image-wrap">
-                                    <a class="product_image" href="/sklyana-dushova-kabina-cristal-1-1092-1156">
-                                        <div class="img-default">
-                                            <picture>
-
-                                                <source id="main-img-source1" srcset="/uploads/products/725X725/cristal-930-knob-kvadrat-hrom-intimato.webp" type="image/webp">
-                                                <source srcset="/uploads/products/725X725/cristal-930-knob-kvadrat-hrom-intimato.jpg" type="image/png">
-                                                <img src="/uploads/products/725X725/cristal-930-knob-kvadrat-hrom-intimato.jpg" alt="">
-                                            </picture>
-                                        </div>
-                                        <div class="img-hover">
-                                            <picture>
-                                                <source id="main-img-source1" srcset="/uploads/products/725X725/cristal-930-knob-kvadrat-hrom-intimato.webp" type="image/webp">
-
-                                                <source srcset="/uploads/products/725X725/cristal-930-knob-kvadrat-hrom-intimato.jpg" type="image/png">
-                                                <img src="/uploads/products/725X725/cristal-930-knob-kvadrat-hrom-intimato.jpg" alt="">
-                                            </picture>
-                                        </div>
-
-                                        <ul class="product_labels">
-                                            <li class="product_label" style="background-color: #FF671F;">/В</li>
-                                        </ul>
-                                    </a>
-                                </div>
-                                <div class="product_title">
-                                    <a href="/sklyana-dushova-kabina-cristal-1-1092-1156">
-                                        Скляна душова кабіна CRISTAL
-                                    </a>
-                                </div>
-                                <div class="product_price-wrap">
-                                        <div class="product_price" ><b  class="price">30473</b> <b >UAH</b> </div>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="swiper-slide">
-                            <div class="product js-product" data-price="2960">
-                                <div class="product_image-wrap">
-                                    <a class="product_image" href="/sklyani-dveri-dlya-dushu-colombo-2">
-                                        <div class="img-default">
-                                            <picture>
-
-                                                <source id="main-img-source1" srcset="/uploads/products/725X725/colombo-930.webp" type="image/webp">
-                                                <source srcset="/uploads/products/725X725/colombo-930.jpg" type="image/png">
-                                                <img src="/uploads/products/725X725/colombo-930.jpg" alt="">
-                                            </picture>
-                                        </div>
-                                        <div class="img-hover">
-                                            <picture>
-                                                <source id="main-img-source1" srcset="/uploads/products/725X725/colombo-930.webp" type="image/webp">
-
-                                                <source srcset="/uploads/products/725X725/colombo-930.jpg" type="image/png">
-                                                <img src="/uploads/products/725X725/colombo-930.jpg" alt="">
-                                            </picture>
-                                        </div>
-
-                                        <ul class="product_labels">
-                                            <li class="product_label" style="background-color: #FF671F;">/В</li>
-                                        </ul>
-                                    </a>
-                                </div>
-                                <div class="product_title">
-                                    <a href="/sklyani-dveri-dlya-dushu-colombo-2">
-                                        Скляні двері для душу COLOMBO
-                                    </a>
-                                </div>
-                                <div class="product_price-wrap">
-                                        <div class="product_price" ><b  class="price">14966</b> <b >UAH</b> </div>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="swiper-slide">
-                            <div class="product js-product" data-price="2960">
-                                <div class="product_image-wrap">
-                                    <a class="product_image" href="/sklyani-dveri-dlya-dushu-colombo-2-1131-1134-1147">
-                                        <div class="img-default">
-                                            <picture>
-
-                                                <source id="main-img-source1" srcset="/uploads/products/725X725/grand-loft-krugla-vrizna-1000.webp" type="image/webp">
-                                                <source srcset="/uploads/products/725X725/grand-loft-krugla-vrizna-1000.jpg" type="image/png">
-                                                <img src="/uploads/products/725X725/grand-loft-krugla-vrizna-1000.jpg" alt="">
-                                            </picture>
-                                        </div>
-                                        <div class="img-hover">
-                                            <picture>
-                                                <source id="main-img-source1" srcset="/uploads/products/725X725/grand-loft-krugla-vrizna-1000.webp" type="image/webp">
-
-                                                <source srcset="/uploads/products/725X725/grand-loft-krugla-vrizna-1000.jpg" type="image/png">
-                                                <img src="/uploads/products/725X725/grand-loft-krugla-vrizna-1000.jpg" alt="">
-                                            </picture>
-                                        </div>
-
-                                        <ul class="product_labels">
-                                            <li class="product_label" style="background-color: #FF671F;">/В</li>
-                                        </ul>
-                                    </a>
-                                </div>
-                                <div class="product_title">
-                                    <a href="/sklyani-dveri-dlya-dushu-colombo-2-1131-1134-1147">
-                                        Скляні двері для душу COLOMBO
-                                    </a>
-                                </div>
-                                <div class="product_price-wrap">
-                                        <div class="product_price" ><b  class="price">30623</b> <b >UAH</b> </div>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="swiper-slide">
-                            <div class="product js-product" data-price="2960">
-                                <div class="product_image-wrap">
-                                    <a class="product_image" href="/sklyani-dveri-dlya-dushu-colombo-2-1131">
-                                        <div class="img-default">
-                                            <picture>
-
-                                                <source id="main-img-source1" srcset="/uploads/products/725X725/colombo-loft-930.webp" type="image/webp">
-                                                <source srcset="/uploads/products/725X725/colombo-loft-930.jpg" type="image/png">
-                                                <img src="/uploads/products/725X725/colombo-loft-930.jpg" alt="">
-                                            </picture>
-                                        </div>
-                                        <div class="img-hover">
-                                            <picture>
-                                                <source id="main-img-source1" srcset="/uploads/products/725X725/colombo-loft-930.webp" type="image/webp">
-
-                                                <source srcset="/uploads/products/725X725/colombo-loft-930.jpg" type="image/png">
-                                                <img src="/uploads/products/725X725/colombo-loft-930.jpg" alt="">
-                                            </picture>
-                                        </div>
-
-                                        <ul class="product_labels">
-                                            <li class="product_label" style="background-color: #FF671F;">/В</li>
-                                        </ul>
-                                    </a>
-                                </div>
-                                <div class="product_title">
-                                    <a href="/sklyani-dveri-dlya-dushu-colombo-2-1131">
-                                        Скляні двері для душу COLOMBO
-                                    </a>
-                                </div>
-                                <div class="product_price-wrap">
-                                        <div class="product_price" ><b  class="price">18915</b> <b >UAH</b> </div>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="swiper-slide">
-                            <div class="product js-product" data-price="2960">
-                                <div class="product_image-wrap">
-                                    <a class="product_image" href="/sklyani-dveri-dlya-dushu-colombo-2-1131-1134-1147-1159-1165">
-                                        <div class="img-default">
-                                            <picture>
-
-                                                <source id="main-img-source1" srcset="/uploads/products/725X725/stenli-930-kr-vrizna.webp" type="image/webp">
-                                                <source srcset="/uploads/products/725X725/stenli-930-kr-vrizna.jpg" type="image/png">
-                                                <img src="/uploads/products/725X725/stenli-930-kr-vrizna.jpg" alt="">
-                                            </picture>
-                                        </div>
-                                        <div class="img-hover">
-                                            <picture>
-                                                <source id="main-img-source1" srcset="/uploads/products/725X725/stenli-930-kr-vrizna.webp" type="image/webp">
-
-                                                <source srcset="/uploads/products/725X725/stenli-930-kr-vrizna.jpg" type="image/png">
-                                                <img src="/uploads/products/725X725/stenli-930-kr-vrizna.jpg" alt="">
-                                            </picture>
-                                        </div>
-
-                                        <ul class="product_labels">
-                                            <li class="product_label" style="background-color: #FF671F;">/В</li>
-                                        </ul>
-                                    </a>
-                                </div>
-                                <div class="product_title">
-                                    <a href="/sklyani-dveri-dlya-dushu-colombo-2-1131-1134-1147-1159-1165">
-                                        Скляні двері для душу COLOMBO
-                                    </a>
-                                </div>
-                                <div class="product_price-wrap">
-                                        <div class="product_price" ><b  class="price">19415</b> <b >UAH</b> </div>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="swiper-slide">
-                            <div class="product js-product" data-price="2960">
-                                <div class="product_image-wrap">
-                                    <a class="product_image" href="/sklyani-dveri-dlya-dushu-colombo-2-1131-1134">
-                                        <div class="img-default">
-                                            <picture>
-
-                                                <source id="main-img-source1" srcset="/uploads/products/725X725/stenli-loft-930-vrizna.webp" type="image/webp">
-                                                <source srcset="/uploads/products/725X725/stenli-loft-930-vrizna.jpg" type="image/png">
-                                                <img src="/uploads/products/725X725/stenli-loft-930-vrizna.jpg" alt="">
-                                            </picture>
-                                        </div>
-                                        <div class="img-hover">
-                                            <picture>
-                                                <source id="main-img-source1" srcset="/uploads/products/725X725/stenli-loft-930-vrizna.webp" type="image/webp">
-
-                                                <source srcset="/uploads/products/725X725/stenli-loft-930-vrizna.jpg" type="image/png">
-                                                <img src="/uploads/products/725X725/stenli-loft-930-vrizna.jpg" alt="">
-                                            </picture>
-                                        </div>
-
-                                        <ul class="product_labels">
-                                            <li class="product_label" style="background-color: #FF671F;">/В</li>
-                                        </ul>
-                                    </a>
-                                </div>
-                                <div class="product_title">
-                                    <a href="/sklyani-dveri-dlya-dushu-colombo-2-1131-1134">
-                                        Скляні двері для душу COLOMBO
-                                    </a>
-                                </div>
-                                <div class="product_price-wrap">
-                                        <div class="product_price" ><b  class="price">22800</b> <b >UAH</b> </div>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="swiper-slide">
-                            <div class="product js-product" data-price="2960">
-                                <div class="product_image-wrap">
-                                    <a class="product_image" href="/sklyani-dveri-dlya-dushu-colombo-2-1131-1134-1147-1150">
-                                        <div class="img-default">
-                                            <picture>
-
-                                                <source id="main-img-source1" srcset="/uploads/products/725X725/liri-930.webp" type="image/webp">
-                                                <source srcset="/uploads/products/725X725/liri-930.jpg" type="image/png">
-                                                <img src="/uploads/products/725X725/liri-930.jpg" alt="">
-                                            </picture>
-                                        </div>
-                                        <div class="img-hover">
-                                            <picture>
-                                                <source id="main-img-source1" srcset="/uploads/products/725X725/liri-930.webp" type="image/webp">
-
-                                                <source srcset="/uploads/products/725X725/liri-930.jpg" type="image/png">
-                                                <img src="/uploads/products/725X725/liri-930.jpg" alt="">
-                                            </picture>
-                                        </div>
-
-                                        <ul class="product_labels">
-                                            <li class="product_label" style="background-color: #FF671F;">/В</li>
-                                        </ul>
-                                    </a>
-                                </div>
-                                <div class="product_title">
-                                    <a href="/sklyani-dveri-dlya-dushu-colombo-2-1131-1134-1147-1150">
-                                        Скляні двері для душу COLOMBO
-                                    </a>
-                                </div>
-                                <div class="product_price-wrap">
-                                        <div class="product_price" ><b  class="price">6357</b> <b >UAH</b> </div>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="swiper-slide">
-                            <div class="product js-product" data-price="2960">
-                                <div class="product_image-wrap">
-                                    <a class="product_image" href="/sklyani-dveri-dlya-dushu-colombo-2-1131-1134-1147-1150-1153">
-                                        <div class="img-default">
-                                            <picture>
-
-                                                <source id="main-img-source1" srcset="/uploads/products/725X725/liri-loft-930.webp" type="image/webp">
-                                                <source srcset="/uploads/products/725X725/liri-loft-930.jpg" type="image/png">
-                                                <img src="/uploads/products/725X725/liri-loft-930.jpg" alt="">
-                                            </picture>
-                                        </div>
-                                        <div class="img-hover">
-                                            <picture>
-                                                <source id="main-img-source1" srcset="/uploads/products/725X725/liri-loft-930.webp" type="image/webp">
-
-                                                <source srcset="/uploads/products/725X725/liri-loft-930.jpg" type="image/png">
-                                                <img src="/uploads/products/725X725/liri-loft-930.jpg" alt="">
-                                            </picture>
-                                        </div>
-
-                                        <ul class="product_labels">
-                                            <li class="product_label" style="background-color: #FF671F;">/В</li>
-                                        </ul>
-                                    </a>
-                                </div>
-                                <div class="product_title">
-                                    <a href="/sklyani-dveri-dlya-dushu-colombo-2-1131-1134-1147-1150-1153">
-                                        Скляні двері для душу COLOMBO
-                                    </a>
-                                </div>
-                                <div class="product_price-wrap">
-                                        <div class="product_price" ><b  class="price">9428</b> <b >UAH</b> </div>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="swiper-slide">
-                            <div class="product js-product" data-price="2960">
-                                <div class="product_image-wrap">
-                                    <a class="product_image" href="/mega-dzerkalo-v-metaleviy-rami-trivor">
+                                    <a class="product_image" href="/dzerkalo-kamal-z-pidsvitkoyu">
                                         <div class="img-default">
                                             <picture>
 
                                                 
-                                                <source srcset="/uploads/products/725X725/1350-h-1620-trivor.png" type="image/png">
-                                                <img src="/uploads/products/725X725/1350-h-1620-trivor.png" alt="">
+                                                <source srcset="/uploads/products/725X725/kamal1.png" type="image/png">
+                                                <img src="/uploads/products/725X725/kamal1.png" alt="">
                                             </picture>
                                         </div>
                                         <div class="img-hover">
                                             <picture>
                                                 
 
-                                                <source srcset="/uploads/products/725X725/1350-h-1620-trivor.png" type="image/png">
-                                                <img src="/uploads/products/725X725/1350-h-1620-trivor.png" alt="">
+                                                <source srcset="/uploads/products/725X725/kamal1.png" type="image/png">
+                                                <img src="/uploads/products/725X725/kamal1.png" alt="">
                                             </picture>
                                         </div>
 
@@ -1059,33 +555,33 @@
                                     </a>
                                 </div>
                                 <div class="product_title">
-                                    <a href="/mega-dzerkalo-v-metaleviy-rami-trivor">
-                                        Mirror in a metal frame StudioGlass MEGA MIRROR TRIVOR
+                                    <a href="/dzerkalo-kamal-z-pidsvitkoyu">
+                                        The mirror of StudioGlass KAMAL rectangular with backlight
                                     </a>
                                 </div>
                                 <div class="product_price-wrap">
-                                        <div class="product_price" ><b  class="price">12600</b> <b >UAH</b> </div>
+                                        <div class="product_price" ><b  class="price">4955</b> <b >UAH</b> </div>
                                 </div>
                             </div>
                         </div>
                         <div class="swiper-slide">
                             <div class="product js-product" data-price="2960">
                                 <div class="product_image-wrap">
-                                    <a class="product_image" href="/mega-dzerkalo-v-metaleviy-rami-kamet">
+                                    <a class="product_image" href="/dzerkalo-salton-z-pidsvitkoyu-pryamokutne">
                                         <div class="img-default">
                                             <picture>
 
                                                 
-                                                <source srcset="/uploads/products/725X725/1350-h-1620-kamet.png" type="image/png">
-                                                <img src="/uploads/products/725X725/1350-h-1620-kamet.png" alt="">
+                                                <source srcset="/uploads/products/725X725/salton1.png" type="image/png">
+                                                <img src="/uploads/products/725X725/salton1.png" alt="">
                                             </picture>
                                         </div>
                                         <div class="img-hover">
                                             <picture>
                                                 
 
-                                                <source srcset="/uploads/products/725X725/1350-h-1620-kamet.png" type="image/png">
-                                                <img src="/uploads/products/725X725/1350-h-1620-kamet.png" alt="">
+                                                <source srcset="/uploads/products/725X725/salton1.png" type="image/png">
+                                                <img src="/uploads/products/725X725/salton1.png" alt="">
                                             </picture>
                                         </div>
 
@@ -1094,12 +590,505 @@
                                     </a>
                                 </div>
                                 <div class="product_title">
-                                    <a href="/mega-dzerkalo-v-metaleviy-rami-kamet">
-                                        Mirror in a metal frame StudioGlass MEGA MIRROR KAMET
+                                    <a href="/dzerkalo-salton-z-pidsvitkoyu-pryamokutne">
+                                        The mirror of StudioGlass SALTON  rectangular with backlight
                                     </a>
                                 </div>
                                 <div class="product_price-wrap">
-                                        <div class="product_price" ><b  class="price">14852</b> <b >UAH</b> </div>
+                                        <div class="product_price" ><b  class="price">4048</b> <b >UAH</b> </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="swiper-slide">
+                            <div class="product js-product" data-price="2960">
+                                <div class="product_image-wrap">
+                                    <a class="product_image" href="/dzerkalo-melvin-z-pidsvitkoyu-pryamokutne">
+                                        <div class="img-default">
+                                            <picture>
+
+                                                
+                                                <source srcset="/uploads/products/725X725/melvin1.png" type="image/png">
+                                                <img src="/uploads/products/725X725/melvin1.png" alt="">
+                                            </picture>
+                                        </div>
+                                        <div class="img-hover">
+                                            <picture>
+                                                
+
+                                                <source srcset="/uploads/products/725X725/melvin1.png" type="image/png">
+                                                <img src="/uploads/products/725X725/melvin1.png" alt="">
+                                            </picture>
+                                        </div>
+
+                                        <ul class="product_labels">
+                                        </ul>
+                                    </a>
+                                </div>
+                                <div class="product_title">
+                                    <a href="/dzerkalo-melvin-z-pidsvitkoyu-pryamokutne">
+                                        The mirror of StudioGlass MELVIN rectangular with frontlight
+                                    </a>
+                                </div>
+                                <div class="product_price-wrap">
+                                        <div class="product_price" ><b  class="price">4048</b> <b >UAH</b> </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="swiper-slide">
+                            <div class="product js-product" data-price="2960">
+                                <div class="product_image-wrap">
+                                    <a class="product_image" href="/dzerkalo-como-growth-z-pidsvitkoyu-971">
+                                        <div class="img-default">
+                                            <picture>
+
+                                                <source id="main-img-source1" srcset="/uploads/products/725X725/kerid-growth-png-930-kopiya.webp" type="image/webp">
+                                                <source srcset="/uploads/products/725X725/kerid-growth-png-930-kopiya.png" type="image/png">
+                                                <img src="/uploads/products/725X725/kerid-growth-png-930-kopiya.png" alt="">
+                                            </picture>
+                                        </div>
+                                        <div class="img-hover">
+                                            <picture>
+                                                <source id="main-img-source1" srcset="/uploads/products/725X725/kerid-growth-2-color-kvadrat-1000.webp" type="image/webp">
+
+                                                <source srcset="/uploads/products/725X725/kerid-growth-2-color-kvadrat-1000.jpg" type="image/png">
+                                                <img src="/uploads/products/725X725/kerid-growth-2-color-kvadrat-1000.jpg" alt="">
+                                            </picture>
+                                        </div>
+
+                                        <ul class="product_labels">
+                                        </ul>
+                                    </a>
+                                </div>
+                                <div class="product_title">
+                                    <a href="/dzerkalo-como-growth-z-pidsvitkoyu-971">
+                                        The mirror of StudioGlass COMO GROWTH with backlight
+                                    </a>
+                                </div>
+                                <div class="product_price-wrap">
+                                        <div class="product_price" ><b  class="price">7286</b> <b >UAH</b> </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="swiper-slide">
+                            <div class="product js-product" data-price="2960">
+                                <div class="product_image-wrap">
+                                    <a class="product_image" href="/dzerkalo-lucerne-z-fonovoyu-pidsvitkoyu">
+                                        <div class="img-default">
+                                            <picture>
+
+                                                <source id="main-img-source1" srcset="/uploads/products/725X725/lucerne-sayt-dark-930.webp" type="image/webp">
+                                                <source srcset="/uploads/products/725X725/lucerne-sayt-dark-930.jpg" type="image/png">
+                                                <img src="/uploads/products/725X725/lucerne-sayt-dark-930.jpg" alt="">
+                                            </picture>
+                                        </div>
+                                        <div class="img-hover">
+                                            <picture>
+                                                <source id="main-img-source1" srcset="/uploads/products/725X725/lucerne-sayt-svitlo-930.webp" type="image/webp">
+
+                                                <source srcset="/uploads/products/725X725/lucerne-sayt-svitlo-930.jpg" type="image/png">
+                                                <img src="/uploads/products/725X725/lucerne-sayt-svitlo-930.jpg" alt="">
+                                            </picture>
+                                        </div>
+
+                                        <ul class="product_labels">
+                                            <li class="product_label" style="background-color: #000000;">NEW</li>
+                                        </ul>
+                                    </a>
+                                </div>
+                                <div class="product_title">
+                                    <a href="/dzerkalo-lucerne-z-fonovoyu-pidsvitkoyu">
+                                        The mirror of StudioGlass LUCERNE with background lighting
+                                    </a>
+                                </div>
+                                <div class="product_price-wrap">
+                                        <div class="product_price" ><b  class="price">6456</b> <b >UAH</b> </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="swiper-slide">
+                            <div class="product js-product" data-price="2960">
+                                <div class="product_image-wrap">
+                                    <a class="product_image" href="/dzerkalo-melissani-ovalne">
+                                        <div class="img-default">
+                                            <picture>
+
+                                                
+                                                <source srcset="/uploads/products/725X725/melissani1.png" type="image/png">
+                                                <img src="/uploads/products/725X725/melissani1.png" alt="">
+                                            </picture>
+                                        </div>
+                                        <div class="img-hover">
+                                            <picture>
+                                                <source id="main-img-source1" srcset="/uploads/products/725X725/melissani-1-930.webp" type="image/webp">
+
+                                                <source srcset="/uploads/products/725X725/melissani-1-930.jpg" type="image/png">
+                                                <img src="/uploads/products/725X725/melissani-1-930.jpg" alt="">
+                                            </picture>
+                                        </div>
+
+                                        <ul class="product_labels">
+                                            <li class="product_label" style="background-color: #000000;">NEW</li>
+                                        </ul>
+                                    </a>
+                                </div>
+                                <div class="product_title">
+                                    <a href="/dzerkalo-melissani-ovalne">
+                                        The mirror of StudioGlass MELISSANI oval with background lighting
+                                    </a>
+                                </div>
+                                <div class="product_price-wrap">
+                                        <div class="product_price" ><b  class="price">6456</b> <b >UAH</b> </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="swiper-slide">
+                            <div class="product js-product" data-price="2960">
+                                <div class="product_image-wrap">
+                                    <a class="product_image" href="/dzerkalo-blossom-ovalne">
+                                        <div class="img-default">
+                                            <picture>
+
+                                                <source id="main-img-source1" srcset="/uploads/products/725X725/blossom-930.webp" type="image/webp">
+                                                <source srcset="/uploads/products/725X725/blossom-930.jpg" type="image/png">
+                                                <img src="/uploads/products/725X725/blossom-930.jpg" alt="">
+                                            </picture>
+                                        </div>
+                                        <div class="img-hover">
+                                            <picture>
+                                                <source id="main-img-source1" srcset="/uploads/products/725X725/blossom-930.webp" type="image/webp">
+
+                                                <source srcset="/uploads/products/725X725/blossom-930.jpg" type="image/png">
+                                                <img src="/uploads/products/725X725/blossom-930.jpg" alt="">
+                                            </picture>
+                                        </div>
+
+                                        <ul class="product_labels">
+                                        </ul>
+                                    </a>
+                                </div>
+                                <div class="product_title">
+                                    <a href="/dzerkalo-blossom-ovalne">
+                                        The mirror of StudioGlass BLOSSOM oval with front lighting
+                                    </a>
+                                </div>
+                                <div class="product_price-wrap">
+                                        <div class="product_price" ><b  class="price">5247</b> <b >UAH</b> </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="swiper-slide">
+                            <div class="product js-product" data-price="2960">
+                                <div class="product_image-wrap">
+                                    <a class="product_image" href="/dzerkalo-moon-z-pidsvitkoyu-pivkolo">
+                                        <div class="img-default">
+                                            <picture>
+
+                                                <source id="main-img-source1" srcset="/uploads/products/725X725/moon-off2-sq-930.webp" type="image/webp">
+                                                <source srcset="/uploads/products/725X725/moon-off2-sq-930.jpg" type="image/png">
+                                                <img src="/uploads/products/725X725/moon-off2-sq-930.jpg" alt="">
+                                            </picture>
+                                        </div>
+                                        <div class="img-hover">
+                                            <picture>
+                                                <source id="main-img-source1" srcset="/uploads/products/725X725/moon-on2-sq-930.webp" type="image/webp">
+
+                                                <source srcset="/uploads/products/725X725/moon-on2-sq-930.jpg" type="image/png">
+                                                <img src="/uploads/products/725X725/moon-on2-sq-930.jpg" alt="">
+                                            </picture>
+                                        </div>
+
+                                        <ul class="product_labels">
+                                            <li class="product_label" style="background-color: #000000;">NEW</li>
+                                        </ul>
+                                    </a>
+                                </div>
+                                <div class="product_title">
+                                    <a href="/dzerkalo-moon-z-pidsvitkoyu-pivkolo">
+                                        The mirror of StudioGlass MOON semicircle with backlight
+                                    </a>
+                                </div>
+                                <div class="product_price-wrap">
+                                        <div class="product_price" ><b  class="price">4340</b> <b >UAH</b> </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="swiper-slide">
+                            <div class="product js-product" data-price="2960">
+                                <div class="product_image-wrap">
+                                    <a class="product_image" href="/dzerkalo-resia-pryamokutne-z-matovoyu-ramkoyu">
+                                        <div class="img-default">
+                                            <picture>
+
+                                                
+                                                <source srcset="/uploads/products/725X725/resia.jpg" type="image/png">
+                                                <img src="/uploads/products/725X725/resia.jpg" alt="">
+                                            </picture>
+                                        </div>
+                                        <div class="img-hover">
+                                            <picture>
+                                                
+
+                                                <source srcset="/uploads/products/725X725/resia.jpg" type="image/png">
+                                                <img src="/uploads/products/725X725/resia.jpg" alt="">
+                                            </picture>
+                                        </div>
+
+                                        <ul class="product_labels">
+                                        </ul>
+                                    </a>
+                                </div>
+                                <div class="product_title">
+                                    <a href="/dzerkalo-resia-pryamokutne-z-matovoyu-ramkoyu">
+                                        The mirror of StudioGlass RESIA rectangular with background lighting and matte frame
+                                    </a>
+                                </div>
+                                <div class="product_price-wrap">
+                                        <div class="product_price" ><b  class="price">5098</b> <b >UAH</b> </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="swiper-slide">
+                            <div class="product js-product" data-price="2960">
+                                <div class="product_image-wrap">
+                                    <a class="product_image" href="/dzerkalo-kerid-z-pidsvitkoyu-pryamokutne">
+                                        <div class="img-default">
+                                            <picture>
+
+                                                
+                                                <source srcset="/uploads/products/725X725/kerid1.png" type="image/png">
+                                                <img src="/uploads/products/725X725/kerid1.png" alt="">
+                                            </picture>
+                                        </div>
+                                        <div class="img-hover">
+                                            <picture>
+                                                
+
+                                                <source srcset="/uploads/products/725X725/kerid1.png" type="image/png">
+                                                <img src="/uploads/products/725X725/kerid1.png" alt="">
+                                            </picture>
+                                        </div>
+
+                                        <ul class="product_labels">
+                                        </ul>
+                                    </a>
+                                </div>
+                                <div class="product_title">
+                                    <a href="/dzerkalo-kerid-z-pidsvitkoyu-pryamokutne">
+                                        The mirror of StudioGlass KERID rectangular with backlight
+                                    </a>
+                                </div>
+                                <div class="product_price-wrap">
+                                        <div class="product_price" ><b  class="price">4048</b> <b >UAH</b> </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="swiper-slide">
+                            <div class="product js-product" data-price="2960">
+                                <div class="product_image-wrap">
+                                    <a class="product_image" href="/dzerkalo-buffalo-z-pidsvitkoyu-pryamokutne">
+                                        <div class="img-default">
+                                            <picture>
+
+                                                <source id="main-img-source1" srcset="/uploads/products/725X725/buffalo.webp" type="image/webp">
+                                                <source srcset="/uploads/products/725X725/buffalo.jpg" type="image/png">
+                                                <img src="/uploads/products/725X725/buffalo.jpg" alt="">
+                                            </picture>
+                                        </div>
+                                        <div class="img-hover">
+                                            <picture>
+                                                <source id="main-img-source1" srcset="/uploads/products/725X725/buffalo.webp" type="image/webp">
+
+                                                <source srcset="/uploads/products/725X725/buffalo.jpg" type="image/png">
+                                                <img src="/uploads/products/725X725/buffalo.jpg" alt="">
+                                            </picture>
+                                        </div>
+
+                                        <ul class="product_labels">
+                                        </ul>
+                                    </a>
+                                </div>
+                                <div class="product_title">
+                                    <a href="/dzerkalo-buffalo-z-pidsvitkoyu-pryamokutne">
+                                        The mirror of StudioGlass BUFFALO rectangular with backlight
+                                    </a>
+                                </div>
+                                <div class="product_price-wrap">
+                                        <div class="product_price" ><b  class="price">3618</b> <b >UAH</b> </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="swiper-slide">
+                            <div class="product js-product" data-price="2960">
+                                <div class="product_image-wrap">
+                                    <a class="product_image" href="/dzerkalo-como-z-pidsvitkoyu-pryamokutne">
+                                        <div class="img-default">
+                                            <picture>
+
+                                                
+                                                <source srcset="/uploads/products/725X725/como1.png" type="image/png">
+                                                <img src="/uploads/products/725X725/como1.png" alt="">
+                                            </picture>
+                                        </div>
+                                        <div class="img-hover">
+                                            <picture>
+                                                
+
+                                                <source srcset="/uploads/products/725X725/como1.png" type="image/png">
+                                                <img src="/uploads/products/725X725/como1.png" alt="">
+                                            </picture>
+                                        </div>
+
+                                        <ul class="product_labels">
+                                        </ul>
+                                    </a>
+                                </div>
+                                <div class="product_title">
+                                    <a href="/dzerkalo-como-z-pidsvitkoyu-pryamokutne">
+                                        The mirror of StudioGlass COMO rectangular with backlight
+                                    </a>
+                                </div>
+                                <div class="product_price-wrap">
+                                        <div class="product_price" ><b  class="price">4048</b> <b >UAH</b> </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="swiper-slide">
+                            <div class="product js-product" data-price="2960">
+                                <div class="product_image-wrap">
+                                    <a class="product_image" href="/merage">
+                                        <div class="img-default">
+                                            <picture>
+
+                                                <source id="main-img-source1" srcset="/uploads/products/725X725/blank_0000_meerauge.webp" type="image/webp">
+                                                <source srcset="/uploads/products/725X725/blank_0000_meerauge.jpg" type="image/png">
+                                                <img src="/uploads/products/725X725/blank_0000_meerauge.jpg" alt="">
+                                            </picture>
+                                        </div>
+                                        <div class="img-hover">
+                                            <picture>
+                                                
+
+                                                <source srcset="/uploads/products/725X725/930-x-930-meerauge.png" type="image/png">
+                                                <img src="/uploads/products/725X725/930-x-930-meerauge.png" alt="">
+                                            </picture>
+                                        </div>
+
+                                        <ul class="product_labels">
+                                        </ul>
+                                    </a>
+                                </div>
+                                <div class="product_title">
+                                    <a href="/merage">
+                                        Round mirror on a combined leather belt StudioGlass MEERAUGE 
+                                    </a>
+                                </div>
+                                <div class="product_price-wrap">
+                                        <div class="product_price" ><b  class="price">3425</b> <b >UAH</b> </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="swiper-slide">
+                            <div class="product js-product" data-price="2960">
+                                <div class="product_image-wrap">
+                                    <a class="product_image" href="/dzerkalo-moraine-z-pidsvitkoyu-krugle">
+                                        <div class="img-default">
+                                            <picture>
+
+                                                
+                                                <source srcset="/uploads/products/725X725/moraine1.png" type="image/png">
+                                                <img src="/uploads/products/725X725/moraine1.png" alt="">
+                                            </picture>
+                                        </div>
+                                        <div class="img-hover">
+                                            <picture>
+                                                
+
+                                                <source srcset="/uploads/products/725X725/moraine1.png" type="image/png">
+                                                <img src="/uploads/products/725X725/moraine1.png" alt="">
+                                            </picture>
+                                        </div>
+
+                                        <ul class="product_labels">
+                                        </ul>
+                                    </a>
+                                </div>
+                                <div class="product_title">
+                                    <a href="/dzerkalo-moraine-z-pidsvitkoyu-krugle">
+                                        The mirror of StudioGlass MORAINE round with backlight
+                                    </a>
+                                </div>
+                                <div class="product_price-wrap">
+                                        <div class="product_price" ><b  class="price">3517</b> <b >UAH</b> </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="swiper-slide">
+                            <div class="product js-product" data-price="2960">
+                                <div class="product_image-wrap">
+                                    <a class="product_image" href="/dzerkalo-rico">
+                                        <div class="img-default">
+                                            <picture>
+
+                                                <source id="main-img-source1" srcset="/uploads/products/725X725/rico-studioglass-mirror.webp" type="image/webp">
+                                                <source srcset="/uploads/products/725X725/rico-studioglass-mirror.png" type="image/png">
+                                                <img src="/uploads/products/725X725/rico-studioglass-mirror.png" alt="">
+                                            </picture>
+                                        </div>
+                                        <div class="img-hover">
+                                            <picture>
+                                                <source id="main-img-source1" srcset="/uploads/products/725X725/rico-studioglass-mirror.webp" type="image/webp">
+
+                                                <source srcset="/uploads/products/725X725/rico-studioglass-mirror.png" type="image/png">
+                                                <img src="/uploads/products/725X725/rico-studioglass-mirror.png" alt="">
+                                            </picture>
+                                        </div>
+
+                                        <ul class="product_labels">
+                                        </ul>
+                                    </a>
+                                </div>
+                                <div class="product_title">
+                                    <a href="/dzerkalo-rico">
+                                        The mirror of StudioGlass RICO round with backlight
+                                    </a>
+                                </div>
+                                <div class="product_price-wrap">
+                                        <div class="product_price" ><b  class="price">3314</b> <b >UAH</b> </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="swiper-slide">
+                            <div class="product js-product" data-price="2960">
+                                <div class="product_image-wrap">
+                                    <a class="product_image" href="/dzerkalo-agnes">
+                                        <div class="img-default">
+                                            <picture>
+
+                                                
+                                                <source srcset="/uploads/products/725X725/agnes1.png" type="image/png">
+                                                <img src="/uploads/products/725X725/agnes1.png" alt="">
+                                            </picture>
+                                        </div>
+                                        <div class="img-hover">
+                                            <picture>
+                                                
+
+                                                <source srcset="/uploads/products/725X725/930-x-930-agnes.png" type="image/png">
+                                                <img src="/uploads/products/725X725/930-x-930-agnes.png" alt="">
+                                            </picture>
+                                        </div>
+
+                                        <ul class="product_labels">
+                                        </ul>
+                                    </a>
+                                </div>
+                                <div class="product_title">
+                                    <a href="/dzerkalo-agnes">
+                                        The mirror of StudioGlass AGNES round with backlight
+                                    </a>
+                                </div>
+                                <div class="product_price-wrap">
+                                        <div class="product_price" ><b  class="price">3018</b> <b >UAH</b> </div>
                                 </div>
                             </div>
                         </div>
@@ -1138,9 +1127,9 @@
         <!-- FOOTER -->
         <footer>
             <footer itemscope itemtype="http://schema.org/Organization">
-                <meta itemprop="url" content="https://armourglass.shop/">
+                <meta itemprop="url" content="https://studioglass.ua/">
                 <meta itemprop="telephone" content="+380800330836">
-                <meta itemprop="logo" content="https://armourglass.shop/uploads/original/logo-b.svg">
+                <meta itemprop="logo" content="https://studioglass.ua/uploads/original/logo-b.svg">
                 <meta itemprop="name" content="Studioglass">
                 <meta itemprop="description" content="Львівська Фабрика Дзеркал ⭐ Studio Glass ✓ Дзеркала з підсвіткою ✓ Дзеркала в рамі ✓ Душові кабіни ✓ Великі дзеркала ☎️ +38(080)033-08-36.">
                 <div class="container">
@@ -1370,7 +1359,7 @@
         <div class="cookies-informer-inner">
             <div class="text text-popup-dark">
                 <p>Our site uses cookies to distinguish you from other users of our site. This allows us to provide convenient viewing of our site, and also allows us to improve it</p>
-<p><a href="https://armourglass.shop/en/privat-policy-en" target="_blank" rel="noopener">Cookies policy</a></p>
+<p><a href="https://studioglass.ua/en/privat-policy-en" target="_blank" rel="noopener">Cookies policy</a></p>
             </div>
             <div class="btn close-cookies cookie-popup-agree-btn">accept</div>
         </div>
@@ -1826,9 +1815,17 @@
             </div>
         </div>
     
+        <!-- Shower schema popup  -->
+        <div class="popup-content shower-schema-popup" data-rel="shower-schema-popup">
+            <div class="layer-close"></div>
+            <div class="popup-container size-3 shower-schema-content">
+            <button class="btn-close close-popup"></button>
+            </div>
+        </div>
+    
     </div>    <link href="/css/swiper-bundle.min.css" rel="stylesheet" type="text/css" />
-    <link href="/css/sumoselect.min.css" rel="stylesheet" type="text/css" />
-    <link href="/css/style.css?v=1.2" rel="stylesheet" type="text/css" />
+    <link href="/css/sumoselect.min.css?v=1.0" rel="stylesheet" type="text/css" />
+    <link href="/css/style.css?v=1.3" rel="stylesheet" type="text/css" />
     
     
     <script defer src="/js/jquery.min.js"></script>
@@ -1840,17 +1837,17 @@
     <script defer src="/js/jquery.inputmask.min.js"></script>
     <script defer src="/js/jquery.sumoselect.min.js"></script>
     <script defer src="/js/jquery-ui.min.js"></script>
-    <script defer src="/js/global.js?v=2.2"></script>
+    <script defer src="/js/global.js?v=2.5"></script>
     <!-- can be disabled on mobile device -->
     <script defer src="/js/SmoothScroll.js"></script>
     <script defer src="/js/jquery.sticky-kit.min.js"></script>
     <script defer src="/js/custom.js?v=1.1"></script>
     <script defer src="/js/pagination.js?v=1.0"></script>
-    <link href="/css/ion.rangeSlider.min.css" rel="stylesheet" type="text/css" />
-    <link href="/css/rangeSliderCustom.css" rel="stylesheet" type="text/css" />
+    <link href="/css/ion.rangeSlider.min.css?v=1.0" rel="stylesheet" type="text/css" />
+    <link href="/css/rangeSliderCustom.css?v=1.0" rel="stylesheet" type="text/css" />
     <script defer src="/js/ion.rangeSlider.min.js"></script>
     <script defer src="/js/rangeSliderCustom.js"></script>
-    <link href="/css/SumoselectCustom.css" rel="stylesheet" type="text/css" />
+    <link href="/css/SumoselectCustom.css?v=1.0" rel="stylesheet" type="text/css" />
     <script defer src="/js/jquery.sumoselect.min.js"></script>
     <script defer src="/js/sumoselectCustom.js"></script>
     <script defer src="/js/ScrollMagic.min.js"></script>

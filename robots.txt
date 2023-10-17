@@ -6,4 +6,4 @@ Disallow: /auth
 Disallow: /configurator
 Disallow: /?
 
-Sitemap: https://armourglass.shop/sitemap.xml
+Sitemap: https://studioglass.ua/sitemap.xml

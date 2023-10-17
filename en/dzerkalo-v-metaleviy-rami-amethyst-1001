@@ -29,12 +29,12 @@
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=0" />
     <meta name="google-site-verification" content="_TssH0mwWwYlp7QE3SXnnyjrfpdPCnsAnNmcgxrhnvQ" />
     <link href="/css/bootstrap-grid.min.css" rel="stylesheet" type="text/css" />
-    <link href="/css/main.css" rel="stylesheet" type="text/css" />
+    <link href="/css/main.css?v=1.0" rel="stylesheet" type="text/css" />
     <link href="/css/custom.css?v=1.1" rel="stylesheet" type="text/css" />
     <link rel="shortcut icon" href="/img/favicon.ico" />
     <title>➤ Buy Mirror in a metal frame StudioGlass AMETHYST - Studio Glass</title>
 <meta name="description" content="Buy Mirror in a metal frame StudioGlass AMETHYST - Lviv Mirror Factory ⭐ Studio Glass ✓ 36 Months Warranty ✓ Expertise in Glass Manufacturing - 7 years ☎️ +38(080)033-08-36.">
-<base href="https://armourglass.shop">
+<base href="https://studioglass.ua">
 
 </head>
 
@@ -264,7 +264,7 @@
                         <ul class="social">
                             <li>
                                  
-                                <a href="https://www.instagram.com/armourglass.shop" target="_blank">
+                                <a href="https://www.instagram.com/studioglass.ua" target="_blank">
                                         <img class="s-icon-b" src="/uploads/pages/original/instagram-b_1.svg" alt="">
                                 </a>
                             </li>
@@ -623,7 +623,7 @@
                                 <input value="1" readonly="" tabindex="-1">
                                 <button type="button" class="increment" data-max="100000"></button>
                             </div>
-                            <button class="btn btn-secondary order-btn add_to-cart"
+                            <button class="btn btn-secondary order-btn add_to-cart prod-detail-btn"
                             data-product_id= "999" 
                             data-total_price="8570"
                                 data-s=400 data-h=1230
@@ -913,54 +913,57 @@
                         <div class="swiper-slide">
                             <div class="product js-product" data-price="2960">
                                 <div class="product_image-wrap">
-                                    <a class="product_image" href="/dzerkalo-v-derev-yaniy-rami-studioglass-black-water-krugle">
+                                    <a class="product_image" href="/sklyani-dveri-dlya-dushu-angel-1180-1186">
                                         <div class="img-default">
                                             <picture>
-                                                <source id="main-img-source1" srcset="/uploads/products/725X725/black-water_0003_black-water.webp" type="image/webp">
+                                                <source id="main-img-source1" srcset="/uploads/products/725X725/smith-930.webp" type="image/webp">
 
-                                                <source srcset="/uploads/products/725X725/black-water_0003_black-water.jpg" type="image/png">
-                                                <img src="/uploads/products/725X725/black-water_0003_black-water.jpg" alt="">
+                                                <source srcset="/uploads/products/725X725/smith-930.jpg" type="image/png">
+                                                <img src="/uploads/products/725X725/smith-930.jpg" alt="">
                                             </picture>
                                         </div>
                                         <div class="img-hover">
                                             <picture>
-                                                <source id="main-img-source1" srcset="/uploads/products/725X725/blank_0000_classic_1.webp" type="image/webp">
-                                                <source srcset="/uploads/products/725X725/blank_0000_classic_1.jpg" type="image/png">
-                                                <img src="/uploads/products/725X725/blank_0000_classic_1.jpg" alt="">
+                                                <source id="main-img-source1" srcset="/uploads/products/725X725/smith-930.webp" type="image/webp">
+
+                                                <source srcset="/uploads/products/725X725/smith-930.jpg" type="image/png">
+                                                <img src="/uploads/products/725X725/smith-930.jpg" alt="">
                                             </picture>
                                         </div>
 
                                         <ul class="product_labels">
+                                            <li class="product_label" style="background-color: #000000;">NEW</li>
                                         </ul>
                                     </a>
                                 </div>
                                 <div class="product_title">
-                                    <a href="/dzerkalo-v-derev-yaniy-rami-studioglass-black-water-krugle" >
-                                        Дзеркало в дерев&#x27;яній рамі StudioGlass Black Mirror кругле
+                                    <a href="/sklyani-dveri-dlya-dushu-angel-1180-1186" >
+                                        Glass shower door ANGEL
                                     </a>
                                 </div>
                                 <div class="product_price-wrap" >
-                                        <div class="product_price" ><b itemprop="price" class="price">3982</b> <b >UAH</b> </div>
+                                        <div class="product_price" ><b itemprop="price" class="price">33670</b> <b >UAH</b> </div>
                                 </div>
                             </div>
                         </div>
                         <div class="swiper-slide">
                             <div class="product js-product" data-price="2960">
                                 <div class="product_image-wrap">
-                                    <a class="product_image" href="/dzerkalo-v-derev-yaniy-rami-studioglass-black-mirror-krugle-1210">
+                                    <a class="product_image" href="/sklyana-dushova-kabina-grand">
                                         <div class="img-default">
                                             <picture>
-                                                <source id="main-img-source1" srcset="/uploads/products/725X725/black-water_0002_shiny-desert.webp" type="image/webp">
+                                                <source id="main-img-source1" srcset="/uploads/products/725X725/grand-930.webp" type="image/webp">
 
-                                                <source srcset="/uploads/products/725X725/black-water_0002_shiny-desert.jpg" type="image/png">
-                                                <img src="/uploads/products/725X725/black-water_0002_shiny-desert.jpg" alt="">
+                                                <source srcset="/uploads/products/725X725/grand-930.jpg" type="image/png">
+                                                <img src="/uploads/products/725X725/grand-930.jpg" alt="">
                                             </picture>
                                         </div>
                                         <div class="img-hover">
                                             <picture>
-                                                <source id="main-img-source1" srcset="/uploads/products/725X725/blank_0000_classic_1.webp" type="image/webp">
-                                                <source srcset="/uploads/products/725X725/blank_0000_classic_1.jpg" type="image/png">
-                                                <img src="/uploads/products/725X725/blank_0000_classic_1.jpg" alt="">
+                                                <source id="main-img-source1" srcset="/uploads/products/725X725/grand-930.webp" type="image/webp">
+
+                                                <source srcset="/uploads/products/725X725/grand-930.jpg" type="image/png">
+                                                <img src="/uploads/products/725X725/grand-930.jpg" alt="">
                                             </picture>
                                         </div>
 
@@ -969,32 +972,33 @@
                                     </a>
                                 </div>
                                 <div class="product_title">
-                                    <a href="/dzerkalo-v-derev-yaniy-rami-studioglass-black-mirror-krugle-1210" >
-                                        Дзеркало в дерев&#x27;яній рамі StudioGlass Black Mirror кругле
+                                    <a href="/sklyana-dushova-kabina-grand" >
+                                        Glass shower box GRAND
                                     </a>
                                 </div>
                                 <div class="product_price-wrap" >
-                                        <div class="product_price" ><b itemprop="price" class="price">3982</b> <b >UAH</b> </div>
+                                        <div class="product_price" ><b itemprop="price" class="price">23545</b> <b >UAH</b> </div>
                                 </div>
                             </div>
                         </div>
                         <div class="swiper-slide">
                             <div class="product js-product" data-price="2960">
                                 <div class="product_image-wrap">
-                                    <a class="product_image" href="/dzerkalo-v-derev-yaniy-rami-studioglass-black-mirror-krugle-1210-1213">
+                                    <a class="product_image" href="/sklyana-peregorodka-dlya-dushu-virginia">
                                         <div class="img-default">
                                             <picture>
-                                                <source id="main-img-source1" srcset="/uploads/products/725X725/black-water_0001_red-fire.webp" type="image/webp">
+                                                <source id="main-img-source1" srcset="/uploads/products/725X725/virginia-930.webp" type="image/webp">
 
-                                                <source srcset="/uploads/products/725X725/black-water_0001_red-fire.jpg" type="image/png">
-                                                <img src="/uploads/products/725X725/black-water_0001_red-fire.jpg" alt="">
+                                                <source srcset="/uploads/products/725X725/virginia-930.jpg" type="image/png">
+                                                <img src="/uploads/products/725X725/virginia-930.jpg" alt="">
                                             </picture>
                                         </div>
                                         <div class="img-hover">
                                             <picture>
-                                                <source id="main-img-source1" srcset="/uploads/products/725X725/blank_0000_classic_1.webp" type="image/webp">
-                                                <source srcset="/uploads/products/725X725/blank_0000_classic_1.jpg" type="image/png">
-                                                <img src="/uploads/products/725X725/blank_0000_classic_1.jpg" alt="">
+                                                <source id="main-img-source1" srcset="/uploads/products/725X725/virginia-930.webp" type="image/webp">
+
+                                                <source srcset="/uploads/products/725X725/virginia-930.jpg" type="image/png">
+                                                <img src="/uploads/products/725X725/virginia-930.jpg" alt="">
                                             </picture>
                                         </div>
 
@@ -1003,32 +1007,33 @@
                                     </a>
                                 </div>
                                 <div class="product_title">
-                                    <a href="/dzerkalo-v-derev-yaniy-rami-studioglass-black-mirror-krugle-1210-1213" >
-                                        Дзеркало в дерев&#x27;яній рамі StudioGlass Black Mirror кругле
+                                    <a href="/sklyana-peregorodka-dlya-dushu-virginia" >
+                                        Glass shower partition VIRGINIA
                                     </a>
                                 </div>
                                 <div class="product_price-wrap" >
-                                        <div class="product_price" ><b itemprop="price" class="price">3982</b> <b >UAH</b> </div>
+                                        <div class="product_price" ><b itemprop="price" class="price">12957</b> <b >UAH</b> </div>
                                 </div>
                             </div>
                         </div>
                         <div class="swiper-slide">
                             <div class="product js-product" data-price="2960">
                                 <div class="product_image-wrap">
-                                    <a class="product_image" href="/dzerkalo-v-derev-yaniy-rami-studioglass-black-mirror-krugle-1210-1213-1216">
+                                    <a class="product_image" href="/sklyani-dveri-dlya-dushu-force">
                                         <div class="img-default">
                                             <picture>
-                                                <source id="main-img-source1" srcset="/uploads/products/725X725/black-water_0000_frost-wind.webp" type="image/webp">
+                                                <source id="main-img-source1" srcset="/uploads/products/725X725/force-930.webp" type="image/webp">
 
-                                                <source srcset="/uploads/products/725X725/black-water_0000_frost-wind.jpg" type="image/png">
-                                                <img src="/uploads/products/725X725/black-water_0000_frost-wind.jpg" alt="">
+                                                <source srcset="/uploads/products/725X725/force-930.jpg" type="image/png">
+                                                <img src="/uploads/products/725X725/force-930.jpg" alt="">
                                             </picture>
                                         </div>
                                         <div class="img-hover">
                                             <picture>
-                                                <source id="main-img-source1" srcset="/uploads/products/725X725/blank_0000_classic.webp" type="image/webp">
-                                                <source srcset="/uploads/products/725X725/blank_0000_classic.jpg" type="image/png">
-                                                <img src="/uploads/products/725X725/blank_0000_classic.jpg" alt="">
+                                                <source id="main-img-source1" srcset="/uploads/products/725X725/force-930.webp" type="image/webp">
+
+                                                <source srcset="/uploads/products/725X725/force-930.jpg" type="image/png">
+                                                <img src="/uploads/products/725X725/force-930.jpg" alt="">
                                             </picture>
                                         </div>
 
@@ -1037,66 +1042,69 @@
                                     </a>
                                 </div>
                                 <div class="product_title">
-                                    <a href="/dzerkalo-v-derev-yaniy-rami-studioglass-black-mirror-krugle-1210-1213-1216" >
-                                        Дзеркало в дерев&#x27;яній рамі StudioGlass Black Mirror кругле
+                                    <a href="/sklyani-dveri-dlya-dushu-force" >
+                                        Glass shower door FORCE
                                     </a>
                                 </div>
                                 <div class="product_price-wrap" >
-                                        <div class="product_price" ><b itemprop="price" class="price">3982</b> <b >UAH</b> </div>
+                                        <div class="product_price" ><b itemprop="price" class="price">15846</b> <b >UAH</b> </div>
                                 </div>
                             </div>
                         </div>
                         <div class="swiper-slide">
                             <div class="product js-product" data-price="2960">
                                 <div class="product_image-wrap">
-                                    <a class="product_image" href="/dzerkalo-v-derev-yaniy-rami-studioglass-black-mirror-krugle-1210-1213-1216-1254">
+                                    <a class="product_image" href="/sklyana-dushova-kabina-grand-1177">
                                         <div class="img-default">
                                             <picture>
-                                                <source id="main-img-source1" srcset="/uploads/products/725X725/blank_0001_frost-wind-strap-classic.webp" type="image/webp">
+                                                <source id="main-img-source1" srcset="/uploads/products/725X725/detian-930.webp" type="image/webp">
 
-                                                <source srcset="/uploads/products/725X725/blank_0001_frost-wind-strap-classic.jpg" type="image/png">
-                                                <img src="/uploads/products/725X725/blank_0001_frost-wind-strap-classic.jpg" alt="">
+                                                <source srcset="/uploads/products/725X725/detian-930.jpg" type="image/png">
+                                                <img src="/uploads/products/725X725/detian-930.jpg" alt="">
                                             </picture>
                                         </div>
                                         <div class="img-hover">
                                             <picture>
-                                                <source id="main-img-source1" srcset="/uploads/products/725X725/blank_0002_classic-strap.webp" type="image/webp">
-                                                <source srcset="/uploads/products/725X725/blank_0002_classic-strap.jpg" type="image/png">
-                                                <img src="/uploads/products/725X725/blank_0002_classic-strap.jpg" alt="">
+                                                <source id="main-img-source1" srcset="/uploads/products/725X725/detian-930.webp" type="image/webp">
+
+                                                <source srcset="/uploads/products/725X725/detian-930.jpg" type="image/png">
+                                                <img src="/uploads/products/725X725/detian-930.jpg" alt="">
                                             </picture>
                                         </div>
 
                                         <ul class="product_labels">
+                                            <li class="product_label" style="background-color: #000000;">NEW</li>
                                         </ul>
                                     </a>
                                 </div>
                                 <div class="product_title">
-                                    <a href="/dzerkalo-v-derev-yaniy-rami-studioglass-black-mirror-krugle-1210-1213-1216-1254" >
-                                        Дзеркало в дерев&#x27;яній рамі StudioGlass Black Mirror кругле
+                                    <a href="/sklyana-dushova-kabina-grand-1177" >
+                                        Glass shower box GRAND
                                     </a>
                                 </div>
                                 <div class="product_price-wrap" >
-                                        <div class="product_price" ><b itemprop="price" class="price">6139</b> <b >UAH</b> </div>
+                                        <div class="product_price" ><b itemprop="price" class="price">38680</b> <b >UAH</b> </div>
                                 </div>
                             </div>
                         </div>
                         <div class="swiper-slide">
                             <div class="product js-product" data-price="2960">
                                 <div class="product_image-wrap">
-                                    <a class="product_image" href="/dzerkalo-v-derev-yaniy-rami-studioglass-black-mirror-krugle-1210-1213-1216-1254-1257">
+                                    <a class="product_image" href="/sklyana-peregorodka-dlya-dushu-bond">
                                         <div class="img-default">
                                             <picture>
-                                                <source id="main-img-source1" srcset="/uploads/products/725X725/blank_0002_red-fire-strap-classic.webp" type="image/webp">
+                                                <source id="main-img-source1" srcset="/uploads/products/725X725/bond-930.webp" type="image/webp">
 
-                                                <source srcset="/uploads/products/725X725/blank_0002_red-fire-strap-classic.jpg" type="image/png">
-                                                <img src="/uploads/products/725X725/blank_0002_red-fire-strap-classic.jpg" alt="">
+                                                <source srcset="/uploads/products/725X725/bond-930.jpg" type="image/png">
+                                                <img src="/uploads/products/725X725/bond-930.jpg" alt="">
                                             </picture>
                                         </div>
                                         <div class="img-hover">
                                             <picture>
-                                                <source id="main-img-source1" srcset="/uploads/products/725X725/blank_0002_classic-strap.webp" type="image/webp">
-                                                <source srcset="/uploads/products/725X725/blank_0002_classic-strap.jpg" type="image/png">
-                                                <img src="/uploads/products/725X725/blank_0002_classic-strap.jpg" alt="">
+                                                <source id="main-img-source1" srcset="/uploads/products/725X725/bond-930.webp" type="image/webp">
+
+                                                <source srcset="/uploads/products/725X725/bond-930.jpg" type="image/png">
+                                                <img src="/uploads/products/725X725/bond-930.jpg" alt="">
                                             </picture>
                                         </div>
 
@@ -1105,66 +1113,69 @@
                                     </a>
                                 </div>
                                 <div class="product_title">
-                                    <a href="/dzerkalo-v-derev-yaniy-rami-studioglass-black-mirror-krugle-1210-1213-1216-1254-1257" >
-                                        Дзеркало в дерев&#x27;яній рамі StudioGlass Black Mirror кругле
+                                    <a href="/sklyana-peregorodka-dlya-dushu-bond" >
+                                        Glass shower partition BOND
                                     </a>
                                 </div>
                                 <div class="product_price-wrap" >
-                                        <div class="product_price" ><b itemprop="price" class="price">6139</b> <b >UAH</b> </div>
+                                        <div class="product_price" ><b itemprop="price" class="price">8724</b> <b >UAH</b> </div>
                                 </div>
                             </div>
                         </div>
                         <div class="swiper-slide">
                             <div class="product js-product" data-price="2960">
                                 <div class="product_image-wrap">
-                                    <a class="product_image" href="/dzerkalo-v-derev-yaniy-rami-studioglass-black-mirror-krugle-1210-1213-1216-1254-1257-1260">
+                                    <a class="product_image" href="/sklyani-dveri-dlya-dushu-stenli-1192">
                                         <div class="img-default">
                                             <picture>
-                                                <source id="main-img-source1" srcset="/uploads/products/725X725/blank_0000_shiny-desert-strap-classic.webp" type="image/webp">
+                                                <source id="main-img-source1" srcset="/uploads/products/725X725/aber-930.webp" type="image/webp">
 
-                                                <source srcset="/uploads/products/725X725/blank_0000_shiny-desert-strap-classic.jpg" type="image/png">
-                                                <img src="/uploads/products/725X725/blank_0000_shiny-desert-strap-classic.jpg" alt="">
+                                                <source srcset="/uploads/products/725X725/aber-930.jpg" type="image/png">
+                                                <img src="/uploads/products/725X725/aber-930.jpg" alt="">
                                             </picture>
                                         </div>
                                         <div class="img-hover">
                                             <picture>
-                                                <source id="main-img-source1" srcset="/uploads/products/725X725/blank_0002_classic-strap.webp" type="image/webp">
-                                                <source srcset="/uploads/products/725X725/blank_0002_classic-strap.jpg" type="image/png">
-                                                <img src="/uploads/products/725X725/blank_0002_classic-strap.jpg" alt="">
+                                                <source id="main-img-source1" srcset="/uploads/products/725X725/aber-930.webp" type="image/webp">
+
+                                                <source srcset="/uploads/products/725X725/aber-930.jpg" type="image/png">
+                                                <img src="/uploads/products/725X725/aber-930.jpg" alt="">
                                             </picture>
                                         </div>
 
                                         <ul class="product_labels">
+                                            <li class="product_label" style="background-color: #000000;">NEW</li>
                                         </ul>
                                     </a>
                                 </div>
                                 <div class="product_title">
-                                    <a href="/dzerkalo-v-derev-yaniy-rami-studioglass-black-mirror-krugle-1210-1213-1216-1254-1257-1260" >
-                                        Дзеркало в дерев&#x27;яній рамі StudioGlass Black Mirror кругле
+                                    <a href="/sklyani-dveri-dlya-dushu-stenli-1192" >
+                                        Glass shower door STENLI
                                     </a>
                                 </div>
                                 <div class="product_price-wrap" >
-                                        <div class="product_price" ><b itemprop="price" class="price">6139</b> <b >UAH</b> </div>
+                                        <div class="product_price" ><b itemprop="price" class="price">15065</b> <b >UAH</b> </div>
                                 </div>
                             </div>
                         </div>
                         <div class="swiper-slide">
                             <div class="product js-product" data-price="2960">
                                 <div class="product_image-wrap">
-                                    <a class="product_image" href="/dzerkalo-v-derev-yaniy-rami-studioglass-black-mirror-krugle-1210-1213-1216-1254-1257-1260-1263">
+                                    <a class="product_image" href="/sklyana-dushova-kabina-victoria">
                                         <div class="img-default">
                                             <picture>
-                                                <source id="main-img-source1" srcset="/uploads/products/725X725/blank_0003_black-water-strap-classic.webp" type="image/webp">
+                                                <source id="main-img-source1" srcset="/uploads/products/725X725/victoria-930_1.webp" type="image/webp">
 
-                                                <source srcset="/uploads/products/725X725/blank_0003_black-water-strap-classic.jpg" type="image/png">
-                                                <img src="/uploads/products/725X725/blank_0003_black-water-strap-classic.jpg" alt="">
+                                                <source srcset="/uploads/products/725X725/victoria-930_1.jpg" type="image/png">
+                                                <img src="/uploads/products/725X725/victoria-930_1.jpg" alt="">
                                             </picture>
                                         </div>
                                         <div class="img-hover">
                                             <picture>
-                                                <source id="main-img-source1" srcset="/uploads/products/725X725/blank_0002_classic-strap.webp" type="image/webp">
-                                                <source srcset="/uploads/products/725X725/blank_0002_classic-strap.jpg" type="image/png">
-                                                <img src="/uploads/products/725X725/blank_0002_classic-strap.jpg" alt="">
+                                                <source id="main-img-source1" srcset="/uploads/products/725X725/victoria-930_1.webp" type="image/webp">
+
+                                                <source srcset="/uploads/products/725X725/victoria-930_1.jpg" type="image/png">
+                                                <img src="/uploads/products/725X725/victoria-930_1.jpg" alt="">
                                             </picture>
                                         </div>
 
@@ -1173,32 +1184,33 @@
                                     </a>
                                 </div>
                                 <div class="product_title">
-                                    <a href="/dzerkalo-v-derev-yaniy-rami-studioglass-black-mirror-krugle-1210-1213-1216-1254-1257-1260-1263" >
-                                        Дзеркало в дерев&#x27;яній рамі StudioGlass Black Mirror кругле
+                                    <a href="/sklyana-dushova-kabina-victoria" >
+                                        Glass shower box VICTORIA
                                     </a>
                                 </div>
                                 <div class="product_price-wrap" >
-                                        <div class="product_price" ><b itemprop="price" class="price">6139</b> <b >UAH</b> </div>
+                                        <div class="product_price" ><b itemprop="price" class="price">22451</b> <b >UAH</b> </div>
                                 </div>
                             </div>
                         </div>
                         <div class="swiper-slide">
                             <div class="product js-product" data-price="2960">
                                 <div class="product_image-wrap">
-                                    <a class="product_image" href="/dzerkalo-v-derev-yaniy-rami-studioglass-black-water-krugle-1266">
+                                    <a class="product_image" href="/sklyana-peregorodka-dlya-dushu-volio">
                                         <div class="img-default">
                                             <picture>
-                                                <source id="main-img-source1" srcset="/uploads/products/725X725/wood-mirror_0001s_0001_black-water-light.webp" type="image/webp">
+                                                <source id="main-img-source1" srcset="/uploads/products/725X725/volio-930.webp" type="image/webp">
 
-                                                <source srcset="/uploads/products/725X725/wood-mirror_0001s_0001_black-water-light.jpg" type="image/png">
-                                                <img src="/uploads/products/725X725/wood-mirror_0001s_0001_black-water-light.jpg" alt="">
+                                                <source srcset="/uploads/products/725X725/volio-930.jpg" type="image/png">
+                                                <img src="/uploads/products/725X725/volio-930.jpg" alt="">
                                             </picture>
                                         </div>
                                         <div class="img-hover">
                                             <picture>
-                                                <source id="main-img-source1" srcset="/uploads/products/725X725/blank_0001_classic-light.webp" type="image/webp">
-                                                <source srcset="/uploads/products/725X725/blank_0001_classic-light.jpg" type="image/png">
-                                                <img src="/uploads/products/725X725/blank_0001_classic-light.jpg" alt="">
+                                                <source id="main-img-source1" srcset="/uploads/products/725X725/volio-930.webp" type="image/webp">
+
+                                                <source srcset="/uploads/products/725X725/volio-930.jpg" type="image/png">
+                                                <img src="/uploads/products/725X725/volio-930.jpg" alt="">
                                             </picture>
                                         </div>
 
@@ -1207,32 +1219,33 @@
                                     </a>
                                 </div>
                                 <div class="product_title">
-                                    <a href="/dzerkalo-v-derev-yaniy-rami-studioglass-black-water-krugle-1266" >
-                                        Дзеркало в дерев&#x27;яній рамі StudioGlass Black Mirror кругле
+                                    <a href="/sklyana-peregorodka-dlya-dushu-volio" >
+                                        Glass shower partition VOLIO
                                     </a>
                                 </div>
                                 <div class="product_price-wrap" >
-                                        <div class="product_price" ><b itemprop="price" class="price">6239</b> <b >UAH</b> </div>
+                                        <div class="product_price" ><b itemprop="price" class="price">10480</b> <b >UAH</b> </div>
                                 </div>
                             </div>
                         </div>
                         <div class="swiper-slide">
                             <div class="product js-product" data-price="2960">
                                 <div class="product_image-wrap">
-                                    <a class="product_image" href="/dzerkalo-v-derev-yaniy-rami-studioglass-black-mirror-krugle-1210-1269">
+                                    <a class="product_image" href="/sklyani-dveri-dlya-dushu-stenli">
                                         <div class="img-default">
                                             <picture>
-                                                <source id="main-img-source1" srcset="/uploads/products/725X725/wood-mirror_0001s_0003_shiny-desert-light.webp" type="image/webp">
+                                                <source id="main-img-source1" srcset="/uploads/products/725X725/stenli-930.webp" type="image/webp">
 
-                                                <source srcset="/uploads/products/725X725/wood-mirror_0001s_0003_shiny-desert-light.jpg" type="image/png">
-                                                <img src="/uploads/products/725X725/wood-mirror_0001s_0003_shiny-desert-light.jpg" alt="">
+                                                <source srcset="/uploads/products/725X725/stenli-930.jpg" type="image/png">
+                                                <img src="/uploads/products/725X725/stenli-930.jpg" alt="">
                                             </picture>
                                         </div>
                                         <div class="img-hover">
                                             <picture>
-                                                <source id="main-img-source1" srcset="/uploads/products/725X725/blank_0001_classic-light.webp" type="image/webp">
-                                                <source srcset="/uploads/products/725X725/blank_0001_classic-light.jpg" type="image/png">
-                                                <img src="/uploads/products/725X725/blank_0001_classic-light.jpg" alt="">
+                                                <source id="main-img-source1" srcset="/uploads/products/725X725/stenli-930.webp" type="image/webp">
+
+                                                <source srcset="/uploads/products/725X725/stenli-930.jpg" type="image/png">
+                                                <img src="/uploads/products/725X725/stenli-930.jpg" alt="">
                                             </picture>
                                         </div>
 
@@ -1241,32 +1254,33 @@
                                     </a>
                                 </div>
                                 <div class="product_title">
-                                    <a href="/dzerkalo-v-derev-yaniy-rami-studioglass-black-mirror-krugle-1210-1269" >
-                                        Дзеркало в дерев&#x27;яній рамі StudioGlass Black Mirror кругле
+                                    <a href="/sklyani-dveri-dlya-dushu-stenli" >
+                                        Glass shower door STENLI
                                     </a>
                                 </div>
                                 <div class="product_price-wrap" >
-                                        <div class="product_price" ><b itemprop="price" class="price">6239</b> <b >UAH</b> </div>
+                                        <div class="product_price" ><b itemprop="price" class="price">17955</b> <b >UAH</b> </div>
                                 </div>
                             </div>
                         </div>
                         <div class="swiper-slide">
                             <div class="product js-product" data-price="2960">
                                 <div class="product_image-wrap">
-                                    <a class="product_image" href="/dzerkalo-v-derev-yaniy-rami-studioglass-black-mirror-krugle-1210-1213-1272">
+                                    <a class="product_image" href="/sklyana-dushova-kabina-rain">
                                         <div class="img-default">
                                             <picture>
-                                                <source id="main-img-source1" srcset="/uploads/products/725X725/wood-mirror_0001s_0002_red-fire-light.webp" type="image/webp">
+                                                <source id="main-img-source1" srcset="/uploads/products/725X725/rain-930.webp" type="image/webp">
 
-                                                <source srcset="/uploads/products/725X725/wood-mirror_0001s_0002_red-fire-light.jpg" type="image/png">
-                                                <img src="/uploads/products/725X725/wood-mirror_0001s_0002_red-fire-light.jpg" alt="">
+                                                <source srcset="/uploads/products/725X725/rain-930.jpg" type="image/png">
+                                                <img src="/uploads/products/725X725/rain-930.jpg" alt="">
                                             </picture>
                                         </div>
                                         <div class="img-hover">
                                             <picture>
-                                                <source id="main-img-source1" srcset="/uploads/products/725X725/blank_0001_classic-light.webp" type="image/webp">
-                                                <source srcset="/uploads/products/725X725/blank_0001_classic-light.jpg" type="image/png">
-                                                <img src="/uploads/products/725X725/blank_0001_classic-light.jpg" alt="">
+                                                <source id="main-img-source1" srcset="/uploads/products/725X725/rain-930.webp" type="image/webp">
+
+                                                <source srcset="/uploads/products/725X725/rain-930.jpg" type="image/png">
+                                                <img src="/uploads/products/725X725/rain-930.jpg" alt="">
                                             </picture>
                                         </div>
 
@@ -1275,32 +1289,33 @@
                                     </a>
                                 </div>
                                 <div class="product_title">
-                                    <a href="/dzerkalo-v-derev-yaniy-rami-studioglass-black-mirror-krugle-1210-1213-1272" >
-                                        Дзеркало в дерев&#x27;яній рамі StudioGlass Black Mirror кругле
+                                    <a href="/sklyana-dushova-kabina-rain" >
+                                        Glass shower box RAIN
                                     </a>
                                 </div>
                                 <div class="product_price-wrap" >
-                                        <div class="product_price" ><b itemprop="price" class="price">6239</b> <b >UAH</b> </div>
+                                        <div class="product_price" ><b itemprop="price" class="price">18575</b> <b >UAH</b> </div>
                                 </div>
                             </div>
                         </div>
                         <div class="swiper-slide">
                             <div class="product js-product" data-price="2960">
                                 <div class="product_image-wrap">
-                                    <a class="product_image" href="/dzerkalo-v-derev-yaniy-rami-studioglass-black-mirror-krugle-1210-1213-1216-1275">
+                                    <a class="product_image" href="/sklyani-dveri-dlya-dushu-colombo">
                                         <div class="img-default">
                                             <picture>
-                                                <source id="main-img-source1" srcset="/uploads/products/725X725/wood-mirror_0001s_0000_frost-wind-light.webp" type="image/webp">
+                                                <source id="main-img-source1" srcset="/uploads/products/725X725/colombo-930.webp" type="image/webp">
 
-                                                <source srcset="/uploads/products/725X725/wood-mirror_0001s_0000_frost-wind-light.jpg" type="image/png">
-                                                <img src="/uploads/products/725X725/wood-mirror_0001s_0000_frost-wind-light.jpg" alt="">
+                                                <source srcset="/uploads/products/725X725/colombo-930.jpg" type="image/png">
+                                                <img src="/uploads/products/725X725/colombo-930.jpg" alt="">
                                             </picture>
                                         </div>
                                         <div class="img-hover">
                                             <picture>
-                                                <source id="main-img-source1" srcset="/uploads/products/725X725/blank_0001_classic-light.webp" type="image/webp">
-                                                <source srcset="/uploads/products/725X725/blank_0001_classic-light.jpg" type="image/png">
-                                                <img src="/uploads/products/725X725/blank_0001_classic-light.jpg" alt="">
+                                                <source id="main-img-source1" srcset="/uploads/products/725X725/colombo-930.webp" type="image/webp">
+
+                                                <source srcset="/uploads/products/725X725/colombo-930.jpg" type="image/png">
+                                                <img src="/uploads/products/725X725/colombo-930.jpg" alt="">
                                             </picture>
                                         </div>
 
@@ -1309,32 +1324,33 @@
                                     </a>
                                 </div>
                                 <div class="product_title">
-                                    <a href="/dzerkalo-v-derev-yaniy-rami-studioglass-black-mirror-krugle-1210-1213-1216-1275" >
-                                        Дзеркало в дерев&#x27;яній рамі StudioGlass Black Mirror кругле
+                                    <a href="/sklyani-dveri-dlya-dushu-colombo" >
+                                        Glass shower door COLOMBO
                                     </a>
                                 </div>
                                 <div class="product_price-wrap" >
-                                        <div class="product_price" ><b itemprop="price" class="price">6239</b> <b >UAH</b> </div>
+                                        <div class="product_price" ><b itemprop="price" class="price">13966</b> <b >UAH</b> </div>
                                 </div>
                             </div>
                         </div>
                         <div class="swiper-slide">
                             <div class="product js-product" data-price="2960">
                                 <div class="product_image-wrap">
-                                    <a class="product_image" href="/dzerkalo-kamal-z-pidsvitkoyu">
+                                    <a class="product_image" href="/shtorka-dlya-vannoyi-liri-cr">
                                         <div class="img-default">
                                             <picture>
-                                                
+                                                <source id="main-img-source1" srcset="/uploads/products/725X725/liri-930.webp" type="image/webp">
 
-                                                <source srcset="/uploads/products/725X725/kamal1.png" type="image/png">
-                                                <img src="/uploads/products/725X725/kamal1.png" alt="">
+                                                <source srcset="/uploads/products/725X725/liri-930.jpg" type="image/png">
+                                                <img src="/uploads/products/725X725/liri-930.jpg" alt="">
                                             </picture>
                                         </div>
                                         <div class="img-hover">
                                             <picture>
-                                                
-                                                <source srcset="/uploads/products/725X725/kamal1.png" type="image/png">
-                                                <img src="/uploads/products/725X725/kamal1.png" alt="">
+                                                <source id="main-img-source1" srcset="/uploads/products/725X725/liri-930.webp" type="image/webp">
+
+                                                <source srcset="/uploads/products/725X725/liri-930.jpg" type="image/png">
+                                                <img src="/uploads/products/725X725/liri-930.jpg" alt="">
                                             </picture>
                                         </div>
 
@@ -1343,32 +1359,33 @@
                                     </a>
                                 </div>
                                 <div class="product_title">
-                                    <a href="/dzerkalo-kamal-z-pidsvitkoyu" >
-                                        The mirror of StudioGlass KAMAL rectangular with backlight
+                                    <a href="/shtorka-dlya-vannoyi-liri-cr" >
+                                        Glass curtain for the bathroom LIRI
                                     </a>
                                 </div>
                                 <div class="product_price-wrap" >
-                                        <div class="product_price" ><b itemprop="price" class="price">4955</b> <b >UAH</b> </div>
+                                        <div class="product_price" ><b itemprop="price" class="price">7452</b> <b >UAH</b> </div>
                                 </div>
                             </div>
                         </div>
                         <div class="swiper-slide">
                             <div class="product js-product" data-price="2960">
                                 <div class="product_image-wrap">
-                                    <a class="product_image" href="/dzerkalo-salton-z-pidsvitkoyu-pryamokutne">
+                                    <a class="product_image" href="/sklyana-peregorodka-dlya-dushu-falls">
                                         <div class="img-default">
                                             <picture>
-                                                
+                                                <source id="main-img-source1" srcset="/uploads/products/725X725/falls-chrome-930.webp" type="image/webp">
 
-                                                <source srcset="/uploads/products/725X725/salton1.png" type="image/png">
-                                                <img src="/uploads/products/725X725/salton1.png" alt="">
+                                                <source srcset="/uploads/products/725X725/falls-chrome-930.jpg" type="image/png">
+                                                <img src="/uploads/products/725X725/falls-chrome-930.jpg" alt="">
                                             </picture>
                                         </div>
                                         <div class="img-hover">
                                             <picture>
-                                                
-                                                <source srcset="/uploads/products/725X725/salton1.png" type="image/png">
-                                                <img src="/uploads/products/725X725/salton1.png" alt="">
+                                                <source id="main-img-source1" srcset="/uploads/products/725X725/falls-chrome-930.webp" type="image/webp">
+
+                                                <source srcset="/uploads/products/725X725/falls-chrome-930.jpg" type="image/png">
+                                                <img src="/uploads/products/725X725/falls-chrome-930.jpg" alt="">
                                             </picture>
                                         </div>
 
@@ -1377,32 +1394,33 @@
                                     </a>
                                 </div>
                                 <div class="product_title">
-                                    <a href="/dzerkalo-salton-z-pidsvitkoyu-pryamokutne" >
-                                        The mirror of StudioGlass SALTON  rectangular with backlight
+                                    <a href="/sklyana-peregorodka-dlya-dushu-falls" >
+                                        Glass shower partition FALLS
                                     </a>
                                 </div>
                                 <div class="product_price-wrap" >
-                                        <div class="product_price" ><b itemprop="price" class="price">4048</b> <b >UAH</b> </div>
+                                        <div class="product_price" ><b itemprop="price" class="price">9350</b> <b >UAH</b> </div>
                                 </div>
                             </div>
                         </div>
                         <div class="swiper-slide">
                             <div class="product js-product" data-price="2960">
                                 <div class="product_image-wrap">
-                                    <a class="product_image" href="/dzerkalo-melvin-z-pidsvitkoyu-pryamokutne">
+                                    <a class="product_image" href="/sklyana-dushova-kabina-cristal">
                                         <div class="img-default">
                                             <picture>
-                                                
+                                                <source id="main-img-source1" srcset="/uploads/products/725X725/cristal-chrome-930.webp" type="image/webp">
 
-                                                <source srcset="/uploads/products/725X725/melvin1.png" type="image/png">
-                                                <img src="/uploads/products/725X725/melvin1.png" alt="">
+                                                <source srcset="/uploads/products/725X725/cristal-chrome-930.jpg" type="image/png">
+                                                <img src="/uploads/products/725X725/cristal-chrome-930.jpg" alt="">
                                             </picture>
                                         </div>
                                         <div class="img-hover">
                                             <picture>
-                                                
-                                                <source srcset="/uploads/products/725X725/melvin1.png" type="image/png">
-                                                <img src="/uploads/products/725X725/melvin1.png" alt="">
+                                                <source id="main-img-source1" srcset="/uploads/products/725X725/cristal-chrome-930.webp" type="image/webp">
+
+                                                <source srcset="/uploads/products/725X725/cristal-chrome-930.jpg" type="image/png">
+                                                <img src="/uploads/products/725X725/cristal-chrome-930.jpg" alt="">
                                             </picture>
                                         </div>
 
@@ -1411,12 +1429,12 @@
                                     </a>
                                 </div>
                                 <div class="product_title">
-                                    <a href="/dzerkalo-melvin-z-pidsvitkoyu-pryamokutne" >
-                                        The mirror of StudioGlass MELVIN rectangular with frontlight
+                                    <a href="/sklyana-dushova-kabina-cristal" >
+                                        Glass shower box CRISTAL
                                     </a>
                                 </div>
                                 <div class="product_price-wrap" >
-                                        <div class="product_price" ><b itemprop="price" class="price">4048</b> <b >UAH</b> </div>
+                                        <div class="product_price" ><b itemprop="price" class="price">24068</b> <b >UAH</b> </div>
                                 </div>
                             </div>
                         </div>
@@ -1441,9 +1459,9 @@
         <!-- FOOTER -->
         <footer>
             <footer itemscope itemtype="http://schema.org/Organization">
-                <meta itemprop="url" content="https://armourglass.shop/">
+                <meta itemprop="url" content="https://studioglass.ua/">
                 <meta itemprop="telephone" content="+380800330836">
-                <meta itemprop="logo" content="https://armourglass.shop/uploads/original/logo-b.svg">
+                <meta itemprop="logo" content="https://studioglass.ua/uploads/original/logo-b.svg">
                 <meta itemprop="name" content="Studioglass">
                 <meta itemprop="description" content="Львівська Фабрика Дзеркал ⭐ Studio Glass ✓ Дзеркала з підсвіткою ✓ Дзеркала в рамі ✓ Душові кабіни ✓ Великі дзеркала ☎️ +38(080)033-08-36.">
                 <div class="container">
@@ -1673,7 +1691,7 @@
         <div class="cookies-informer-inner">
             <div class="text text-popup-dark">
                 <p>Our site uses cookies to distinguish you from other users of our site. This allows us to provide convenient viewing of our site, and also allows us to improve it</p>
-<p><a href="https://armourglass.shop/en/privat-policy-en" target="_blank" rel="noopener">Cookies policy</a></p>
+<p><a href="https://studioglass.ua/en/privat-policy-en" target="_blank" rel="noopener">Cookies policy</a></p>
             </div>
             <div class="btn close-cookies cookie-popup-agree-btn">accept</div>
         </div>
@@ -2129,9 +2147,17 @@
             </div>
         </div>
     
+        <!-- Shower schema popup  -->
+        <div class="popup-content shower-schema-popup" data-rel="shower-schema-popup">
+            <div class="layer-close"></div>
+            <div class="popup-container size-3 shower-schema-content">
+            <button class="btn-close close-popup"></button>
+            </div>
+        </div>
+    
     </div>    <link href="/css/swiper-bundle.min.css" rel="stylesheet" type="text/css" />
-    <link href="/css/sumoselect.min.css" rel="stylesheet" type="text/css" />
-    <link href="/css/style.css?v=1.2" rel="stylesheet" type="text/css" />
+    <link href="/css/sumoselect.min.css?v=1.0" rel="stylesheet" type="text/css" />
+    <link href="/css/style.css?v=1.3" rel="stylesheet" type="text/css" />
     
     
     <script defer src="/js/jquery.min.js"></script>
@@ -2143,13 +2169,13 @@
     <script defer src="/js/jquery.inputmask.min.js"></script>
     <script defer src="/js/jquery.sumoselect.min.js"></script>
     <script defer src="/js/jquery-ui.min.js"></script>
-    <script defer src="/js/global.js?v=2.2"></script>
+    <script defer src="/js/global.js?v=2.5"></script>
     <!-- can be disabled on mobile device -->
     <script defer src="/js/SmoothScroll.js"></script>
     <script defer src="/js/jquery.sticky-kit.min.js"></script>
     <script defer src="/js/custom.js?v=1.1"></script>
     <script defer src="/js/pagination.js?v=1.0"></script>
-    <link href="/css/SumoselectCustom.css" rel="stylesheet" type="text/css" />
+    <link href="/css/SumoselectCustom.css?v=1.0" rel="stylesheet" type="text/css" />
     <script defer src="/js/jquery.sumoselect.min.js"></script>
     <script defer src="/js/sumoselectCustom.js"></script>
     <script defer src="/js/ScrollMagic.min.js"></script>
@@ -2160,7 +2186,7 @@
     <link rel="stylesheet" href="/css/lightgallery.min.css">
     <script defer src="/js/lightgallery-all.min.js"></script>
     <script defer src="/js/lightgallery-custom.js"></script>
-    <script defer src="/js/product_detail.js?v=1.6"></script>
+    <script defer src="/js/product_detail.js?v=1.7"></script>
     <script defer src="/js/jquery.sticky-kit.min.js"></script>
     
     

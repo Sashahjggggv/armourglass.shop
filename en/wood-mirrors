@@ -29,10 +29,10 @@
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=0" />
     <meta name="google-site-verification" content="_TssH0mwWwYlp7QE3SXnnyjrfpdPCnsAnNmcgxrhnvQ" />
     <link href="/css/bootstrap-grid.min.css" rel="stylesheet" type="text/css" />
-    <link href="/css/main.css" rel="stylesheet" type="text/css" />
+    <link href="/css/main.css?v=1.0" rel="stylesheet" type="text/css" />
     <link href="/css/custom.css?v=1.1" rel="stylesheet" type="text/css" />
     <link rel="shortcut icon" href="/img/favicon.ico" />
-    <base href="https://armourglass.shop">
+    <base href="https://studioglass.ua">
 
 </head>
 
@@ -262,7 +262,7 @@
                         <ul class="social">
                             <li>
                                  
-                                <a href="https://www.instagram.com/armourglass.shop" target="_blank">
+                                <a href="https://www.instagram.com/studioglass.ua" target="_blank">
                                         <img class="s-icon-b" src="/uploads/pages/original/instagram-b_1.svg" alt="">
                                 </a>
                             </li>
@@ -506,10 +506,9 @@
                                         <a class="product_image" href="/en/dzerkalo-v-derev-yaniy-rami-studioglass-black-water-krugle-1266-1287">
                                             <div class="img-default">
                                                 <picture>
-                                                    <source id="main-img-source1" srcset="/uploads/products/725X725/wood-mirror_0000s_0001_black-water-strap-light.webp" type="image/webp">
-
-                                                    <source srcset='/uploads/products/725X725/wood-mirror_0000s_0001_black-water-strap-light.jpg' type='image/jpg'>
-                                                    <img src='/uploads/products/725X725/wood-mirror_0000s_0001_black-water-strap-light.jpg' alt='' loading='lazy'>
+                                                        <source id="main-img-source1" srcset="/uploads/products/725X725/wood-mirror_0000s_0001_black-water-strap-light.webp" type="image/webp">
+                                                        <source srcset="/uploads/products/725X725/wood-mirror_0000s_0001_black-water-strap-light.jpg" type="image/png">
+                                                        <img src="/uploads/products/725X725/wood-mirror_0000s_0001_black-water-strap-light.jpg" alt="">
                                                 </picture>
                                             </div>
                                             <div class="img-hover">
@@ -540,10 +539,9 @@
                                         <a class="product_image" href="/en/dzerkalo-v-derev-yaniy-rami-studioglass-black-mirror-krugle-1210-1269-1284">
                                             <div class="img-default">
                                                 <picture>
-                                                    <source id="main-img-source1" srcset="/uploads/products/725X725/wood-mirror_0000s_0003_shiny-desert-strap-light.webp" type="image/webp">
-
-                                                    <source srcset='/uploads/products/725X725/wood-mirror_0000s_0003_shiny-desert-strap-light.jpg' type='image/jpg'>
-                                                    <img src='/uploads/products/725X725/wood-mirror_0000s_0003_shiny-desert-strap-light.jpg' alt='' loading='lazy'>
+                                                        <source id="main-img-source1" srcset="/uploads/products/725X725/wood-mirror_0000s_0003_shiny-desert-strap-light.webp" type="image/webp">
+                                                        <source srcset="/uploads/products/725X725/wood-mirror_0000s_0003_shiny-desert-strap-light.jpg" type="image/png">
+                                                        <img src="/uploads/products/725X725/wood-mirror_0000s_0003_shiny-desert-strap-light.jpg" alt="">
                                                 </picture>
                                             </div>
                                             <div class="img-hover">
@@ -574,10 +572,9 @@
                                         <a class="product_image" href="/en/dzerkalo-v-derev-yaniy-rami-studioglass-black-mirror-krugle-1210-1213-1272-1281">
                                             <div class="img-default">
                                                 <picture>
-                                                    <source id="main-img-source1" srcset="/uploads/products/725X725/wood-mirror_0000s_0002_red-fire-strap-light.webp" type="image/webp">
-
-                                                    <source srcset='/uploads/products/725X725/wood-mirror_0000s_0002_red-fire-strap-light.jpg' type='image/jpg'>
-                                                    <img src='/uploads/products/725X725/wood-mirror_0000s_0002_red-fire-strap-light.jpg' alt='' loading='lazy'>
+                                                        <source id="main-img-source1" srcset="/uploads/products/725X725/wood-mirror_0000s_0002_red-fire-strap-light.webp" type="image/webp">
+                                                        <source srcset="/uploads/products/725X725/wood-mirror_0000s_0002_red-fire-strap-light.jpg" type="image/png">
+                                                        <img src="/uploads/products/725X725/wood-mirror_0000s_0002_red-fire-strap-light.jpg" alt="">
                                                 </picture>
                                             </div>
                                             <div class="img-hover">
@@ -608,10 +605,9 @@
                                         <a class="product_image" href="/en/dzerkalo-v-derev-yaniy-rami-studioglass-black-mirror-krugle-1210-1213-1216-1275-1278">
                                             <div class="img-default">
                                                 <picture>
-                                                    <source id="main-img-source1" srcset="/uploads/products/725X725/wood-mirror_0000s_0000_frost-wind-strap-light.webp" type="image/webp">
-
-                                                    <source srcset='/uploads/products/725X725/wood-mirror_0000s_0000_frost-wind-strap-light.jpg' type='image/jpg'>
-                                                    <img src='/uploads/products/725X725/wood-mirror_0000s_0000_frost-wind-strap-light.jpg' alt='' loading='lazy'>
+                                                        <source id="main-img-source1" srcset="/uploads/products/725X725/wood-mirror_0000s_0000_frost-wind-strap-light.webp" type="image/webp">
+                                                        <source srcset="/uploads/products/725X725/wood-mirror_0000s_0000_frost-wind-strap-light.jpg" type="image/png">
+                                                        <img src="/uploads/products/725X725/wood-mirror_0000s_0000_frost-wind-strap-light.jpg" alt="">
                                                 </picture>
                                             </div>
                                             <div class="img-hover">
@@ -642,10 +638,9 @@
                                         <a class="product_image" href="/en/dzerkalo-v-derev-yaniy-rami-studioglass-black-mirror-krugle-1210-1213-1216-1275">
                                             <div class="img-default">
                                                 <picture>
-                                                    <source id="main-img-source1" srcset="/uploads/products/725X725/wood-mirror_0001s_0000_frost-wind-light.webp" type="image/webp">
-
-                                                    <source srcset='/uploads/products/725X725/wood-mirror_0001s_0000_frost-wind-light.jpg' type='image/jpg'>
-                                                    <img src='/uploads/products/725X725/wood-mirror_0001s_0000_frost-wind-light.jpg' alt='' loading='lazy'>
+                                                        <source id="main-img-source1" srcset="/uploads/products/725X725/wood-mirror_0001s_0000_frost-wind-light.webp" type="image/webp">
+                                                        <source srcset="/uploads/products/725X725/wood-mirror_0001s_0000_frost-wind-light.jpg" type="image/png">
+                                                        <img src="/uploads/products/725X725/wood-mirror_0001s_0000_frost-wind-light.jpg" alt="">
                                                 </picture>
                                             </div>
                                             <div class="img-hover">
@@ -676,10 +671,9 @@
                                         <a class="product_image" href="/en/dzerkalo-v-derev-yaniy-rami-studioglass-black-mirror-krugle-1210-1213-1272">
                                             <div class="img-default">
                                                 <picture>
-                                                    <source id="main-img-source1" srcset="/uploads/products/725X725/wood-mirror_0001s_0002_red-fire-light.webp" type="image/webp">
-
-                                                    <source srcset='/uploads/products/725X725/wood-mirror_0001s_0002_red-fire-light.jpg' type='image/jpg'>
-                                                    <img src='/uploads/products/725X725/wood-mirror_0001s_0002_red-fire-light.jpg' alt='' loading='lazy'>
+                                                        <source id="main-img-source1" srcset="/uploads/products/725X725/wood-mirror_0001s_0002_red-fire-light.webp" type="image/webp">
+                                                        <source srcset="/uploads/products/725X725/wood-mirror_0001s_0002_red-fire-light.jpg" type="image/png">
+                                                        <img src="/uploads/products/725X725/wood-mirror_0001s_0002_red-fire-light.jpg" alt="">
                                                 </picture>
                                             </div>
                                             <div class="img-hover">
@@ -710,10 +704,9 @@
                                         <a class="product_image" href="/en/dzerkalo-v-derev-yaniy-rami-studioglass-black-mirror-krugle-1210-1269">
                                             <div class="img-default">
                                                 <picture>
-                                                    <source id="main-img-source1" srcset="/uploads/products/725X725/wood-mirror_0001s_0003_shiny-desert-light.webp" type="image/webp">
-
-                                                    <source srcset='/uploads/products/725X725/wood-mirror_0001s_0003_shiny-desert-light.jpg' type='image/jpg'>
-                                                    <img src='/uploads/products/725X725/wood-mirror_0001s_0003_shiny-desert-light.jpg' alt='' loading='lazy'>
+                                                        <source id="main-img-source1" srcset="/uploads/products/725X725/wood-mirror_0001s_0003_shiny-desert-light.webp" type="image/webp">
+                                                        <source srcset="/uploads/products/725X725/wood-mirror_0001s_0003_shiny-desert-light.jpg" type="image/png">
+                                                        <img src="/uploads/products/725X725/wood-mirror_0001s_0003_shiny-desert-light.jpg" alt="">
                                                 </picture>
                                             </div>
                                             <div class="img-hover">
@@ -744,10 +737,9 @@
                                         <a class="product_image" href="/en/dzerkalo-v-derev-yaniy-rami-studioglass-black-water-krugle-1266">
                                             <div class="img-default">
                                                 <picture>
-                                                    <source id="main-img-source1" srcset="/uploads/products/725X725/wood-mirror_0001s_0001_black-water-light.webp" type="image/webp">
-
-                                                    <source srcset='/uploads/products/725X725/wood-mirror_0001s_0001_black-water-light.jpg' type='image/jpg'>
-                                                    <img src='/uploads/products/725X725/wood-mirror_0001s_0001_black-water-light.jpg' alt='' loading='lazy'>
+                                                        <source id="main-img-source1" srcset="/uploads/products/725X725/wood-mirror_0001s_0001_black-water-light.webp" type="image/webp">
+                                                        <source srcset="/uploads/products/725X725/wood-mirror_0001s_0001_black-water-light.jpg" type="image/png">
+                                                        <img src="/uploads/products/725X725/wood-mirror_0001s_0001_black-water-light.jpg" alt="">
                                                 </picture>
                                             </div>
                                             <div class="img-hover">
@@ -778,10 +770,9 @@
                                         <a class="product_image" href="/en/dzerkalo-v-derev-yaniy-rami-studioglass-black-mirror-krugle-1210-1213-1216-1254-1257-1260-1263">
                                             <div class="img-default">
                                                 <picture>
-                                                    <source id="main-img-source1" srcset="/uploads/products/725X725/blank_0003_black-water-strap-classic.webp" type="image/webp">
-
-                                                    <source srcset='/uploads/products/725X725/blank_0003_black-water-strap-classic.jpg' type='image/jpg'>
-                                                    <img src='/uploads/products/725X725/blank_0003_black-water-strap-classic.jpg' alt='' loading='lazy'>
+                                                        <source id="main-img-source1" srcset="/uploads/products/725X725/blank_0003_black-water-strap-classic.webp" type="image/webp">
+                                                        <source srcset="/uploads/products/725X725/blank_0003_black-water-strap-classic.jpg" type="image/png">
+                                                        <img src="/uploads/products/725X725/blank_0003_black-water-strap-classic.jpg" alt="">
                                                 </picture>
                                             </div>
                                             <div class="img-hover">
@@ -812,10 +803,9 @@
                                         <a class="product_image" href="/en/dzerkalo-v-derev-yaniy-rami-studioglass-black-mirror-krugle-1210-1213-1216-1254-1257-1260">
                                             <div class="img-default">
                                                 <picture>
-                                                    <source id="main-img-source1" srcset="/uploads/products/725X725/blank_0000_shiny-desert-strap-classic.webp" type="image/webp">
-
-                                                    <source srcset='/uploads/products/725X725/blank_0000_shiny-desert-strap-classic.jpg' type='image/jpg'>
-                                                    <img src='/uploads/products/725X725/blank_0000_shiny-desert-strap-classic.jpg' alt='' loading='lazy'>
+                                                        <source id="main-img-source1" srcset="/uploads/products/725X725/blank_0000_shiny-desert-strap-classic.webp" type="image/webp">
+                                                        <source srcset="/uploads/products/725X725/blank_0000_shiny-desert-strap-classic.jpg" type="image/png">
+                                                        <img src="/uploads/products/725X725/blank_0000_shiny-desert-strap-classic.jpg" alt="">
                                                 </picture>
                                             </div>
                                             <div class="img-hover">
@@ -846,10 +836,9 @@
                                         <a class="product_image" href="/en/dzerkalo-v-derev-yaniy-rami-studioglass-black-mirror-krugle-1210-1213-1216-1254-1257">
                                             <div class="img-default">
                                                 <picture>
-                                                    <source id="main-img-source1" srcset="/uploads/products/725X725/blank_0002_red-fire-strap-classic.webp" type="image/webp">
-
-                                                    <source srcset='/uploads/products/725X725/blank_0002_red-fire-strap-classic.jpg' type='image/jpg'>
-                                                    <img src='/uploads/products/725X725/blank_0002_red-fire-strap-classic.jpg' alt='' loading='lazy'>
+                                                        <source id="main-img-source1" srcset="/uploads/products/725X725/blank_0002_red-fire-strap-classic.webp" type="image/webp">
+                                                        <source srcset="/uploads/products/725X725/blank_0002_red-fire-strap-classic.jpg" type="image/png">
+                                                        <img src="/uploads/products/725X725/blank_0002_red-fire-strap-classic.jpg" alt="">
                                                 </picture>
                                             </div>
                                             <div class="img-hover">
@@ -880,10 +869,9 @@
                                         <a class="product_image" href="/en/dzerkalo-v-derev-yaniy-rami-studioglass-black-mirror-krugle-1210-1213-1216-1254">
                                             <div class="img-default">
                                                 <picture>
-                                                    <source id="main-img-source1" srcset="/uploads/products/725X725/blank_0001_frost-wind-strap-classic.webp" type="image/webp">
-
-                                                    <source srcset='/uploads/products/725X725/blank_0001_frost-wind-strap-classic.jpg' type='image/jpg'>
-                                                    <img src='/uploads/products/725X725/blank_0001_frost-wind-strap-classic.jpg' alt='' loading='lazy'>
+                                                        <source id="main-img-source1" srcset="/uploads/products/725X725/blank_0001_frost-wind-strap-classic.webp" type="image/webp">
+                                                        <source srcset="/uploads/products/725X725/blank_0001_frost-wind-strap-classic.jpg" type="image/png">
+                                                        <img src="/uploads/products/725X725/blank_0001_frost-wind-strap-classic.jpg" alt="">
                                                 </picture>
                                             </div>
                                             <div class="img-hover">
@@ -914,10 +902,9 @@
                                         <a class="product_image" href="/en/dzerkalo-v-derev-yaniy-rami-studioglass-black-mirror-krugle-1210-1213-1216">
                                             <div class="img-default">
                                                 <picture>
-                                                    <source id="main-img-source1" srcset="/uploads/products/725X725/black-water_0000_frost-wind.webp" type="image/webp">
-
-                                                    <source srcset='/uploads/products/725X725/black-water_0000_frost-wind.jpg' type='image/jpg'>
-                                                    <img src='/uploads/products/725X725/black-water_0000_frost-wind.jpg' alt='' loading='lazy'>
+                                                        <source id="main-img-source1" srcset="/uploads/products/725X725/black-water_0000_frost-wind.webp" type="image/webp">
+                                                        <source srcset="/uploads/products/725X725/black-water_0000_frost-wind.jpg" type="image/png">
+                                                        <img src="/uploads/products/725X725/black-water_0000_frost-wind.jpg" alt="">
                                                 </picture>
                                             </div>
                                             <div class="img-hover">
@@ -948,10 +935,9 @@
                                         <a class="product_image" href="/en/dzerkalo-v-derev-yaniy-rami-studioglass-black-mirror-krugle-1210-1213">
                                             <div class="img-default">
                                                 <picture>
-                                                    <source id="main-img-source1" srcset="/uploads/products/725X725/black-water_0001_red-fire.webp" type="image/webp">
-
-                                                    <source srcset='/uploads/products/725X725/black-water_0001_red-fire.jpg' type='image/jpg'>
-                                                    <img src='/uploads/products/725X725/black-water_0001_red-fire.jpg' alt='' loading='lazy'>
+                                                        <source id="main-img-source1" srcset="/uploads/products/725X725/black-water_0001_red-fire.webp" type="image/webp">
+                                                        <source srcset="/uploads/products/725X725/black-water_0001_red-fire.jpg" type="image/png">
+                                                        <img src="/uploads/products/725X725/black-water_0001_red-fire.jpg" alt="">
                                                 </picture>
                                             </div>
                                             <div class="img-hover">
@@ -982,10 +968,9 @@
                                         <a class="product_image" href="/en/dzerkalo-v-derev-yaniy-rami-studioglass-black-mirror-krugle-1210">
                                             <div class="img-default">
                                                 <picture>
-                                                    <source id="main-img-source1" srcset="/uploads/products/725X725/black-water_0002_shiny-desert.webp" type="image/webp">
-
-                                                    <source srcset='/uploads/products/725X725/black-water_0002_shiny-desert.jpg' type='image/jpg'>
-                                                    <img src='/uploads/products/725X725/black-water_0002_shiny-desert.jpg' alt='' loading='lazy'>
+                                                        <source id="main-img-source1" srcset="/uploads/products/725X725/black-water_0002_shiny-desert.webp" type="image/webp">
+                                                        <source srcset="/uploads/products/725X725/black-water_0002_shiny-desert.jpg" type="image/png">
+                                                        <img src="/uploads/products/725X725/black-water_0002_shiny-desert.jpg" alt="">
                                                 </picture>
                                             </div>
                                             <div class="img-hover">
@@ -1016,10 +1001,9 @@
                                         <a class="product_image" href="/en/dzerkalo-v-derev-yaniy-rami-studioglass-black-water-krugle">
                                             <div class="img-default">
                                                 <picture>
-                                                    <source id="main-img-source1" srcset="/uploads/products/725X725/black-water_0003_black-water.webp" type="image/webp">
-
-                                                    <source srcset='/uploads/products/725X725/black-water_0003_black-water.jpg' type='image/jpg'>
-                                                    <img src='/uploads/products/725X725/black-water_0003_black-water.jpg' alt='' loading='lazy'>
+                                                        <source id="main-img-source1" srcset="/uploads/products/725X725/black-water_0003_black-water.webp" type="image/webp">
+                                                        <source srcset="/uploads/products/725X725/black-water_0003_black-water.jpg" type="image/png">
+                                                        <img src="/uploads/products/725X725/black-water_0003_black-water.jpg" alt="">
                                                 </picture>
                                             </div>
                                             <div class="img-hover">
@@ -1058,596 +1042,6 @@
 
                 <div class="spacer spacer-xl"></div>
             </div>
-    <!-- Last View -->
-    <div class="section">
-        <div class="container">
-            <div class="h3 title-300 title-md text-center">
-               Last seen
-            </div>
-
-            <div class="swiper-entry products_swiper">
-                <div class="swiper-container"
-                    data-options='{"speed":700, "slidesPerView": 1, "spaceBetween": 12, "breakpoints":{"575":{"slidesPerView": 2, "spaceBetween": 5}, "767":{"slidesPerView": 3, "spaceBetween": 5}, "1200":{"spaceBetween": 5, "slidesPerView": 4}, "1441":{"spaceBetween": 5, "slidesPerView": 5}, "1601":{"spaceBetween": 5, "slidesPerView": 6} } }'>
-
-                    <div class="swiper-wrapper">
-                        <div class="swiper-slide">
-                            <div class="product js-product" data-price="2960">
-                                <div class="product_image-wrap">
-                                    <a class="product_image" href="/dzerkalo-kamal-z-pidsvitkoyu">
-                                        <div class="img-default">
-                                            <picture>
-
-                                                
-                                                <source srcset="/uploads/products/725X725/kamal1.png" type="image/png">
-                                                <img src="/uploads/products/725X725/kamal1.png" alt="">
-                                            </picture>
-                                        </div>
-                                        <div class="img-hover">
-                                            <picture>
-                                                
-
-                                                <source srcset="/uploads/products/725X725/kamal1.png" type="image/png">
-                                                <img src="/uploads/products/725X725/kamal1.png" alt="">
-                                            </picture>
-                                        </div>
-
-                                        <ul class="product_labels">
-                                        </ul>
-                                    </a>
-                                </div>
-                                <div class="product_title">
-                                    <a href="/dzerkalo-kamal-z-pidsvitkoyu">
-                                        The mirror of StudioGlass KAMAL rectangular with backlight
-                                    </a>
-                                </div>
-                                <div class="product_price-wrap">
-                                        <div class="product_price" ><b  class="price">4955</b> <b >UAH</b> </div>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="swiper-slide">
-                            <div class="product js-product" data-price="2960">
-                                <div class="product_image-wrap">
-                                    <a class="product_image" href="/dzerkalo-salton-z-pidsvitkoyu-pryamokutne">
-                                        <div class="img-default">
-                                            <picture>
-
-                                                
-                                                <source srcset="/uploads/products/725X725/salton1.png" type="image/png">
-                                                <img src="/uploads/products/725X725/salton1.png" alt="">
-                                            </picture>
-                                        </div>
-                                        <div class="img-hover">
-                                            <picture>
-                                                
-
-                                                <source srcset="/uploads/products/725X725/salton1.png" type="image/png">
-                                                <img src="/uploads/products/725X725/salton1.png" alt="">
-                                            </picture>
-                                        </div>
-
-                                        <ul class="product_labels">
-                                        </ul>
-                                    </a>
-                                </div>
-                                <div class="product_title">
-                                    <a href="/dzerkalo-salton-z-pidsvitkoyu-pryamokutne">
-                                        The mirror of StudioGlass SALTON  rectangular with backlight
-                                    </a>
-                                </div>
-                                <div class="product_price-wrap">
-                                        <div class="product_price" ><b  class="price">4048</b> <b >UAH</b> </div>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="swiper-slide">
-                            <div class="product js-product" data-price="2960">
-                                <div class="product_image-wrap">
-                                    <a class="product_image" href="/dzerkalo-melvin-z-pidsvitkoyu-pryamokutne">
-                                        <div class="img-default">
-                                            <picture>
-
-                                                
-                                                <source srcset="/uploads/products/725X725/melvin1.png" type="image/png">
-                                                <img src="/uploads/products/725X725/melvin1.png" alt="">
-                                            </picture>
-                                        </div>
-                                        <div class="img-hover">
-                                            <picture>
-                                                
-
-                                                <source srcset="/uploads/products/725X725/melvin1.png" type="image/png">
-                                                <img src="/uploads/products/725X725/melvin1.png" alt="">
-                                            </picture>
-                                        </div>
-
-                                        <ul class="product_labels">
-                                        </ul>
-                                    </a>
-                                </div>
-                                <div class="product_title">
-                                    <a href="/dzerkalo-melvin-z-pidsvitkoyu-pryamokutne">
-                                        The mirror of StudioGlass MELVIN rectangular with frontlight
-                                    </a>
-                                </div>
-                                <div class="product_price-wrap">
-                                        <div class="product_price" ><b  class="price">4048</b> <b >UAH</b> </div>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="swiper-slide">
-                            <div class="product js-product" data-price="2960">
-                                <div class="product_image-wrap">
-                                    <a class="product_image" href="/dzerkalo-como-growth-z-pidsvitkoyu-971">
-                                        <div class="img-default">
-                                            <picture>
-
-                                                <source id="main-img-source1" srcset="/uploads/products/725X725/kerid-growth-png-930-kopiya.webp" type="image/webp">
-                                                <source srcset="/uploads/products/725X725/kerid-growth-png-930-kopiya.png" type="image/png">
-                                                <img src="/uploads/products/725X725/kerid-growth-png-930-kopiya.png" alt="">
-                                            </picture>
-                                        </div>
-                                        <div class="img-hover">
-                                            <picture>
-                                                <source id="main-img-source1" srcset="/uploads/products/725X725/kerid-growth-2-color-kvadrat-1000.webp" type="image/webp">
-
-                                                <source srcset="/uploads/products/725X725/kerid-growth-2-color-kvadrat-1000.jpg" type="image/png">
-                                                <img src="/uploads/products/725X725/kerid-growth-2-color-kvadrat-1000.jpg" alt="">
-                                            </picture>
-                                        </div>
-
-                                        <ul class="product_labels">
-                                        </ul>
-                                    </a>
-                                </div>
-                                <div class="product_title">
-                                    <a href="/dzerkalo-como-growth-z-pidsvitkoyu-971">
-                                        The mirror of StudioGlass COMO GROWTH with backlight
-                                    </a>
-                                </div>
-                                <div class="product_price-wrap">
-                                        <div class="product_price" ><b  class="price">7286</b> <b >UAH</b> </div>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="swiper-slide">
-                            <div class="product js-product" data-price="2960">
-                                <div class="product_image-wrap">
-                                    <a class="product_image" href="/dzerkalo-lucerne-z-fonovoyu-pidsvitkoyu">
-                                        <div class="img-default">
-                                            <picture>
-
-                                                <source id="main-img-source1" srcset="/uploads/products/725X725/lucerne-sayt-dark-930.webp" type="image/webp">
-                                                <source srcset="/uploads/products/725X725/lucerne-sayt-dark-930.jpg" type="image/png">
-                                                <img src="/uploads/products/725X725/lucerne-sayt-dark-930.jpg" alt="">
-                                            </picture>
-                                        </div>
-                                        <div class="img-hover">
-                                            <picture>
-                                                <source id="main-img-source1" srcset="/uploads/products/725X725/lucerne-sayt-svitlo-930.webp" type="image/webp">
-
-                                                <source srcset="/uploads/products/725X725/lucerne-sayt-svitlo-930.jpg" type="image/png">
-                                                <img src="/uploads/products/725X725/lucerne-sayt-svitlo-930.jpg" alt="">
-                                            </picture>
-                                        </div>
-
-                                        <ul class="product_labels">
-                                            <li class="product_label" style="background-color: #000000;">NEW</li>
-                                        </ul>
-                                    </a>
-                                </div>
-                                <div class="product_title">
-                                    <a href="/dzerkalo-lucerne-z-fonovoyu-pidsvitkoyu">
-                                        The mirror of StudioGlass LUCERNE with background lighting
-                                    </a>
-                                </div>
-                                <div class="product_price-wrap">
-                                        <div class="product_price" ><b  class="price">6456</b> <b >UAH</b> </div>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="swiper-slide">
-                            <div class="product js-product" data-price="2960">
-                                <div class="product_image-wrap">
-                                    <a class="product_image" href="/dzerkalo-melissani-ovalne">
-                                        <div class="img-default">
-                                            <picture>
-
-                                                
-                                                <source srcset="/uploads/products/725X725/melissani1.png" type="image/png">
-                                                <img src="/uploads/products/725X725/melissani1.png" alt="">
-                                            </picture>
-                                        </div>
-                                        <div class="img-hover">
-                                            <picture>
-                                                <source id="main-img-source1" srcset="/uploads/products/725X725/melissani-1-930.webp" type="image/webp">
-
-                                                <source srcset="/uploads/products/725X725/melissani-1-930.jpg" type="image/png">
-                                                <img src="/uploads/products/725X725/melissani-1-930.jpg" alt="">
-                                            </picture>
-                                        </div>
-
-                                        <ul class="product_labels">
-                                            <li class="product_label" style="background-color: #000000;">NEW</li>
-                                        </ul>
-                                    </a>
-                                </div>
-                                <div class="product_title">
-                                    <a href="/dzerkalo-melissani-ovalne">
-                                        The mirror of StudioGlass MELISSANI oval with background lighting
-                                    </a>
-                                </div>
-                                <div class="product_price-wrap">
-                                        <div class="product_price" ><b  class="price">6456</b> <b >UAH</b> </div>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="swiper-slide">
-                            <div class="product js-product" data-price="2960">
-                                <div class="product_image-wrap">
-                                    <a class="product_image" href="/dzerkalo-blossom-ovalne">
-                                        <div class="img-default">
-                                            <picture>
-
-                                                <source id="main-img-source1" srcset="/uploads/products/725X725/blossom-930.webp" type="image/webp">
-                                                <source srcset="/uploads/products/725X725/blossom-930.jpg" type="image/png">
-                                                <img src="/uploads/products/725X725/blossom-930.jpg" alt="">
-                                            </picture>
-                                        </div>
-                                        <div class="img-hover">
-                                            <picture>
-                                                <source id="main-img-source1" srcset="/uploads/products/725X725/blossom-930.webp" type="image/webp">
-
-                                                <source srcset="/uploads/products/725X725/blossom-930.jpg" type="image/png">
-                                                <img src="/uploads/products/725X725/blossom-930.jpg" alt="">
-                                            </picture>
-                                        </div>
-
-                                        <ul class="product_labels">
-                                        </ul>
-                                    </a>
-                                </div>
-                                <div class="product_title">
-                                    <a href="/dzerkalo-blossom-ovalne">
-                                        The mirror of StudioGlass BLOSSOM oval with front lighting
-                                    </a>
-                                </div>
-                                <div class="product_price-wrap">
-                                        <div class="product_price" ><b  class="price">5247</b> <b >UAH</b> </div>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="swiper-slide">
-                            <div class="product js-product" data-price="2960">
-                                <div class="product_image-wrap">
-                                    <a class="product_image" href="/dzerkalo-moon-z-pidsvitkoyu-pivkolo">
-                                        <div class="img-default">
-                                            <picture>
-
-                                                <source id="main-img-source1" srcset="/uploads/products/725X725/moon-off2-sq-930.webp" type="image/webp">
-                                                <source srcset="/uploads/products/725X725/moon-off2-sq-930.jpg" type="image/png">
-                                                <img src="/uploads/products/725X725/moon-off2-sq-930.jpg" alt="">
-                                            </picture>
-                                        </div>
-                                        <div class="img-hover">
-                                            <picture>
-                                                <source id="main-img-source1" srcset="/uploads/products/725X725/moon-on2-sq-930.webp" type="image/webp">
-
-                                                <source srcset="/uploads/products/725X725/moon-on2-sq-930.jpg" type="image/png">
-                                                <img src="/uploads/products/725X725/moon-on2-sq-930.jpg" alt="">
-                                            </picture>
-                                        </div>
-
-                                        <ul class="product_labels">
-                                            <li class="product_label" style="background-color: #000000;">NEW</li>
-                                        </ul>
-                                    </a>
-                                </div>
-                                <div class="product_title">
-                                    <a href="/dzerkalo-moon-z-pidsvitkoyu-pivkolo">
-                                        The mirror of StudioGlass MOON semicircle with backlight
-                                    </a>
-                                </div>
-                                <div class="product_price-wrap">
-                                        <div class="product_price" ><b  class="price">4340</b> <b >UAH</b> </div>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="swiper-slide">
-                            <div class="product js-product" data-price="2960">
-                                <div class="product_image-wrap">
-                                    <a class="product_image" href="/dzerkalo-resia-pryamokutne-z-matovoyu-ramkoyu">
-                                        <div class="img-default">
-                                            <picture>
-
-                                                
-                                                <source srcset="/uploads/products/725X725/resia.jpg" type="image/png">
-                                                <img src="/uploads/products/725X725/resia.jpg" alt="">
-                                            </picture>
-                                        </div>
-                                        <div class="img-hover">
-                                            <picture>
-                                                
-
-                                                <source srcset="/uploads/products/725X725/resia.jpg" type="image/png">
-                                                <img src="/uploads/products/725X725/resia.jpg" alt="">
-                                            </picture>
-                                        </div>
-
-                                        <ul class="product_labels">
-                                        </ul>
-                                    </a>
-                                </div>
-                                <div class="product_title">
-                                    <a href="/dzerkalo-resia-pryamokutne-z-matovoyu-ramkoyu">
-                                        The mirror of StudioGlass RESIA rectangular with background lighting and matte frame
-                                    </a>
-                                </div>
-                                <div class="product_price-wrap">
-                                        <div class="product_price" ><b  class="price">5098</b> <b >UAH</b> </div>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="swiper-slide">
-                            <div class="product js-product" data-price="2960">
-                                <div class="product_image-wrap">
-                                    <a class="product_image" href="/dzerkalo-kerid-z-pidsvitkoyu-pryamokutne">
-                                        <div class="img-default">
-                                            <picture>
-
-                                                
-                                                <source srcset="/uploads/products/725X725/kerid1.png" type="image/png">
-                                                <img src="/uploads/products/725X725/kerid1.png" alt="">
-                                            </picture>
-                                        </div>
-                                        <div class="img-hover">
-                                            <picture>
-                                                
-
-                                                <source srcset="/uploads/products/725X725/kerid1.png" type="image/png">
-                                                <img src="/uploads/products/725X725/kerid1.png" alt="">
-                                            </picture>
-                                        </div>
-
-                                        <ul class="product_labels">
-                                        </ul>
-                                    </a>
-                                </div>
-                                <div class="product_title">
-                                    <a href="/dzerkalo-kerid-z-pidsvitkoyu-pryamokutne">
-                                        The mirror of StudioGlass KERID rectangular with backlight
-                                    </a>
-                                </div>
-                                <div class="product_price-wrap">
-                                        <div class="product_price" ><b  class="price">4048</b> <b >UAH</b> </div>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="swiper-slide">
-                            <div class="product js-product" data-price="2960">
-                                <div class="product_image-wrap">
-                                    <a class="product_image" href="/dzerkalo-buffalo-z-pidsvitkoyu-pryamokutne">
-                                        <div class="img-default">
-                                            <picture>
-
-                                                <source id="main-img-source1" srcset="/uploads/products/725X725/buffalo.webp" type="image/webp">
-                                                <source srcset="/uploads/products/725X725/buffalo.jpg" type="image/png">
-                                                <img src="/uploads/products/725X725/buffalo.jpg" alt="">
-                                            </picture>
-                                        </div>
-                                        <div class="img-hover">
-                                            <picture>
-                                                <source id="main-img-source1" srcset="/uploads/products/725X725/buffalo.webp" type="image/webp">
-
-                                                <source srcset="/uploads/products/725X725/buffalo.jpg" type="image/png">
-                                                <img src="/uploads/products/725X725/buffalo.jpg" alt="">
-                                            </picture>
-                                        </div>
-
-                                        <ul class="product_labels">
-                                        </ul>
-                                    </a>
-                                </div>
-                                <div class="product_title">
-                                    <a href="/dzerkalo-buffalo-z-pidsvitkoyu-pryamokutne">
-                                        The mirror of StudioGlass BUFFALO rectangular with backlight
-                                    </a>
-                                </div>
-                                <div class="product_price-wrap">
-                                        <div class="product_price" ><b  class="price">3618</b> <b >UAH</b> </div>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="swiper-slide">
-                            <div class="product js-product" data-price="2960">
-                                <div class="product_image-wrap">
-                                    <a class="product_image" href="/dzerkalo-como-z-pidsvitkoyu-pryamokutne">
-                                        <div class="img-default">
-                                            <picture>
-
-                                                
-                                                <source srcset="/uploads/products/725X725/como1.png" type="image/png">
-                                                <img src="/uploads/products/725X725/como1.png" alt="">
-                                            </picture>
-                                        </div>
-                                        <div class="img-hover">
-                                            <picture>
-                                                
-
-                                                <source srcset="/uploads/products/725X725/como1.png" type="image/png">
-                                                <img src="/uploads/products/725X725/como1.png" alt="">
-                                            </picture>
-                                        </div>
-
-                                        <ul class="product_labels">
-                                        </ul>
-                                    </a>
-                                </div>
-                                <div class="product_title">
-                                    <a href="/dzerkalo-como-z-pidsvitkoyu-pryamokutne">
-                                        The mirror of StudioGlass COMO rectangular with backlight
-                                    </a>
-                                </div>
-                                <div class="product_price-wrap">
-                                        <div class="product_price" ><b  class="price">4048</b> <b >UAH</b> </div>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="swiper-slide">
-                            <div class="product js-product" data-price="2960">
-                                <div class="product_image-wrap">
-                                    <a class="product_image" href="/merage">
-                                        <div class="img-default">
-                                            <picture>
-
-                                                <source id="main-img-source1" srcset="/uploads/products/725X725/blank_0000_meerauge.webp" type="image/webp">
-                                                <source srcset="/uploads/products/725X725/blank_0000_meerauge.jpg" type="image/png">
-                                                <img src="/uploads/products/725X725/blank_0000_meerauge.jpg" alt="">
-                                            </picture>
-                                        </div>
-                                        <div class="img-hover">
-                                            <picture>
-                                                
-
-                                                <source srcset="/uploads/products/725X725/930-x-930-meerauge.png" type="image/png">
-                                                <img src="/uploads/products/725X725/930-x-930-meerauge.png" alt="">
-                                            </picture>
-                                        </div>
-
-                                        <ul class="product_labels">
-                                        </ul>
-                                    </a>
-                                </div>
-                                <div class="product_title">
-                                    <a href="/merage">
-                                        Round mirror on a combined leather belt StudioGlass MEERAUGE 
-                                    </a>
-                                </div>
-                                <div class="product_price-wrap">
-                                        <div class="product_price" ><b  class="price">3425</b> <b >UAH</b> </div>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="swiper-slide">
-                            <div class="product js-product" data-price="2960">
-                                <div class="product_image-wrap">
-                                    <a class="product_image" href="/dzerkalo-moraine-z-pidsvitkoyu-krugle">
-                                        <div class="img-default">
-                                            <picture>
-
-                                                
-                                                <source srcset="/uploads/products/725X725/moraine1.png" type="image/png">
-                                                <img src="/uploads/products/725X725/moraine1.png" alt="">
-                                            </picture>
-                                        </div>
-                                        <div class="img-hover">
-                                            <picture>
-                                                
-
-                                                <source srcset="/uploads/products/725X725/moraine1.png" type="image/png">
-                                                <img src="/uploads/products/725X725/moraine1.png" alt="">
-                                            </picture>
-                                        </div>
-
-                                        <ul class="product_labels">
-                                        </ul>
-                                    </a>
-                                </div>
-                                <div class="product_title">
-                                    <a href="/dzerkalo-moraine-z-pidsvitkoyu-krugle">
-                                        The mirror of StudioGlass MORAINE round with backlight
-                                    </a>
-                                </div>
-                                <div class="product_price-wrap">
-                                        <div class="product_price" ><b  class="price">3517</b> <b >UAH</b> </div>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="swiper-slide">
-                            <div class="product js-product" data-price="2960">
-                                <div class="product_image-wrap">
-                                    <a class="product_image" href="/dzerkalo-rico">
-                                        <div class="img-default">
-                                            <picture>
-
-                                                <source id="main-img-source1" srcset="/uploads/products/725X725/rico-studioglass-mirror.webp" type="image/webp">
-                                                <source srcset="/uploads/products/725X725/rico-studioglass-mirror.png" type="image/png">
-                                                <img src="/uploads/products/725X725/rico-studioglass-mirror.png" alt="">
-                                            </picture>
-                                        </div>
-                                        <div class="img-hover">
-                                            <picture>
-                                                <source id="main-img-source1" srcset="/uploads/products/725X725/rico-studioglass-mirror.webp" type="image/webp">
-
-                                                <source srcset="/uploads/products/725X725/rico-studioglass-mirror.png" type="image/png">
-                                                <img src="/uploads/products/725X725/rico-studioglass-mirror.png" alt="">
-                                            </picture>
-                                        </div>
-
-                                        <ul class="product_labels">
-                                        </ul>
-                                    </a>
-                                </div>
-                                <div class="product_title">
-                                    <a href="/dzerkalo-rico">
-                                        The mirror of StudioGlass RICO round with backlight
-                                    </a>
-                                </div>
-                                <div class="product_price-wrap">
-                                        <div class="product_price" ><b  class="price">3314</b> <b >UAH</b> </div>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="swiper-slide">
-                            <div class="product js-product" data-price="2960">
-                                <div class="product_image-wrap">
-                                    <a class="product_image" href="/dzerkalo-agnes">
-                                        <div class="img-default">
-                                            <picture>
-
-                                                
-                                                <source srcset="/uploads/products/725X725/agnes1.png" type="image/png">
-                                                <img src="/uploads/products/725X725/agnes1.png" alt="">
-                                            </picture>
-                                        </div>
-                                        <div class="img-hover">
-                                            <picture>
-                                                
-
-                                                <source srcset="/uploads/products/725X725/930-x-930-agnes.png" type="image/png">
-                                                <img src="/uploads/products/725X725/930-x-930-agnes.png" alt="">
-                                            </picture>
-                                        </div>
-
-                                        <ul class="product_labels">
-                                        </ul>
-                                    </a>
-                                </div>
-                                <div class="product_title">
-                                    <a href="/dzerkalo-agnes">
-                                        The mirror of StudioGlass AGNES round with backlight
-                                    </a>
-                                </div>
-                                <div class="product_price-wrap">
-                                        <div class="product_price" ><b  class="price">3018</b> <b >UAH</b> </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-
-                </div>
-
-                <div class="swiper-controls">
-                    <div class="swiper-pagination"></div>
-                    <div class="swiper-controls-margin"></div>
-                    <div class="swiper-button-prev"><i></i></div>
-                    <div class="swiper-button-next"><i></i></div>
-                </div>
-
-            </div>
-        </div>
-        <div class="spacer spacer-xl"></div>
-    </div>
         <!-- Seo block  * -->
         <div class="section">
             <div class="container">
@@ -1668,9 +1062,9 @@
         <!-- FOOTER -->
         <footer>
             <footer itemscope itemtype="http://schema.org/Organization">
-                <meta itemprop="url" content="https://armourglass.shop/">
+                <meta itemprop="url" content="https://studioglass.ua/">
                 <meta itemprop="telephone" content="+380800330836">
-                <meta itemprop="logo" content="https://armourglass.shop/uploads/original/logo-b.svg">
+                <meta itemprop="logo" content="https://studioglass.ua/uploads/original/logo-b.svg">
                 <meta itemprop="name" content="Studioglass">
                 <meta itemprop="description" content="Львівська Фабрика Дзеркал ⭐ Studio Glass ✓ Дзеркала з підсвіткою ✓ Дзеркала в рамі ✓ Душові кабіни ✓ Великі дзеркала ☎️ +38(080)033-08-36.">
                 <div class="container">
@@ -1900,7 +1294,7 @@
         <div class="cookies-informer-inner">
             <div class="text text-popup-dark">
                 <p>Our site uses cookies to distinguish you from other users of our site. This allows us to provide convenient viewing of our site, and also allows us to improve it</p>
-<p><a href="https://armourglass.shop/en/privat-policy-en" target="_blank" rel="noopener">Cookies policy</a></p>
+<p><a href="https://studioglass.ua/en/privat-policy-en" target="_blank" rel="noopener">Cookies policy</a></p>
             </div>
             <div class="btn close-cookies cookie-popup-agree-btn">accept</div>
         </div>
@@ -2356,9 +1750,17 @@
             </div>
         </div>
     
+        <!-- Shower schema popup  -->
+        <div class="popup-content shower-schema-popup" data-rel="shower-schema-popup">
+            <div class="layer-close"></div>
+            <div class="popup-container size-3 shower-schema-content">
+            <button class="btn-close close-popup"></button>
+            </div>
+        </div>
+    
     </div>    <link href="/css/swiper-bundle.min.css" rel="stylesheet" type="text/css" />
-    <link href="/css/sumoselect.min.css" rel="stylesheet" type="text/css" />
-    <link href="/css/style.css?v=1.2" rel="stylesheet" type="text/css" />
+    <link href="/css/sumoselect.min.css?v=1.0" rel="stylesheet" type="text/css" />
+    <link href="/css/style.css?v=1.3" rel="stylesheet" type="text/css" />
     
     
     <script defer src="/js/jquery.min.js"></script>
@@ -2370,17 +1772,17 @@
     <script defer src="/js/jquery.inputmask.min.js"></script>
     <script defer src="/js/jquery.sumoselect.min.js"></script>
     <script defer src="/js/jquery-ui.min.js"></script>
-    <script defer src="/js/global.js?v=2.2"></script>
+    <script defer src="/js/global.js?v=2.5"></script>
     <!-- can be disabled on mobile device -->
     <script defer src="/js/SmoothScroll.js"></script>
     <script defer src="/js/jquery.sticky-kit.min.js"></script>
     <script defer src="/js/custom.js?v=1.1"></script>
     <script defer src="/js/pagination.js?v=1.0"></script>
-    <link href="/css/ion.rangeSlider.min.css" rel="stylesheet" type="text/css" />
-    <link href="/css/rangeSliderCustom.css" rel="stylesheet" type="text/css" />
+    <link href="/css/ion.rangeSlider.min.css?v=1.0" rel="stylesheet" type="text/css" />
+    <link href="/css/rangeSliderCustom.css?v=1.0" rel="stylesheet" type="text/css" />
     <script defer src="/js/ion.rangeSlider.min.js"></script>
     <script defer src="/js/rangeSliderCustom.js"></script>
-    <link href="/css/SumoselectCustom.css" rel="stylesheet" type="text/css" />
+    <link href="/css/SumoselectCustom.css?v=1.0" rel="stylesheet" type="text/css" />
     <script defer src="/js/jquery.sumoselect.min.js"></script>
     <script defer src="/js/sumoselectCustom.js"></script>
     <script defer src="/js/ScrollMagic.min.js"></script>

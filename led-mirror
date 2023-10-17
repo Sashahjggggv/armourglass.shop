@@ -29,13 +29,13 @@
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=0" />
     <meta name="google-site-verification" content="_TssH0mwWwYlp7QE3SXnnyjrfpdPCnsAnNmcgxrhnvQ" />
     <link href="/css/bootstrap-grid.min.css" rel="stylesheet" type="text/css" />
-    <link href="/css/main.css" rel="stylesheet" type="text/css" />
+    <link href="/css/main.css?v=1.0" rel="stylesheet" type="text/css" />
     <link href="/css/custom.css?v=1.1" rel="stylesheet" type="text/css" />
     <link rel="shortcut icon" href="/img/favicon.ico" />
     <title>➤ Дзеркала з підсвіткою • Купити Дзеркало з лед підсвіткою - Studio Glass</title>
 <meta name="description" content="【 Купити дзеркало з підсвіткою 】 Львівська Фабрика Дзеркал ⭐ Studio Glass ✓ Гарантія 36 місяців ✓ Досвід обробки скла - 7 років ☎️ +38(080)033-08-36.">
-<link rel="canonical" href="https://armourglass.shop/led-mirror"/>
-<base href="https://armourglass.shop">
+<link rel="canonical" href="https://studioglass.ua/led-mirror"/>
+<base href="https://studioglass.ua">
 
 </head>
 
@@ -267,7 +267,7 @@
                         <ul class="social">
                             <li>
                                  
-                                <a href="https://www.instagram.com/armourglass.shop" target="_blank">
+                                <a href="https://www.instagram.com/studioglass.ua" target="_blank">
                                         <img class="s-icon-b" src="/uploads/pages/original/instagram-b_1.svg" alt="">
                                 </a>
                             </li>
@@ -583,10 +583,9 @@
                                         <a class="product_image" href="/dzerkalo-agnes">
                                             <div class="img-default">
                                                 <picture>
-                                                    
-
-                                                    <source srcset='/uploads/products/725X725/agnes1.png' type='image/jpg'>
-                                                    <img src='/uploads/products/725X725/agnes1.png' alt='' loading='lazy'>
+                                                        
+                                                        <source srcset="/uploads/products/725X725/agnes1.png" type="image/png">
+                                                        <img src="/uploads/products/725X725/agnes1.png" alt="">
                                                 </picture>
                                             </div>
                                             <div class="img-hover">
@@ -617,10 +616,9 @@
                                         <a class="product_image" href="/dzerkalo-rico">
                                             <div class="img-default">
                                                 <picture>
-                                                    <source id="main-img-source1" srcset="/uploads/products/725X725/rico-studioglass-mirror.webp" type="image/webp">
-
-                                                    <source srcset='/uploads/products/725X725/rico-studioglass-mirror.png' type='image/jpg'>
-                                                    <img src='/uploads/products/725X725/rico-studioglass-mirror.png' alt='' loading='lazy'>
+                                                        <source id="main-img-source1" srcset="/uploads/products/725X725/rico-studioglass-mirror.webp" type="image/webp">
+                                                        <source srcset="/uploads/products/725X725/rico-studioglass-mirror.png" type="image/png">
+                                                        <img src="/uploads/products/725X725/rico-studioglass-mirror.png" alt="">
                                                 </picture>
                                             </div>
                                             <div class="img-hover">
@@ -651,10 +649,9 @@
                                         <a class="product_image" href="/dzerkalo-moraine-z-pidsvitkoyu-krugle">
                                             <div class="img-default">
                                                 <picture>
-                                                    
-
-                                                    <source srcset='/uploads/products/725X725/moraine1.png' type='image/jpg'>
-                                                    <img src='/uploads/products/725X725/moraine1.png' alt='' loading='lazy'>
+                                                        
+                                                        <source srcset="/uploads/products/725X725/moraine1.png" type="image/png">
+                                                        <img src="/uploads/products/725X725/moraine1.png" alt="">
                                                 </picture>
                                             </div>
                                             <div class="img-hover">
@@ -685,10 +682,9 @@
                                         <a class="product_image" href="/merage">
                                             <div class="img-default">
                                                 <picture>
-                                                    <source id="main-img-source1" srcset="/uploads/products/725X725/blank_0000_meerauge.webp" type="image/webp">
-
-                                                    <source srcset='/uploads/products/725X725/blank_0000_meerauge.jpg' type='image/jpg'>
-                                                    <img src='/uploads/products/725X725/blank_0000_meerauge.jpg' alt='' loading='lazy'>
+                                                        <source id="main-img-source1" srcset="/uploads/products/725X725/blank_0000_meerauge.webp" type="image/webp">
+                                                        <source srcset="/uploads/products/725X725/blank_0000_meerauge.jpg" type="image/png">
+                                                        <img src="/uploads/products/725X725/blank_0000_meerauge.jpg" alt="">
                                                 </picture>
                                             </div>
                                             <div class="img-hover">
@@ -719,10 +715,9 @@
                                         <a class="product_image" href="/dzerkalo-como-z-pidsvitkoyu-pryamokutne">
                                             <div class="img-default">
                                                 <picture>
-                                                    
-
-                                                    <source srcset='/uploads/products/725X725/como1.png' type='image/jpg'>
-                                                    <img src='/uploads/products/725X725/como1.png' alt='' loading='lazy'>
+                                                        
+                                                        <source srcset="/uploads/products/725X725/como1.png" type="image/png">
+                                                        <img src="/uploads/products/725X725/como1.png" alt="">
                                                 </picture>
                                             </div>
                                             <div class="img-hover">
@@ -753,18 +748,16 @@
                                         <a class="product_image" href="/dzerkalo-buffalo-z-pidsvitkoyu-pryamokutne">
                                             <div class="img-default">
                                                 <picture>
-                                                    <source id="main-img-source1" srcset="/uploads/products/725X725/buffalo.webp" type="image/webp">
-
-                                                    <source srcset='/uploads/products/725X725/buffalo.jpg' type='image/jpg'>
-                                                    <img src='/uploads/products/725X725/buffalo.jpg' alt='' loading='lazy'>
+                                                        <source id="main-img-source1" srcset="/uploads/products/725X725/buffalo.webp" type="image/webp">
+                                                        <source srcset="/uploads/products/725X725/buffalo.jpg" type="image/png">
+                                                        <img src="/uploads/products/725X725/buffalo.jpg" alt="">
                                                 </picture>
                                             </div>
                                             <div class="img-hover">
                                                 <picture>
-                                                    <source id="main-img-source1" srcset="/uploads/products/725X725/buffalo.webp" type="image/webp">
-
-                                                    <source srcset="/uploads/products/725X725/buffalo.jpg" type="image/png">
-                                                    <img src="/uploads/products/725X725/buffalo.jpg" alt="">
+                                                        <source id="main-img-source1" srcset="/uploads/products/725X725/buffalo.webp" type="image/webp">
+                                                        <source srcset="/uploads/products/725X725/buffalo.jpg" type="image/png">
+                                                        <img src="/uploads/products/725X725/buffalo.jpg" alt="">
                                                 </picture>
                                             </div>
                                             <ul class="product_labels">
@@ -787,10 +780,9 @@
                                         <a class="product_image" href="/dzerkalo-kerid-z-pidsvitkoyu-pryamokutne">
                                             <div class="img-default">
                                                 <picture>
-                                                    
-
-                                                    <source srcset='/uploads/products/725X725/kerid1.png' type='image/jpg'>
-                                                    <img src='/uploads/products/725X725/kerid1.png' alt='' loading='lazy'>
+                                                        
+                                                        <source srcset="/uploads/products/725X725/kerid1.png" type="image/png">
+                                                        <img src="/uploads/products/725X725/kerid1.png" alt="">
                                                 </picture>
                                             </div>
                                             <div class="img-hover">
@@ -821,10 +813,9 @@
                                         <a class="product_image" href="/dzerkalo-resia-pryamokutne-z-matovoyu-ramkoyu">
                                             <div class="img-default">
                                                 <picture>
-                                                    
-
-                                                    <source srcset='/uploads/products/725X725/resia.jpg' type='image/jpg'>
-                                                    <img src='/uploads/products/725X725/resia.jpg' alt='' loading='lazy'>
+                                                        
+                                                        <source srcset="/uploads/products/725X725/resia.jpg" type="image/png">
+                                                        <img src="/uploads/products/725X725/resia.jpg" alt="">
                                                 </picture>
                                             </div>
                                             <div class="img-hover">
@@ -855,10 +846,9 @@
                                         <a class="product_image" href="/dzerkalo-moon-z-pidsvitkoyu-pivkolo">
                                             <div class="img-default">
                                                 <picture>
-                                                    <source id="main-img-source1" srcset="/uploads/products/725X725/moon-off2-sq-930.webp" type="image/webp">
-
-                                                    <source srcset='/uploads/products/725X725/moon-off2-sq-930.jpg' type='image/jpg'>
-                                                    <img src='/uploads/products/725X725/moon-off2-sq-930.jpg' alt='' loading='lazy'>
+                                                        <source id="main-img-source1" srcset="/uploads/products/725X725/moon-off2-sq-930.webp" type="image/webp">
+                                                        <source srcset="/uploads/products/725X725/moon-off2-sq-930.jpg" type="image/png">
+                                                        <img src="/uploads/products/725X725/moon-off2-sq-930.jpg" alt="">
                                                 </picture>
                                             </div>
                                             <div class="img-hover">
@@ -890,10 +880,9 @@
                                         <a class="product_image" href="/dzerkalo-blossom-ovalne">
                                             <div class="img-default">
                                                 <picture>
-                                                    <source id="main-img-source1" srcset="/uploads/products/725X725/blossom-930.webp" type="image/webp">
-
-                                                    <source srcset='/uploads/products/725X725/blossom-930.jpg' type='image/jpg'>
-                                                    <img src='/uploads/products/725X725/blossom-930.jpg' alt='' loading='lazy'>
+                                                        <source id="main-img-source1" srcset="/uploads/products/725X725/blossom-930.webp" type="image/webp">
+                                                        <source srcset="/uploads/products/725X725/blossom-930.jpg" type="image/png">
+                                                        <img src="/uploads/products/725X725/blossom-930.jpg" alt="">
                                                 </picture>
                                             </div>
                                             <div class="img-hover">
@@ -924,10 +913,9 @@
                                         <a class="product_image" href="/dzerkalo-melissani-ovalne">
                                             <div class="img-default">
                                                 <picture>
-                                                    
-
-                                                    <source srcset='/uploads/products/725X725/melissani1.png' type='image/jpg'>
-                                                    <img src='/uploads/products/725X725/melissani1.png' alt='' loading='lazy'>
+                                                        
+                                                        <source srcset="/uploads/products/725X725/melissani1.png" type="image/png">
+                                                        <img src="/uploads/products/725X725/melissani1.png" alt="">
                                                 </picture>
                                             </div>
                                             <div class="img-hover">
@@ -959,10 +947,9 @@
                                         <a class="product_image" href="/dzerkalo-lucerne-z-fonovoyu-pidsvitkoyu">
                                             <div class="img-default">
                                                 <picture>
-                                                    <source id="main-img-source1" srcset="/uploads/products/725X725/lucerne-sayt-dark-930.webp" type="image/webp">
-
-                                                    <source srcset='/uploads/products/725X725/lucerne-sayt-dark-930.jpg' type='image/jpg'>
-                                                    <img src='/uploads/products/725X725/lucerne-sayt-dark-930.jpg' alt='' loading='lazy'>
+                                                        <source id="main-img-source1" srcset="/uploads/products/725X725/lucerne-sayt-dark-930.webp" type="image/webp">
+                                                        <source srcset="/uploads/products/725X725/lucerne-sayt-dark-930.jpg" type="image/png">
+                                                        <img src="/uploads/products/725X725/lucerne-sayt-dark-930.jpg" alt="">
                                                 </picture>
                                             </div>
                                             <div class="img-hover">
@@ -994,10 +981,9 @@
                                         <a class="product_image" href="/dzerkalo-kerid-growth-z-pidsvitkoyu-969">
                                             <div class="img-default">
                                                 <picture>
-                                                    <source id="main-img-source1" srcset="/uploads/products/725X725/kerid-growth-png-930-kopiya.webp" type="image/webp">
-
-                                                    <source srcset='/uploads/products/725X725/kerid-growth-png-930-kopiya.png' type='image/jpg'>
-                                                    <img src='/uploads/products/725X725/kerid-growth-png-930-kopiya.png' alt='' loading='lazy'>
+                                                        <source id="main-img-source1" srcset="/uploads/products/725X725/kerid-growth-png-930-kopiya.webp" type="image/webp">
+                                                        <source srcset="/uploads/products/725X725/kerid-growth-png-930-kopiya.png" type="image/png">
+                                                        <img src="/uploads/products/725X725/kerid-growth-png-930-kopiya.png" alt="">
                                                 </picture>
                                             </div>
                                             <div class="img-hover">
@@ -1028,10 +1014,9 @@
                                         <a class="product_image" href="/dzerkalo-melvin-z-pidsvitkoyu-pryamokutne">
                                             <div class="img-default">
                                                 <picture>
-                                                    
-
-                                                    <source srcset='/uploads/products/725X725/melvin1.png' type='image/jpg'>
-                                                    <img src='/uploads/products/725X725/melvin1.png' alt='' loading='lazy'>
+                                                        
+                                                        <source srcset="/uploads/products/725X725/melvin1.png" type="image/png">
+                                                        <img src="/uploads/products/725X725/melvin1.png" alt="">
                                                 </picture>
                                             </div>
                                             <div class="img-hover">
@@ -1062,10 +1047,9 @@
                                         <a class="product_image" href="/dzerkalo-salton-z-pidsvitkoyu-pryamokutne">
                                             <div class="img-default">
                                                 <picture>
-                                                    
-
-                                                    <source srcset='/uploads/products/725X725/salton1.png' type='image/jpg'>
-                                                    <img src='/uploads/products/725X725/salton1.png' alt='' loading='lazy'>
+                                                        
+                                                        <source srcset="/uploads/products/725X725/salton1.png" type="image/png">
+                                                        <img src="/uploads/products/725X725/salton1.png" alt="">
                                                 </picture>
                                             </div>
                                             <div class="img-hover">
@@ -1096,10 +1080,9 @@
                                         <a class="product_image" href="/dzerkalo-kamal-z-pidsvitkoyu">
                                             <div class="img-default">
                                                 <picture>
-                                                    
-
-                                                    <source srcset='/uploads/products/725X725/kamal1.png' type='image/jpg'>
-                                                    <img src='/uploads/products/725X725/kamal1.png' alt='' loading='lazy'>
+                                                        
+                                                        <source srcset="/uploads/products/725X725/kamal1.png" type="image/png">
+                                                        <img src="/uploads/products/725X725/kamal1.png" alt="">
                                                 </picture>
                                             </div>
                                             <div class="img-hover">
@@ -1242,9 +1225,9 @@
         <!-- FOOTER -->
         <footer>
             <footer itemscope itemtype="http://schema.org/Organization">
-                <meta itemprop="url" content="https://armourglass.shop/">
+                <meta itemprop="url" content="https://studioglass.ua/">
                 <meta itemprop="telephone" content="+380800330836">
-                <meta itemprop="logo" content="https://armourglass.shop/uploads/original/logo-b.svg">
+                <meta itemprop="logo" content="https://studioglass.ua/uploads/original/logo-b.svg">
                 <meta itemprop="name" content="Studioglass">
                 <meta itemprop="description" content="Львівська Фабрика Дзеркал ⭐ Studio Glass ✓ Дзеркала з підсвіткою ✓ Дзеркала в рамі ✓ Душові кабіни ✓ Великі дзеркала ☎️ +38(080)033-08-36.">
                 <div class="container">
@@ -1475,7 +1458,7 @@
     <div class="cookies-informer cookies-informer-dark" data-time="3000">
         <div class="cookies-informer-inner">
             <div class="text text-popup-dark">
-                <p>Наш сайт використовує cookies-файли для того, щоб відрізнити вас від інших користувачів нашого ресурсу. Це дозволяє забезпечувати зручний перегляд нашого сайту, а також дозволяє покращувати його. Для того щоб продовжити роботу з сайтом, вам необхідно прийняти умови <a href="https://armourglass.shop/privat-policy" target="_blank" rel="noopener">Політики конфіденційності</a></p>
+                <p>Наш сайт використовує cookies-файли для того, щоб відрізнити вас від інших користувачів нашого ресурсу. Це дозволяє забезпечувати зручний перегляд нашого сайту, а також дозволяє покращувати його. Для того щоб продовжити роботу з сайтом, вам необхідно прийняти умови <a href="https://studioglass.ua/privat-policy" target="_blank" rel="noopener">Політики конфіденційності</a></p>
             </div>
             <div class="btn close-cookies cookie-popup-agree-btn">прийняти</div>
         </div>
@@ -1931,9 +1914,17 @@
             </div>
         </div>
     
+        <!-- Shower schema popup  -->
+        <div class="popup-content shower-schema-popup" data-rel="shower-schema-popup">
+            <div class="layer-close"></div>
+            <div class="popup-container size-3 shower-schema-content">
+            <button class="btn-close close-popup"></button>
+            </div>
+        </div>
+    
     </div>    <link href="/css/swiper-bundle.min.css" rel="stylesheet" type="text/css" />
-    <link href="/css/sumoselect.min.css" rel="stylesheet" type="text/css" />
-    <link href="/css/style.css?v=1.2" rel="stylesheet" type="text/css" />
+    <link href="/css/sumoselect.min.css?v=1.0" rel="stylesheet" type="text/css" />
+    <link href="/css/style.css?v=1.3" rel="stylesheet" type="text/css" />
     
     
     <script defer src="/js/jquery.min.js"></script>
@@ -1945,17 +1936,17 @@
     <script defer src="/js/jquery.inputmask.min.js"></script>
     <script defer src="/js/jquery.sumoselect.min.js"></script>
     <script defer src="/js/jquery-ui.min.js"></script>
-    <script defer src="/js/global.js?v=2.2"></script>
+    <script defer src="/js/global.js?v=2.5"></script>
     <!-- can be disabled on mobile device -->
     <script defer src="/js/SmoothScroll.js"></script>
     <script defer src="/js/jquery.sticky-kit.min.js"></script>
     <script defer src="/js/custom.js?v=1.1"></script>
     <script defer src="/js/pagination.js?v=1.0"></script>
-    <link href="/css/ion.rangeSlider.min.css" rel="stylesheet" type="text/css" />
-    <link href="/css/rangeSliderCustom.css" rel="stylesheet" type="text/css" />
+    <link href="/css/ion.rangeSlider.min.css?v=1.0" rel="stylesheet" type="text/css" />
+    <link href="/css/rangeSliderCustom.css?v=1.0" rel="stylesheet" type="text/css" />
     <script defer src="/js/ion.rangeSlider.min.js"></script>
     <script defer src="/js/rangeSliderCustom.js"></script>
-    <link href="/css/SumoselectCustom.css" rel="stylesheet" type="text/css" />
+    <link href="/css/SumoselectCustom.css?v=1.0" rel="stylesheet" type="text/css" />
     <script defer src="/js/jquery.sumoselect.min.js"></script>
     <script defer src="/js/sumoselectCustom.js"></script>
     <script defer src="/js/ScrollMagic.min.js"></script>

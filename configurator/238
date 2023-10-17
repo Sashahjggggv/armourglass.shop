@@ -29,7 +29,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=0" />
     <meta name="google-site-verification" content="_TssH0mwWwYlp7QE3SXnnyjrfpdPCnsAnNmcgxrhnvQ" />
     <link href="/css/bootstrap-grid.min.css" rel="stylesheet" type="text/css" />
-    <link href="/css/main.css" rel="stylesheet" type="text/css" />
+    <link href="/css/main.css?v=1.0" rel="stylesheet" type="text/css" />
     <link href="/css/custom.css?v=1.1" rel="stylesheet" type="text/css" />
     <link rel="shortcut icon" href="/img/favicon.ico" />
     <title>Конфігуратор</title>
@@ -263,7 +263,7 @@
                         <ul class="social">
                             <li>
                                  
-                                <a href="https://www.instagram.com/armourglass.shop" target="_blank">
+                                <a href="https://www.instagram.com/studioglass.ua" target="_blank">
                                         <img class="s-icon-w" src="/uploads/pages/original/instagram-w_2.svg" alt="">
                                 </a>
                             </li>
@@ -1830,9 +1830,9 @@
         <!-- FOOTER -->
         <footer>
             <footer itemscope itemtype="http://schema.org/Organization">
-                <meta itemprop="url" content="https://armourglass.shop/">
+                <meta itemprop="url" content="https://studioglass.ua/">
                 <meta itemprop="telephone" content="+380800330836">
-                <meta itemprop="logo" content="https://armourglass.shop/uploads/original/logo-b.svg">
+                <meta itemprop="logo" content="https://studioglass.ua/uploads/original/logo-b.svg">
                 <meta itemprop="name" content="Studioglass">
                 <meta itemprop="description" content="Львівська Фабрика Дзеркал ⭐ Studio Glass ✓ Дзеркала з підсвіткою ✓ Дзеркала в рамі ✓ Душові кабіни ✓ Великі дзеркала ☎️ +38(080)033-08-36.">
                 <div class="container">
@@ -2063,7 +2063,7 @@
     <div class="cookies-informer " data-time="3000">
         <div class="cookies-informer-inner">
             <div class="text ">
-                <p>Наш сайт використовує cookies-файли для того, щоб відрізнити вас від інших користувачів нашого ресурсу. Це дозволяє забезпечувати зручний перегляд нашого сайту, а також дозволяє покращувати його. Для того щоб продовжити роботу з сайтом, вам необхідно прийняти умови <a href="https://armourglass.shop/privat-policy" target="_blank" rel="noopener">Політики конфіденційності</a></p>
+                <p>Наш сайт використовує cookies-файли для того, щоб відрізнити вас від інших користувачів нашого ресурсу. Це дозволяє забезпечувати зручний перегляд нашого сайту, а також дозволяє покращувати його. Для того щоб продовжити роботу з сайтом, вам необхідно прийняти умови <a href="https://studioglass.ua/privat-policy" target="_blank" rel="noopener">Політики конфіденційності</a></p>
             </div>
             <div class="btn close-cookies cookie-popup-agree-btn">прийняти</div>
         </div>
@@ -2519,9 +2519,17 @@
             </div>
         </div>
     
+        <!-- Shower schema popup  -->
+        <div class="popup-content shower-schema-popup" data-rel="shower-schema-popup">
+            <div class="layer-close"></div>
+            <div class="popup-container size-3 shower-schema-content">
+            <button class="btn-close close-popup"></button>
+            </div>
+        </div>
+    
     </div>    <link href="/css/swiper-bundle.min.css" rel="stylesheet" type="text/css" />
-    <link href="/css/sumoselect.min.css" rel="stylesheet" type="text/css" />
-    <link href="/css/style.css?v=1.2" rel="stylesheet" type="text/css" />
+    <link href="/css/sumoselect.min.css?v=1.0" rel="stylesheet" type="text/css" />
+    <link href="/css/style.css?v=1.3" rel="stylesheet" type="text/css" />
     
     
     <script defer src="/js/jquery.min.js"></script>
@@ -2533,13 +2541,13 @@
     <script defer src="/js/jquery.inputmask.min.js"></script>
     <script defer src="/js/jquery.sumoselect.min.js"></script>
     <script defer src="/js/jquery-ui.min.js"></script>
-    <script defer src="/js/global.js?v=2.2"></script>
+    <script defer src="/js/global.js?v=2.5"></script>
     <!-- can be disabled on mobile device -->
     <script defer src="/js/SmoothScroll.js"></script>
     <script defer src="/js/jquery.sticky-kit.min.js"></script>
     <script defer src="/js/custom.js?v=1.1"></script>
     <script defer src="/js/pagination.js?v=1.0"></script>
-    <link href="/css/SumoselectCustom.css" rel="stylesheet" type="text/css" />
+    <link href="/css/SumoselectCustom.css?v=1.0" rel="stylesheet" type="text/css" />
     <script defer src="/js/jquery.sumoselect.min.js"></script>
     <script defer src="/js/sumoselectCustom.js"></script>
     <script defer src="/js/ScrollMagic.min.js"></script>
@@ -2547,7 +2555,7 @@
     
     
     
-    <script defer src="/js/product.js?v=2.2"></script> 
+    <script defer src="/js/product.js?v=2.4"></script> 
     
     
     

@@ -1,0 +1,45 @@
+/*---------------------*/
+/*  Sumoselect Custom  */
+/*---------------------*/
+.SumoSelect { cursor: pointer; display: block; z-index: 3; width: 248px; -webkit-transition: var(--transition); -o-transition: var(--transition); transition: var(--transition); }
+.SumoSelect.open { z-index: 4 !important; }
+.SumoSelect:hover { z-index: 3; }
+.SelectBox { font-size: 18px; line-height: 1em; color: var(--clr-white); padding: 23px 20px; }
+.SumoSelect > .CaptionCont { cursor: pointer; border-radius: 0; background: transparent; border: none; -webkit-transition: var(--transition); -o-transition: var(--transition); transition: var(--transition); }
+.SumoSelect.open > .CaptionCont, .SumoSelect:focus > .CaptionCont, .SumoSelect:hover > .CaptionCont { -webkit-box-shadow: none; box-shadow: none; border-color: var(--clr-white); }
+.SumoSelect > .CaptionCont > span { position: relative; top: -1px; cursor: pointer; font-size: 18px; line-height: 18px; font-weight: 400; font-style: normal; padding-right: 15px; }
+.SumoSelect > .CaptionCont > span.placeholder { font-size: 18px; font-weight: 300; font-style: normal; color: var(--clr-white); -webkit-backface-visibility: hidden; backface-visibility: hidden; -webkit-transition: var(--transition); -o-transition: var(--transition); transition: var(--transition); }
+.sort-wrap .SumoSelect > .CaptionCont > span.placeholder {font-weight: 400;}
+.SumoSelect.open > .CaptionCont > span.placeholder { opacity: 1; }
+.SumoSelect > .CaptionCont > label { cursor: pointer; width: 30px; }
+.SumoSelect > .CaptionCont > label > i { background-image: none; opacity: 1; width: 10px; height: 10px; right: auto; }
+.SumoSelect > .CaptionCont > label > i:before { content: ''; position: absolute; left: 0; top: 0; -webkit-transform: rotate(45deg); -ms-transform: rotate(45deg); transform: rotate(45deg); width: 10px; height: 10px; border-right: 1px solid var(--clr-white); border-bottom: 1px solid var(--clr-white); -webkit-transition: var(--transition); -o-transition: var(--transition); transition: var(--transition); }
+.SumoSelect.open > .CaptionCont > label > i:before { top: 4px; -webkit-transform: rotate(225deg); -ms-transform: rotate(225deg); transform: rotate(225deg); }
+.SumoSelect > .optWrapper { display: block; overflow: auto; z-index: 2; padding: 0; top: 100%; opacity: 0; visibility: hidden; -webkit-backface-visibility: hidden; backface-visibility: hidden; border: 1px solid rgba(210, 210, 210, 0.2); border-radius: 0; -webkit-box-shadow: none; box-shadow: none; background: rgba(46, 46, 46, 0.7); -webkit-transition: var(--transition); -o-transition: var(--transition); transition: var(--transition); }
+@supports ((-webkit-backdrop-filter: none) or (backdrop-filter: none)) { .SumoSelect > .optWrapper { background: var(--clr-black); } }
+.SumoSelect.open > .optWrapper { opacity: 1; visibility: visible; top: 100%; }ага
+.SumoSelect > .optWrapper > .options li.opt { padding: 0; border-bottom: 0; }
+.SumoSelect > .optWrapper > .options > li.opt:first-child { border-radius: 0; }
+.SumoSelect > .optWrapper > .options li label { padding: 10px 20px 10px; font-size: 18px; line-height: 1.1em; font-weight: 400; color: #ffffff; -webkit-transition: var(--transition); -o-transition: var(--transition); transition: var(--transition); }
+.SumoSelect > .optWrapper > .options { max-height: 260px; border-radius: 0; padding: 8px 0 10px; }
+.options > .opt.disabled:first-child { display: none; }
+.SumoSelect > .optWrapper.multiple > .options li.opt label { padding-left: 15px; }
+.SumoSelect .select-all > label { padding-left: 15px; }
+.SumoSelect .select-all > span, .SumoSelect > .optWrapper.multiple > .options li.opt span { width: 10px; margin-left: 0; }
+.SumoSelect.disabled { opacity: 1; }
+.SumoSelect.disabled > .CaptionCont { cursor: not-allowed; }
+.SumoSelect.disabled > .CaptionCont > span { cursor: not-allowed; }
+.sumoselect-wrapper .SumoSelect { width: 100%; outline: 1px solid rgba(255, 255, 255, 0.2); outline-offset: -1px; }
+.sumoselect-wrapper .SumoSelect.open { outline-color: #ffffff; }
+
+@media (min-width: 1200px) { .SumoSelect > .CaptionCont:hover { border-color: transparent; }
+  .SumoSelect > .CaptionCont:hover > span.placeholder { opacity: 1; }
+  .SumoSelect.disabled > .CaptionCont:hover { border-color: transparent; }
+  .SumoSelect > .optWrapper > .options li.opt:hover { background-color: transparent; }
+  .SumoSelect > .optWrapper > .options li.opt:hover label { opacity: .6; }
+  .SumoSelect .select-all:hover { opacity: .6; } }
+
+@media (max-width: 767px) { .SelectBox { padding: 17px 15px; }
+  .SumoSelect > .CaptionCont > label { width: 25px; }
+  .SumoSelect > .CaptionCont > label > i:before { width: 8px; height: 8px; }
+  .SumoSelect > .optWrapper > .options li label { padding: 7px 15px 7px; } }

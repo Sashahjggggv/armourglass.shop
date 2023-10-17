@@ -29,7 +29,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=0" />
     <meta name="google-site-verification" content="_TssH0mwWwYlp7QE3SXnnyjrfpdPCnsAnNmcgxrhnvQ" />
     <link href="/css/bootstrap-grid.min.css" rel="stylesheet" type="text/css" />
-    <link href="/css/main.css" rel="stylesheet" type="text/css" />
+    <link href="/css/main.css?v=1.0" rel="stylesheet" type="text/css" />
     <link href="/css/custom.css?v=1.1" rel="stylesheet" type="text/css" />
     <link rel="shortcut icon" href="/img/favicon.ico" />
     <title>Configurator</title>
@@ -261,7 +261,7 @@
                         <ul class="social">
                             <li>
                                  
-                                <a href="https://www.instagram.com/armourglass.shop" target="_blank">
+                                <a href="https://www.instagram.com/studioglass.ua" target="_blank">
                                         <img class="s-icon-w" src="/uploads/pages/original/instagram-w_2.svg" alt="">
                                 </a>
                             </li>
@@ -332,7 +332,7 @@
                                 <div class="config-price">
                                     <b>24068</b> UAH
                                 </div>
-                                <div class="btn config-btn config-top-navigation-btn order-btn" id="config-order" data-price="24068" data-s=900 data-h=2000 data-l=800 data-l1=0 data-l2=0 data-m=0 data-d=650 data-b1=0 data-b2=0 data-product_id="553">
+                                <div class="btn config-btn config-top-navigation-btn order-btn schema" id="config-order" data-price="24068" data-s=900 data-h=2000 data-l=800 data-l1=0 data-l2=0 data-m=0 data-d=650 data-b1=0 data-b2=0 data-product_id="553">
                                     <span class="config-top-navigation-btn-text">To shopper</span>
                                     <svg width="23" height="23" viewBox="0 0 23 23" fill="none" xmlns="http://www.w3.org/2000/svg">
                                         <path d="M5.70964 6.44178L4.08276 0H0.0117188V1.34765H2.99336L6.47246 17.5825H20.8486L22.9889 6.44178H5.70964ZM19.7592 16.2348H7.5619L5.99849 7.78944H21.3219L19.7592 16.2348Z"></path>
@@ -353,7 +353,7 @@
                             <a href="/en/sklyana-dushova-kabina-cristal" class="config-img-title text-cut-4">
                                 <span>Glass shower box CRISTAL</span>
                             </a>
-                            <div class="config-img" id="main-img" data-main-img-path="/uploads/products/930X930/cristal-blank-930.jpg">
+                            <div class="config-img" id="main-img" data-main-img-path="/uploads/products/930X930/cristal-chrome-930.jpg">
                                 <a class="btn-back" href="/en/sklyana-dushova-kabina-cristal">
                                     <i>
                                         <svg width="17" height="14" viewBox="0 0 17 14" fill="none"
@@ -369,10 +369,10 @@
                                     <b>Copy configurator</b>
                                 </a>
                                 <picture >
-                                    <source id="main-img-source1" srcset="/uploads/products/930X930/cristal-blank-930.webp" type="image/webp">
+                                    <source id="main-img-source1" srcset="/uploads/products/930X930/cristal-chrome-930.webp" type="image/webp">
 
-                                    <source  id="main-img-source2" srcset='/uploads/products/930X930/cristal-blank-930.jpg' type='image/png'>
-                                    <img id="main-img-composite" src='/uploads/products/930X930/cristal-blank-930.jpg' alt=''>
+                                    <source  id="main-img-source2" srcset='/uploads/products/930X930/cristal-chrome-930.jpg' type='image/png'>
+                                    <img id="main-img-composite" src='/uploads/products/930X930/cristal-chrome-930.jpg' alt=''>
                                 </picture>
                             </div>
                         </div>
@@ -385,6 +385,9 @@
                                     </li>
                                     <li>
                                         <div>Tempered Glass</div>
+                                    </li>
+                                    <li>
+                                        <div>Accessories</div>
                                     </li>
                                     <li>
                                         <div>Entrance part</div>
@@ -518,7 +521,7 @@
                                                             <input type="radio" name="tempering_glass"
                                                             data-atr-gr-id="47"
                                                             data-origin-atr-id="301"
-                                                            data-img-config-path="/uploads/configurator/cristal-sklo-prozore_1.png"
+                                                            data-img-config-path="/uploads/configurator/cristal-sklo-prozore_2.png"
                                                             value="Clear 8 mm"
                                                             checked>
                                                             <span>Clear 8 mm
@@ -542,7 +545,7 @@
                                                                 <input type="radio" name="tempering_glass_value"
                                                                 data-origin-atr-id="301"
                                                                 data-atr-value="316"
-                                                                data-img-config-path="/uploads/configurator/cristal-mat-prozore_1.png"
+                                                                data-img-config-path="/uploads/configurator/cristal-mat-prozore_2.png"
                                                                 >
                                                                 <span>Matte
                                                                 </span>
@@ -569,7 +572,7 @@
                                                             <input type="radio" name="tempering_glass"
                                                             data-atr-gr-id="47"
                                                             data-origin-atr-id="304"
-                                                            data-img-config-path="/uploads/configurator/cristal-sklo-bronza_1.png"
+                                                            data-img-config-path="/uploads/configurator/cristal-sklo-bronza_2.png"
                                                             value="Bronze 8mm"
                                                             >
                                                             <span>Bronze 8mm
@@ -593,7 +596,7 @@
                                                                 <input type="radio" name="tempering_glass_value"
                                                                 data-origin-atr-id="304"
                                                                 data-atr-value="322"
-                                                                data-img-config-path="/uploads/configurator/cristal-mat-bronza_1.png"
+                                                                data-img-config-path="/uploads/configurator/cristal-mat-bronza_2.png"
                                                                 >
                                                                 <span>Matte
                                                                 </span>
@@ -620,7 +623,7 @@
                                                             <input type="radio" name="tempering_glass"
                                                             data-atr-gr-id="47"
                                                             data-origin-atr-id="388"
-                                                            data-img-config-path="/uploads/configurator/cristal-sklo-grafit_2.png"
+                                                            data-img-config-path="/uploads/configurator/cristal-sklo-grafit_3.png"
                                                             value="Graphite 8mm"
                                                             >
                                                             <span>Graphite 8mm
@@ -644,7 +647,7 @@
                                                                 <input type="radio" name="tempering_glass_value"
                                                                 data-origin-atr-id="388"
                                                                 data-atr-value="400"
-                                                                data-img-config-path="/uploads/configurator/cristal-mat-grafit_1.png"
+                                                                data-img-config-path="/uploads/configurator/cristal-mat-grafit_2.png"
                                                                 >
                                                                 <span>Matte
                                                                 </span>
@@ -695,7 +698,7 @@
                                                                 <input type="radio" name="tempering_glass_value"
                                                                 data-origin-atr-id="391"
                                                                 data-atr-value="406"
-                                                                data-img-config-path="/uploads/configurator/cristal-mat_1.png"
+                                                                data-img-config-path="/uploads/configurator/cristal-mat_2.png"
                                                                 >
                                                                 <span>Matte
                                                                 </span>
@@ -722,7 +725,7 @@
                                                             <input type="radio" name="tempering_glass"
                                                             data-atr-gr-id="47"
                                                             data-origin-atr-id="667"
-                                                            data-img-config-path=""
+                                                            data-img-config-path="/uploads/configurator/cristal-flutes_1.png"
                                                             value="Flutes 8 мм прозоре"
                                                             >
                                                             <span>Flutes 8 мм прозоре
@@ -810,6 +813,104 @@
                                         </div>
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                    </div>
+                                </div>
+                            </div>
+
+                            <!-- 2 -->
+
+                            <div class="config-tab" id="origin-step-31">
+                                <div class="config-tab-inner">
+
+
+                                    <div class="config-group ">
+                                        <div class="config-title">
+                                            <div class="h5">
+                                                Select set of accessories:
+                                            </div>
+                                            <div class="btn-info open-popup-config" data-rel="6" data-atr-gr-id="41"></div>
+
+                                        </div>
+
+                                        <div class="row config-row">
+                                        </div>
+
+
+
+
+                                        <div class="checkbox-entry-wrap" data-no_option="" data-ratio-price="0" data-old-ratio-price="">
+                                            <label class="checkbox-entry">
+                                                <input type="radio" class="toggle-block-control" data-block="lens"
+                                                    data-rel="666" name="set_accessories"
+                                                    data-atr-gr-id="41"
+                                                    data-origin-atr-id="664"
+                                                    data-img-config-path="/uploads/configurator/cristal-profil-chrome-2.png"
+                                                    checked
+                                                    value="Хром">
+                                                <span>Хром <b>+ <i></i> UAH</b>
+                                                <b class="configurator_price-old">+ <i></i> UAH</b></span>
+                                            </label>
+                                        </div>
+
+                                        <div class="checkbox-entry-wrap" data-no_option="" data-ratio-price="5077" data-old-ratio-price="">
+                                            <label class="checkbox-entry">
+                                                <input type="radio" class="toggle-block-control" data-block="lens"
+                                                    data-rel="285" name="set_accessories"
+                                                    data-atr-gr-id="41"
+                                                    data-origin-atr-id="283"
+                                                    data-img-config-path="/uploads/configurator/cristal-profil-black-2.png"
+                                                    
+                                                    value="Black matte LOFT">
+                                                <span>Black matte LOFT <b>+ <i></i> UAH</b>
+                                                <b class="configurator_price-old">+ <i></i> UAH</b></span>
+                                            </label>
+                                        </div>
+
+                                        <div class="checkbox-entry-wrap" data-no_option="" data-ratio-price="5077" data-old-ratio-price="">
+                                            <label class="checkbox-entry">
+                                                <input type="radio" class="toggle-block-control" data-block="lens"
+                                                    data-rel="291" name="set_accessories"
+                                                    data-atr-gr-id="41"
+                                                    data-origin-atr-id="289"
+                                                    data-img-config-path="/uploads/configurator/cristal-profil-white-2.png"
+                                                    
+                                                    value="White matte">
+                                                <span>White matte <b>+ <i></i> UAH</b>
+                                                <b class="configurator_price-old">+ <i></i> UAH</b></span>
+                                            </label>
+                                        </div>
+
+                                        <div class="checkbox-entry-wrap" data-no_option="" data-ratio-price="11992" data-old-ratio-price="">
+                                            <label class="checkbox-entry">
+                                                <input type="radio" class="toggle-block-control" data-block="lens"
+                                                    data-rel="294" name="set_accessories"
+                                                    data-atr-gr-id="41"
+                                                    data-origin-atr-id="292"
+                                                    data-img-config-path="/uploads/configurator/cristal-profil-gold-2.png"
+                                                    
+                                                    value="Gold">
+                                                <span>Gold <b>+ <i></i> UAH</b>
+                                                <b class="configurator_price-old">+ <i></i> UAH</b></span>
+                                            </label>
+                                        </div>
 
 
 
@@ -1022,7 +1123,7 @@
                                                                 <input type="radio" name="handle_type_value"
                                                                 data-origin-atr-id="331"
                                                                 data-atr-value="643"
-                                                                data-img-config-path="/uploads/configurator/cristal-knob-hrom-krugliy-praviy_1.png"
+                                                                data-img-config-path=""
                                                                 checked>
                                                                 <span>Round Knob <b>+ <i></i> UAH</b>
                                                                 <b class="configurator_price-old">+ <i></i> UAH</b></span>
@@ -1033,7 +1134,7 @@
                                                                 <input type="radio" name="handle_type_value"
                                                                 data-origin-atr-id="331"
                                                                 data-atr-value="757"
-                                                                data-img-config-path="/uploads/configurator/cristal-knob-hrom-kvadrat-praviy_1.png"
+                                                                data-img-config-path=""
                                                                 >
                                                                 <span>Квадратний Кноб <b>+ <i></i> UAH</b>
                                                                 <b class="configurator_price-old">+ <i></i> UAH</b></span>
@@ -1062,7 +1163,7 @@
                                                                 <input type="radio" name="handle_type_value"
                                                                 data-origin-atr-id="334"
                                                                 data-atr-value="328"
-                                                                data-img-config-path="/uploads/configurator/cristal-ruchka-reling-200-vert_1.png"
+                                                                data-img-config-path=""
                                                                 >
                                                                 <span>Vertical <b>+ <i></i> UAH</b>
                                                                 <b class="configurator_price-old">+ <i></i> UAH</b></span>
@@ -1073,7 +1174,7 @@
                                                                 <input type="radio" name="handle_type_value"
                                                                 data-origin-atr-id="334"
                                                                 data-atr-value="331"
-                                                                data-img-config-path="/uploads/configurator/cristal-ruchka-reling-200-gor-prava.png"
+                                                                data-img-config-path=""
                                                                 >
                                                                 <span>Horizontal <b>+ <i></i> UAH</b>
                                                                 <b class="configurator_price-old">+ <i></i> UAH</b></span>
@@ -1102,7 +1203,7 @@
                                                                 <input type="radio" name="handle_type_value"
                                                                 data-origin-atr-id="337"
                                                                 data-atr-value="334"
-                                                                data-img-config-path="/uploads/configurator/cristal-ruchka-reling-300-vert.png"
+                                                                data-img-config-path=""
                                                                 >
                                                                 <span>Vertical <b>+ <i></i> UAH</b>
                                                                 <b class="configurator_price-old">+ <i></i> UAH</b></span>
@@ -1113,7 +1214,7 @@
                                                                 <input type="radio" name="handle_type_value"
                                                                 data-origin-atr-id="337"
                                                                 data-atr-value="337"
-                                                                data-img-config-path="/uploads/configurator/cristal-ruchka-reling-300-gor-prava.png"
+                                                                data-img-config-path=""
                                                                 >
                                                                 <span>Horizontal <b>+ <i></i> UAH</b>
                                                                 <b class="configurator_price-old">+ <i></i> UAH</b></span>
@@ -1129,7 +1230,7 @@
                                                             <input type="radio" name="handle_type"
                                                             data-atr-gr-id="62"
                                                             data-origin-atr-id="400"
-                                                            data-img-config-path="/uploads/configurator/cristal-ruchka-rushnikotrimach-hrom-prava_2.png"
+                                                            data-img-config-path=""
                                                             value="Handle-Towel Holder"
                                                             >
                                                             <span>Handle-Towel Holder <b>+ <i></i> UAH</b>
@@ -1344,7 +1445,7 @@
                                                     data-rel="408" name="glass_holder"
                                                     data-atr-gr-id="77"
                                                     data-origin-atr-id="406"
-                                                    data-img-config-path="/uploads/configurator/cristal-trimach-pozdovzhniy-pryamokutniy.png"
+                                                    data-img-config-path=""
                                                     
                                                     value="Longitudinal rectangular">
                                                 <span>Longitudinal rectangular <b>+ <i></i> UAH</b>
@@ -1357,7 +1458,7 @@
                                                     data-rel="615" name="glass_holder"
                                                     data-atr-gr-id="77"
                                                     data-origin-atr-id="613"
-                                                    data-img-config-path="/uploads/configurator/cristal-trimach-krugliy-hrom-pid-45.png"
+                                                    data-img-config-path=""
                                                     checked
                                                     value="Накидний круглий під 45*">
                                                 <span>Накидний круглий під 45* <b>+ <i></i> UAH</b>
@@ -1370,7 +1471,7 @@
                                                     data-rel="621" name="glass_holder"
                                                     data-atr-gr-id="77"
                                                     data-origin-atr-id="619"
-                                                    data-img-config-path="/uploads/configurator/cristal-trimach-pryamokutniy-hrom-pid-45.png"
+                                                    data-img-config-path=""
                                                     
                                                     value="Накидний квадратний під 45*">
                                                 <span>Накидний квадратний під 45* <b>+ <i></i> UAH</b>
@@ -1380,23 +1481,10 @@
                                         <div class="checkbox-entry-wrap" data-ratio-price="545" data-no_option="" data-old-ratio-price="">
                                             <label class="checkbox-entry">
                                                 <input type="radio" class="toggle-block-control" data-block="lens"
-                                                    data-rel="618" name="glass_holder"
-                                                    data-atr-gr-id="77"
-                                                    data-origin-atr-id="616"
-                                                    data-img-config-path=""
-                                                    
-                                                    value="Накидний квадратний">
-                                                <span>Накидний квадратний <b>+ <i></i> UAH</b>
-                                                <b class="configurator_price-old">+ <i></i> UAH</b></span>
-                                            </label>
-                                        </div>
-                                        <div class="checkbox-entry-wrap" data-ratio-price="545" data-no_option="" data-old-ratio-price="">
-                                            <label class="checkbox-entry">
-                                                <input type="radio" class="toggle-block-control" data-block="lens"
                                                     data-rel="675" name="glass_holder"
                                                     data-atr-gr-id="77"
                                                     data-origin-atr-id="673"
-                                                    data-img-config-path="/uploads/configurator/cristal-trimach-pryamokutniy-hrom-pid-45.png"
+                                                    data-img-config-path=""
                                                     
                                                     value="Накидний прямокутний під 45*">
                                                 <span>Накидний прямокутний під 45* <b>+ <i></i> UAH</b>
@@ -1440,7 +1528,7 @@
                                                     data-rel="378" name="towel_rail"
                                                     data-atr-gr-id="80"
                                                     data-origin-atr-id="376"
-                                                    data-img-config-path="/uploads/configurator/cristal-rushnikotrimach-hrom-liviy_1.png"
+                                                    data-img-config-path=""
                                                         data-addition-s=""
                                                         data-addition-l=""
                                                         data-addition-l1=""
@@ -2110,6 +2198,19 @@
                                                                                         
                                             <div class="cc-option-item">
                                                 <div class="cc-option-title">
+                                                    Set of accessories
+                                                </div>
+                                                <div class="cc-option-name">
+                                                    Хром
+                                                </div>
+                                                <div class="cc-option-price">
+                                                   
+                                                </div>
+                                                
+                                            </div>
+                                            
+                                            <div class="cc-option-item">
+                                                <div class="cc-option-title">
                                                     Entrance part
                                                 </div>
                                                 <div class="cc-option-name">
@@ -2207,7 +2308,7 @@
                                                     </svg>
                                                 </i>
                                             </button>
-                                            <button class="btn btn-secondary order-btn" id="config-order-secondary-btn" data-price="24068" data-is_config="true" data-s=900 data-h=2000 data-d=650 data-m=0 data-l=800 data-l1=0 data-l2=0 data-b1=0 data-b2=0 data-product_id="553">
+                                            <button class="btn btn-secondary order-btn schema" id="config-order-secondary-btn" data-price="24068" data-is_config="true" data-s=900 data-h=2000 data-d=650 data-m=0 data-l=800 data-l1=0 data-l2=0 data-b1=0 data-b2=0 data-product_id="553">
                                                 <b>To shopper</b>
                                                 <i>
                                                     <svg width="17" height="16" viewBox="0 0 17 16" fill="none"
@@ -2244,9 +2345,9 @@
         <!-- FOOTER -->
         <footer>
             <footer itemscope itemtype="http://schema.org/Organization">
-                <meta itemprop="url" content="https://armourglass.shop/">
+                <meta itemprop="url" content="https://studioglass.ua/">
                 <meta itemprop="telephone" content="+380800330836">
-                <meta itemprop="logo" content="https://armourglass.shop/uploads/original/logo-b.svg">
+                <meta itemprop="logo" content="https://studioglass.ua/uploads/original/logo-b.svg">
                 <meta itemprop="name" content="Studioglass">
                 <meta itemprop="description" content="Львівська Фабрика Дзеркал ⭐ Studio Glass ✓ Дзеркала з підсвіткою ✓ Дзеркала в рамі ✓ Душові кабіни ✓ Великі дзеркала ☎️ +38(080)033-08-36.">
                 <div class="container">
@@ -2476,7 +2577,7 @@
         <div class="cookies-informer-inner">
             <div class="text ">
                 <p>Our site uses cookies to distinguish you from other users of our site. This allows us to provide convenient viewing of our site, and also allows us to improve it</p>
-<p><a href="https://armourglass.shop/en/privat-policy-en" target="_blank" rel="noopener">Cookies policy</a></p>
+<p><a href="https://studioglass.ua/en/privat-policy-en" target="_blank" rel="noopener">Cookies policy</a></p>
             </div>
             <div class="btn close-cookies cookie-popup-agree-btn">accept</div>
         </div>
@@ -2932,9 +3033,17 @@
             </div>
         </div>
     
+        <!-- Shower schema popup  -->
+        <div class="popup-content shower-schema-popup" data-rel="shower-schema-popup">
+            <div class="layer-close"></div>
+            <div class="popup-container size-3 shower-schema-content">
+            <button class="btn-close close-popup"></button>
+            </div>
+        </div>
+    
     </div>    <link href="/css/swiper-bundle.min.css" rel="stylesheet" type="text/css" />
-    <link href="/css/sumoselect.min.css" rel="stylesheet" type="text/css" />
-    <link href="/css/style.css?v=1.2" rel="stylesheet" type="text/css" />
+    <link href="/css/sumoselect.min.css?v=1.0" rel="stylesheet" type="text/css" />
+    <link href="/css/style.css?v=1.3" rel="stylesheet" type="text/css" />
     
     
     <script defer src="/js/jquery.min.js"></script>
@@ -2946,13 +3055,13 @@
     <script defer src="/js/jquery.inputmask.min.js"></script>
     <script defer src="/js/jquery.sumoselect.min.js"></script>
     <script defer src="/js/jquery-ui.min.js"></script>
-    <script defer src="/js/global.js?v=2.2"></script>
+    <script defer src="/js/global.js?v=2.5"></script>
     <!-- can be disabled on mobile device -->
     <script defer src="/js/SmoothScroll.js"></script>
     <script defer src="/js/jquery.sticky-kit.min.js"></script>
     <script defer src="/js/custom.js?v=1.1"></script>
     <script defer src="/js/pagination.js?v=1.0"></script>
-    <link href="/css/SumoselectCustom.css" rel="stylesheet" type="text/css" />
+    <link href="/css/SumoselectCustom.css?v=1.0" rel="stylesheet" type="text/css" />
     <script defer src="/js/jquery.sumoselect.min.js"></script>
     <script defer src="/js/sumoselectCustom.js"></script>
     <script defer src="/js/ScrollMagic.min.js"></script>
@@ -2960,7 +3069,7 @@
     
     
     
-    <script defer src="/js/product.js?v=2.2"></script> 
+    <script defer src="/js/product.js?v=2.4"></script> 
     
     
     

@@ -29,12 +29,12 @@
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=0" />
     <meta name="google-site-verification" content="_TssH0mwWwYlp7QE3SXnnyjrfpdPCnsAnNmcgxrhnvQ" />
     <link href="/css/bootstrap-grid.min.css" rel="stylesheet" type="text/css" />
-    <link href="/css/main.css" rel="stylesheet" type="text/css" />
+    <link href="/css/main.css?v=1.0" rel="stylesheet" type="text/css" />
     <link href="/css/custom.css?v=1.1" rel="stylesheet" type="text/css" />
     <link rel="shortcut icon" href="/img/favicon.ico" />
     <title>Товари в наявності</title>
-<link rel="canonical" href="https://armourglass.shop/tovari-v-nayavnosti"/>
-<base href="https://armourglass.shop">
+<link rel="canonical" href="https://studioglass.ua/tovari-v-nayavnosti"/>
+<base href="https://studioglass.ua">
 
 </head>
 
@@ -266,7 +266,7 @@
                         <ul class="social">
                             <li>
                                  
-                                <a href="https://www.instagram.com/armourglass.shop" target="_blank">
+                                <a href="https://www.instagram.com/studioglass.ua" target="_blank">
                                         <img class="s-icon-b" src="/uploads/pages/original/instagram-b_1.svg" alt="">
                                 </a>
                             </li>
@@ -352,7 +352,7 @@
             <!-- category -->
             <div class="section">
                 <div class="container">
-                    <div class="row category-row" data-gTagData="{&quot;item_list_id&quot;:158,&quot;item_list_name&quot;:&quot;Товари в наявності&quot;,&quot;items&quot;:[{&quot;item_id&quot;:1151,&quot;item_name&quot;:&quot;Скляна шторка для ванної LIRI Color 1500х600 мм&quot;,&quot;item_variant&quot;:&quot;&quot;,&quot;google_business_vertical&quot;:&quot;retail&quot;,&quot;price&quot;:9428,&quot;quantity&quot;:1,&quot;item_category&quot;:&quot;Товари в наявності&quot;},{&quot;item_id&quot;:1148,&quot;item_name&quot;:&quot;Скляна шторка для ванної LIRI 1500х600 мм&quot;,&quot;item_variant&quot;:&quot;&quot;,&quot;google_business_vertical&quot;:&quot;retail&quot;,&quot;price&quot;:6357,&quot;quantity&quot;:1,&quot;item_category&quot;:&quot;Товари в наявності&quot;},{&quot;item_id&quot;:1163,&quot;item_name&quot;:&quot;Скляні двері для душу STENLI 2000х1200 мм&quot;,&quot;item_variant&quot;:&quot;&quot;,&quot;google_business_vertical&quot;:&quot;retail&quot;,&quot;price&quot;:19415,&quot;quantity&quot;:1,&quot;item_category&quot;:&quot;Товари в наявності&quot;},{&quot;item_id&quot;:1132,&quot;item_name&quot;:&quot;Скляні двері для душу STENLI color 2000х1200 мм&quot;,&quot;item_variant&quot;:&quot;&quot;,&quot;google_business_vertical&quot;:&quot;retail&quot;,&quot;price&quot;:22800,&quot;quantity&quot;:1,&quot;item_category&quot;:&quot;Товари в наявності&quot;},{&quot;item_id&quot;:1145,&quot;item_name&quot;:&quot;Кутова душова кабіна GRAND color 2000х1200х900 мм&quot;,&quot;item_variant&quot;:&quot;&quot;,&quot;google_business_vertical&quot;:&quot;retail&quot;,&quot;price&quot;:30623,&quot;quantity&quot;:1,&quot;item_category&quot;:&quot;Товари в наявності&quot;},{&quot;item_id&quot;:1129,&quot;item_name&quot;:&quot;Скляні двері для душу COLOMBO Color 2000х900 мм&quot;,&quot;item_variant&quot;:&quot;&quot;,&quot;google_business_vertical&quot;:&quot;retail&quot;,&quot;price&quot;:18915,&quot;quantity&quot;:1,&quot;item_category&quot;:&quot;Товари в наявності&quot;},{&quot;item_id&quot;:1125,&quot;item_name&quot;:&quot;Скляні двері для душу COLOMBO 2000х900 мм&quot;,&quot;item_variant&quot;:&quot;&quot;,&quot;google_business_vertical&quot;:&quot;retail&quot;,&quot;price&quot;:14966,&quot;quantity&quot;:1,&quot;item_category&quot;:&quot;Товари в наявності&quot;},{&quot;item_id&quot;:1154,&quot;item_name&quot;:&quot;Скляна душова кабіна CRISTAL інтімато 2000х1100х800 мм&quot;,&quot;item_variant&quot;:&quot;&quot;,&quot;google_business_vertical&quot;:&quot;retail&quot;,&quot;price&quot;:30473,&quot;quantity&quot;:1,&quot;item_category&quot;:&quot;Товари в наявності&quot;},{&quot;item_id&quot;:1079,&quot;item_name&quot;:&quot;Скляна душова кабіна CRISTAL 2000х900х900 мм&quot;,&quot;item_variant&quot;:&quot;&quot;,&quot;google_business_vertical&quot;:&quot;retail&quot;,&quot;price&quot;:25798,&quot;quantity&quot;:1,&quot;item_category&quot;:&quot;Товари в наявності&quot;},{&quot;item_id&quot;:1056,&quot;item_name&quot;:&quot;Скляна перегородка для душу FALLS Color 2000х1000 мм&quot;,&quot;item_variant&quot;:&quot;&quot;,&quot;google_business_vertical&quot;:&quot;retail&quot;,&quot;price&quot;:13788,&quot;quantity&quot;:1,&quot;item_category&quot;:&quot;Товари в наявності&quot;},{&quot;item_id&quot;:1050,&quot;item_name&quot;:&quot;Скляна перегородка для душу FALLS 2000х1000 мм&quot;,&quot;item_variant&quot;:&quot;&quot;,&quot;google_business_vertical&quot;:&quot;retail&quot;,&quot;price&quot;:11155,&quot;quantity&quot;:1,&quot;item_category&quot;:&quot;Товари в наявності&quot;}]}">
+                    <div class="row category-row" data-gTagData="{&quot;item_list_id&quot;:158,&quot;item_list_name&quot;:&quot;Товари в наявності&quot;,&quot;items&quot;:[{&quot;item_id&quot;:1151,&quot;item_name&quot;:&quot;Скляна шторка для ванної LIRI Color 1500х600 мм&quot;,&quot;item_variant&quot;:&quot;&quot;,&quot;google_business_vertical&quot;:&quot;retail&quot;,&quot;price&quot;:9428,&quot;quantity&quot;:1,&quot;item_category&quot;:&quot;Товари в наявності&quot;},{&quot;item_id&quot;:1148,&quot;item_name&quot;:&quot;Скляна шторка для ванної LIRI 1500х600 мм&quot;,&quot;item_variant&quot;:&quot;&quot;,&quot;google_business_vertical&quot;:&quot;retail&quot;,&quot;price&quot;:6357,&quot;quantity&quot;:1,&quot;item_category&quot;:&quot;Товари в наявності&quot;},{&quot;item_id&quot;:1163,&quot;item_name&quot;:&quot;Скляні двері для душу STENLI 2000х1200 мм&quot;,&quot;item_variant&quot;:&quot;&quot;,&quot;google_business_vertical&quot;:&quot;retail&quot;,&quot;price&quot;:19415,&quot;quantity&quot;:1,&quot;item_category&quot;:&quot;Товари в наявності&quot;},{&quot;item_id&quot;:1132,&quot;item_name&quot;:&quot;Скляні двері для душу STENLI color 2000х1200 мм&quot;,&quot;item_variant&quot;:&quot;&quot;,&quot;google_business_vertical&quot;:&quot;retail&quot;,&quot;price&quot;:22800,&quot;quantity&quot;:1,&quot;item_category&quot;:&quot;Товари в наявності&quot;},{&quot;item_id&quot;:1145,&quot;item_name&quot;:&quot;Кутова душова кабіна GRAND color 2000х1200х900 мм&quot;,&quot;item_variant&quot;:&quot;&quot;,&quot;google_business_vertical&quot;:&quot;retail&quot;,&quot;price&quot;:30623,&quot;quantity&quot;:1,&quot;item_category&quot;:&quot;Товари в наявності&quot;},{&quot;item_id&quot;:1129,&quot;item_name&quot;:&quot;Скляні двері для душу COLOMBO Color 2000х900 мм&quot;,&quot;item_variant&quot;:&quot;&quot;,&quot;google_business_vertical&quot;:&quot;retail&quot;,&quot;price&quot;:18915,&quot;quantity&quot;:1,&quot;item_category&quot;:&quot;Товари в наявності&quot;},{&quot;item_id&quot;:1125,&quot;item_name&quot;:&quot;Скляні двері для душу COLOMBO 2000х900 мм&quot;,&quot;item_variant&quot;:&quot;&quot;,&quot;google_business_vertical&quot;:&quot;retail&quot;,&quot;price&quot;:14966,&quot;quantity&quot;:1,&quot;item_category&quot;:&quot;Товари в наявності&quot;},{&quot;item_id&quot;:1154,&quot;item_name&quot;:&quot;Скляна душова кабіна CRISTAL інтімато 2000х1100х800 мм&quot;,&quot;item_variant&quot;:&quot;&quot;,&quot;google_business_vertical&quot;:&quot;retail&quot;,&quot;price&quot;:30473,&quot;quantity&quot;:1,&quot;item_category&quot;:&quot;Товари в наявності&quot;},{&quot;item_id&quot;:1079,&quot;item_name&quot;:&quot;Скляна душова кабіна CRISTAL 2000х900х900 мм&quot;,&quot;item_variant&quot;:&quot;&quot;,&quot;google_business_vertical&quot;:&quot;retail&quot;,&quot;price&quot;:25798,&quot;quantity&quot;:1,&quot;item_category&quot;:&quot;Товари в наявності&quot;}]}">
                         <div class="col-xxl-2 col-lg-3 col-md-4">
                             <!-- category menu-->
                             <aside class="sidebar">
@@ -368,14 +368,6 @@
                                                             <label class="checkbox-entry">
                                                                 <input type="checkbox"   class="attr_input" data-attribute_id="421" data-attr_value_text="Кутова кабіна" data-attr_value="472">
                                                                 <span>Кутова кабіна</span>
-                                                            </label>
-                                                        </div>
-                                                    </li>
-                                                    <li>
-                                                        <div class="checkbox-entry-wrap">
-                                                            <label class="checkbox-entry">
-                                                                <input type="checkbox"   class="attr_input" data-attribute_id="421" data-attr_value_text="Перегородка" data-attr_value="475">
-                                                                <span>Перегородка</span>
                                                             </label>
                                                         </div>
                                                     </li>
@@ -447,7 +439,7 @@
                                 <div class="col-12">
                                     <div class="sort-wrap">
                                         <div class="sort-result">
-                                             <div>Результатів: <b class="total-products-found">11</b></div>
+                                             <div>Результатів: <b class="total-products-found">9</b></div>
                                         </div>
 
                                         <div class="filter-btn sidebar-btn">
@@ -480,18 +472,16 @@
                                         <a class="product_image" href="/sklyana-shtorka-dlya-vannoyi-liri-color-1500h600">
                                             <div class="img-default">
                                                 <picture>
-                                                    <source id="main-img-source1" srcset="/uploads/products/725X725/liri-loft-930.webp" type="image/webp">
-
-                                                    <source srcset='/uploads/products/725X725/liri-loft-930.jpg' type='image/jpg'>
-                                                    <img src='/uploads/products/725X725/liri-loft-930.jpg' alt='' loading='lazy'>
+                                                        <source id="main-img-source1" srcset="/uploads/products/725X725/liri-loft-930.webp" type="image/webp">
+                                                        <source srcset="/uploads/products/725X725/liri-loft-930.jpg" type="image/png">
+                                                        <img src="/uploads/products/725X725/liri-loft-930.jpg" alt="">
                                                 </picture>
                                             </div>
                                             <div class="img-hover">
                                                 <picture>
-                                                    <source id="main-img-source1" srcset="/uploads/products/725X725/liri-loft-930.webp" type="image/webp">
-
-                                                    <source srcset="/uploads/products/725X725/liri-loft-930.jpg" type="image/png">
-                                                    <img src="/uploads/products/725X725/liri-loft-930.jpg" alt="">
+                                                        <source id="main-img-source1" srcset="/uploads/products/725X725/liri-loft-930.webp" type="image/webp">
+                                                        <source srcset="/uploads/products/725X725/liri-loft-930.jpg" type="image/png">
+                                                        <img src="/uploads/products/725X725/liri-loft-930.jpg" alt="">
                                                 </picture>
                                             </div>
                                             <ul class="product_labels">
@@ -515,18 +505,16 @@
                                         <a class="product_image" href="/sklyana-shtorka-dlya-vannoyi-liri-1500h600">
                                             <div class="img-default">
                                                 <picture>
-                                                    <source id="main-img-source1" srcset="/uploads/products/725X725/liri-930.webp" type="image/webp">
-
-                                                    <source srcset='/uploads/products/725X725/liri-930.jpg' type='image/jpg'>
-                                                    <img src='/uploads/products/725X725/liri-930.jpg' alt='' loading='lazy'>
+                                                        <source id="main-img-source1" srcset="/uploads/products/725X725/liri-930.webp" type="image/webp">
+                                                        <source srcset="/uploads/products/725X725/liri-930.jpg" type="image/png">
+                                                        <img src="/uploads/products/725X725/liri-930.jpg" alt="">
                                                 </picture>
                                             </div>
                                             <div class="img-hover">
                                                 <picture>
-                                                    <source id="main-img-source1" srcset="/uploads/products/725X725/liri-930.webp" type="image/webp">
-
-                                                    <source srcset="/uploads/products/725X725/liri-930.jpg" type="image/png">
-                                                    <img src="/uploads/products/725X725/liri-930.jpg" alt="">
+                                                        <source id="main-img-source1" srcset="/uploads/products/725X725/liri-930.webp" type="image/webp">
+                                                        <source srcset="/uploads/products/725X725/liri-930.jpg" type="image/png">
+                                                        <img src="/uploads/products/725X725/liri-930.jpg" alt="">
                                                 </picture>
                                             </div>
                                             <ul class="product_labels">
@@ -550,18 +538,16 @@
                                         <a class="product_image" href="/sklyani-dveri-dlya-dushu-stenli-2000h1200">
                                             <div class="img-default">
                                                 <picture>
-                                                    <source id="main-img-source1" srcset="/uploads/products/725X725/stenli-930-kr-vrizna.webp" type="image/webp">
-
-                                                    <source srcset='/uploads/products/725X725/stenli-930-kr-vrizna.jpg' type='image/jpg'>
-                                                    <img src='/uploads/products/725X725/stenli-930-kr-vrizna.jpg' alt='' loading='lazy'>
+                                                        <source id="main-img-source1" srcset="/uploads/products/725X725/stenli-930-kr-vrizna.webp" type="image/webp">
+                                                        <source srcset="/uploads/products/725X725/stenli-930-kr-vrizna.jpg" type="image/png">
+                                                        <img src="/uploads/products/725X725/stenli-930-kr-vrizna.jpg" alt="">
                                                 </picture>
                                             </div>
                                             <div class="img-hover">
                                                 <picture>
-                                                    <source id="main-img-source1" srcset="/uploads/products/725X725/stenli-930-kr-vrizna.webp" type="image/webp">
-
-                                                    <source srcset="/uploads/products/725X725/stenli-930-kr-vrizna.jpg" type="image/png">
-                                                    <img src="/uploads/products/725X725/stenli-930-kr-vrizna.jpg" alt="">
+                                                        <source id="main-img-source1" srcset="/uploads/products/725X725/stenli-930-kr-vrizna.webp" type="image/webp">
+                                                        <source srcset="/uploads/products/725X725/stenli-930-kr-vrizna.jpg" type="image/png">
+                                                        <img src="/uploads/products/725X725/stenli-930-kr-vrizna.jpg" alt="">
                                                 </picture>
                                             </div>
                                             <ul class="product_labels">
@@ -585,18 +571,16 @@
                                         <a class="product_image" href="/sklyani-dveri-dlya-dushu-stenli-1">
                                             <div class="img-default">
                                                 <picture>
-                                                    <source id="main-img-source1" srcset="/uploads/products/725X725/stenli-loft-930-vrizna.webp" type="image/webp">
-
-                                                    <source srcset='/uploads/products/725X725/stenli-loft-930-vrizna.jpg' type='image/jpg'>
-                                                    <img src='/uploads/products/725X725/stenli-loft-930-vrizna.jpg' alt='' loading='lazy'>
+                                                        <source id="main-img-source1" srcset="/uploads/products/725X725/stenli-loft-930-vrizna.webp" type="image/webp">
+                                                        <source srcset="/uploads/products/725X725/stenli-loft-930-vrizna.jpg" type="image/png">
+                                                        <img src="/uploads/products/725X725/stenli-loft-930-vrizna.jpg" alt="">
                                                 </picture>
                                             </div>
                                             <div class="img-hover">
                                                 <picture>
-                                                    <source id="main-img-source1" srcset="/uploads/products/725X725/stenli-loft-930-vrizna.webp" type="image/webp">
-
-                                                    <source srcset="/uploads/products/725X725/stenli-loft-930-vrizna.jpg" type="image/png">
-                                                    <img src="/uploads/products/725X725/stenli-loft-930-vrizna.jpg" alt="">
+                                                        <source id="main-img-source1" srcset="/uploads/products/725X725/stenli-loft-930-vrizna.webp" type="image/webp">
+                                                        <source srcset="/uploads/products/725X725/stenli-loft-930-vrizna.jpg" type="image/png">
+                                                        <img src="/uploads/products/725X725/stenli-loft-930-vrizna.jpg" alt="">
                                                 </picture>
                                             </div>
                                             <ul class="product_labels">
@@ -620,18 +604,16 @@
                                         <a class="product_image" href="/kutova-dushova-kabina-grand-color-2000h1200-1">
                                             <div class="img-default">
                                                 <picture>
-                                                    <source id="main-img-source1" srcset="/uploads/products/725X725/grand-loft-krugla-vrizna-1000.webp" type="image/webp">
-
-                                                    <source srcset='/uploads/products/725X725/grand-loft-krugla-vrizna-1000.jpg' type='image/jpg'>
-                                                    <img src='/uploads/products/725X725/grand-loft-krugla-vrizna-1000.jpg' alt='' loading='lazy'>
+                                                        <source id="main-img-source1" srcset="/uploads/products/725X725/grand-loft-krugla-vrizna-1000_1.webp" type="image/webp">
+                                                        <source srcset="/uploads/products/725X725/grand-loft-krugla-vrizna-1000_1.jpg" type="image/png">
+                                                        <img src="/uploads/products/725X725/grand-loft-krugla-vrizna-1000_1.jpg" alt="">
                                                 </picture>
                                             </div>
                                             <div class="img-hover">
                                                 <picture>
-                                                    <source id="main-img-source1" srcset="/uploads/products/725X725/grand-loft-krugla-vrizna-1000.webp" type="image/webp">
-
-                                                    <source srcset="/uploads/products/725X725/grand-loft-krugla-vrizna-1000.jpg" type="image/png">
-                                                    <img src="/uploads/products/725X725/grand-loft-krugla-vrizna-1000.jpg" alt="">
+                                                        <source id="main-img-source1" srcset="/uploads/products/725X725/grand-loft-krugla-vrizna-1000_1.webp" type="image/webp">
+                                                        <source srcset="/uploads/products/725X725/grand-loft-krugla-vrizna-1000_1.jpg" type="image/png">
+                                                        <img src="/uploads/products/725X725/grand-loft-krugla-vrizna-1000_1.jpg" alt="">
                                                 </picture>
                                             </div>
                                             <ul class="product_labels">
@@ -655,18 +637,16 @@
                                         <a class="product_image" href="/sklyani-dveri-dlya-dushu-colombo-color-1">
                                             <div class="img-default">
                                                 <picture>
-                                                    <source id="main-img-source1" srcset="/uploads/products/725X725/colombo-loft-930.webp" type="image/webp">
-
-                                                    <source srcset='/uploads/products/725X725/colombo-loft-930.jpg' type='image/jpg'>
-                                                    <img src='/uploads/products/725X725/colombo-loft-930.jpg' alt='' loading='lazy'>
+                                                        <source id="main-img-source1" srcset="/uploads/products/725X725/colombo-loft-930.webp" type="image/webp">
+                                                        <source srcset="/uploads/products/725X725/colombo-loft-930.jpg" type="image/png">
+                                                        <img src="/uploads/products/725X725/colombo-loft-930.jpg" alt="">
                                                 </picture>
                                             </div>
                                             <div class="img-hover">
                                                 <picture>
-                                                    <source id="main-img-source1" srcset="/uploads/products/725X725/colombo-loft-930.webp" type="image/webp">
-
-                                                    <source srcset="/uploads/products/725X725/colombo-loft-930.jpg" type="image/png">
-                                                    <img src="/uploads/products/725X725/colombo-loft-930.jpg" alt="">
+                                                        <source id="main-img-source1" srcset="/uploads/products/725X725/colombo-loft-930.webp" type="image/webp">
+                                                        <source srcset="/uploads/products/725X725/colombo-loft-930.jpg" type="image/png">
+                                                        <img src="/uploads/products/725X725/colombo-loft-930.jpg" alt="">
                                                 </picture>
                                             </div>
                                             <ul class="product_labels">
@@ -690,18 +670,16 @@
                                         <a class="product_image" href="/sklyani-dveri-dlya-dushu-colombo-2">
                                             <div class="img-default">
                                                 <picture>
-                                                    <source id="main-img-source1" srcset="/uploads/products/725X725/colombo-930.webp" type="image/webp">
-
-                                                    <source srcset='/uploads/products/725X725/colombo-930.jpg' type='image/jpg'>
-                                                    <img src='/uploads/products/725X725/colombo-930.jpg' alt='' loading='lazy'>
+                                                        <source id="main-img-source1" srcset="/uploads/products/725X725/colombo-930.webp" type="image/webp">
+                                                        <source srcset="/uploads/products/725X725/colombo-930.jpg" type="image/png">
+                                                        <img src="/uploads/products/725X725/colombo-930.jpg" alt="">
                                                 </picture>
                                             </div>
                                             <div class="img-hover">
                                                 <picture>
-                                                    <source id="main-img-source1" srcset="/uploads/products/725X725/colombo-930.webp" type="image/webp">
-
-                                                    <source srcset="/uploads/products/725X725/colombo-930.jpg" type="image/png">
-                                                    <img src="/uploads/products/725X725/colombo-930.jpg" alt="">
+                                                        <source id="main-img-source1" srcset="/uploads/products/725X725/colombo-930.webp" type="image/webp">
+                                                        <source srcset="/uploads/products/725X725/colombo-930.jpg" type="image/png">
+                                                        <img src="/uploads/products/725X725/colombo-930.jpg" alt="">
                                                 </picture>
                                             </div>
                                             <ul class="product_labels">
@@ -725,18 +703,16 @@
                                         <a class="product_image" href="/sklyana-dushova-kabina-cristal-2000h800-mm">
                                             <div class="img-default">
                                                 <picture>
-                                                    <source id="main-img-source1" srcset="/uploads/products/725X725/cristal-930-knob-kvadrat-hrom-intimato.webp" type="image/webp">
-
-                                                    <source srcset='/uploads/products/725X725/cristal-930-knob-kvadrat-hrom-intimato.jpg' type='image/jpg'>
-                                                    <img src='/uploads/products/725X725/cristal-930-knob-kvadrat-hrom-intimato.jpg' alt='' loading='lazy'>
+                                                        
+                                                        <source srcset="/img/placeholder_white.png" type="image/png">
+                                                        <img src="/img/placeholder_white.png" alt="">
                                                 </picture>
                                             </div>
                                             <div class="img-hover">
                                                 <picture>
-                                                    <source id="main-img-source1" srcset="/uploads/products/725X725/cristal-930-knob-kvadrat-hrom-intimato.webp" type="image/webp">
-
-                                                    <source srcset="/uploads/products/725X725/cristal-930-knob-kvadrat-hrom-intimato.jpg" type="image/png">
-                                                    <img src="/uploads/products/725X725/cristal-930-knob-kvadrat-hrom-intimato.jpg" alt="">
+                                                        
+                                                        <source srcset="/img/placeholder_white.png" type="image/png">
+                                                        <img src="/img/placeholder_white.png" alt="">
                                                 </picture>
                                             </div>
                                             <ul class="product_labels">
@@ -760,18 +736,16 @@
                                         <a class="product_image" href="/sklyana-dushova-kabina-cristal-1">
                                             <div class="img-default">
                                                 <picture>
-                                                    <source id="main-img-source1" srcset="/uploads/products/725X725/cristal-930.webp" type="image/webp">
-
-                                                    <source srcset='/uploads/products/725X725/cristal-930.jpg' type='image/jpg'>
-                                                    <img src='/uploads/products/725X725/cristal-930.jpg' alt='' loading='lazy'>
+                                                        
+                                                        <source srcset="/img/placeholder_white.png" type="image/png">
+                                                        <img src="/img/placeholder_white.png" alt="">
                                                 </picture>
                                             </div>
                                             <div class="img-hover">
                                                 <picture>
-                                                    <source id="main-img-source1" srcset="/uploads/products/725X725/cristal-930.webp" type="image/webp">
-
-                                                    <source srcset="/uploads/products/725X725/cristal-930.jpg" type="image/png">
-                                                    <img src="/uploads/products/725X725/cristal-930.jpg" alt="">
+                                                        
+                                                        <source srcset="/img/placeholder_white.png" type="image/png">
+                                                        <img src="/img/placeholder_white.png" alt="">
                                                 </picture>
                                             </div>
                                             <ul class="product_labels">
@@ -786,76 +760,6 @@
                                     </div>
                                     <div class="product_price-wrap" itemprop="offers" itemscope itemtype="https://schema.org/Offer">
                                         <div class="product_price" ><b itemprop="price" class="price"> 25798</b> <b itemprop="priceCurrency" content="UAH">грн</b> </div>
-                                    </div>
-                                </div>
-                                </div>
-                                <div class="col-xxl-3 col-xl-4 col-sm-6">
-                                <div class="product js-product" data-price="13788">
-                                    <div class="product_image-wrap">
-                                        <a class="product_image" href="/sklyana-peregorodka-dlya-dushu-falls-1-1053-1056">
-                                            <div class="img-default">
-                                                <picture>
-                                                    <source id="main-img-source1" srcset="/uploads/products/725X725/falls-loft-930.webp" type="image/webp">
-
-                                                    <source srcset='/uploads/products/725X725/falls-loft-930.jpg' type='image/jpg'>
-                                                    <img src='/uploads/products/725X725/falls-loft-930.jpg' alt='' loading='lazy'>
-                                                </picture>
-                                            </div>
-                                            <div class="img-hover">
-                                                <picture>
-                                                    <source id="main-img-source1" srcset="/uploads/products/725X725/falls-loft-930.webp" type="image/webp">
-
-                                                    <source srcset="/uploads/products/725X725/falls-loft-930.jpg" type="image/png">
-                                                    <img src="/uploads/products/725X725/falls-loft-930.jpg" alt="">
-                                                </picture>
-                                            </div>
-                                            <ul class="product_labels">
-                                                <li class="product_label" style="background-color: #6ed8d7;">В НАЯВНОСТІ</li>
-                                            </ul>
-                                        </a>
-                                    </div>
-                                    <div class="product_title">
-                                        <a href="/sklyana-peregorodka-dlya-dushu-falls-1-1053-1056" itemprop="name">
-                                            Скляна перегородка для душу FALLS Color 2000х1000 мм
-                                        </a>
-                                    </div>
-                                    <div class="product_price-wrap" itemprop="offers" itemscope itemtype="https://schema.org/Offer">
-                                        <div class="product_price" ><b itemprop="price" class="price"> 13788</b> <b itemprop="priceCurrency" content="UAH">грн</b> </div>
-                                    </div>
-                                </div>
-                                </div>
-                                <div class="col-xxl-3 col-xl-4 col-sm-6">
-                                <div class="product js-product" data-price="11155">
-                                    <div class="product_image-wrap">
-                                        <a class="product_image" href="/sklyana-peregorodka-dlya-dushu-falls-1">
-                                            <div class="img-default">
-                                                <picture>
-                                                    <source id="main-img-source1" srcset="/uploads/products/725X725/falls-930.webp" type="image/webp">
-
-                                                    <source srcset='/uploads/products/725X725/falls-930.jpg' type='image/jpg'>
-                                                    <img src='/uploads/products/725X725/falls-930.jpg' alt='' loading='lazy'>
-                                                </picture>
-                                            </div>
-                                            <div class="img-hover">
-                                                <picture>
-                                                    <source id="main-img-source1" srcset="/uploads/products/725X725/falls-930.webp" type="image/webp">
-
-                                                    <source srcset="/uploads/products/725X725/falls-930.jpg" type="image/png">
-                                                    <img src="/uploads/products/725X725/falls-930.jpg" alt="">
-                                                </picture>
-                                            </div>
-                                            <ul class="product_labels">
-                                                <li class="product_label" style="background-color: #6ed8d7;">В НАЯВНОСТІ</li>
-                                            </ul>
-                                        </a>
-                                    </div>
-                                    <div class="product_title">
-                                        <a href="/sklyana-peregorodka-dlya-dushu-falls-1" itemprop="name">
-                                            Скляна перегородка для душу FALLS 2000х1000 мм
-                                        </a>
-                                    </div>
-                                    <div class="product_price-wrap" itemprop="offers" itemscope itemtype="https://schema.org/Offer">
-                                        <div class="product_price" ><b itemprop="price" class="price"> 11155</b> <b itemprop="priceCurrency" content="UAH">грн</b> </div>
                                     </div>
                                 </div>
                                 </div>
@@ -893,9 +797,9 @@
         <!-- FOOTER -->
         <footer>
             <footer itemscope itemtype="http://schema.org/Organization">
-                <meta itemprop="url" content="https://armourglass.shop/">
+                <meta itemprop="url" content="https://studioglass.ua/">
                 <meta itemprop="telephone" content="+380800330836">
-                <meta itemprop="logo" content="https://armourglass.shop/uploads/original/logo-b.svg">
+                <meta itemprop="logo" content="https://studioglass.ua/uploads/original/logo-b.svg">
                 <meta itemprop="name" content="Studioglass">
                 <meta itemprop="description" content="Львівська Фабрика Дзеркал ⭐ Studio Glass ✓ Дзеркала з підсвіткою ✓ Дзеркала в рамі ✓ Душові кабіни ✓ Великі дзеркала ☎️ +38(080)033-08-36.">
                 <div class="container">
@@ -1126,7 +1030,7 @@
     <div class="cookies-informer cookies-informer-dark" data-time="3000">
         <div class="cookies-informer-inner">
             <div class="text text-popup-dark">
-                <p>Наш сайт використовує cookies-файли для того, щоб відрізнити вас від інших користувачів нашого ресурсу. Це дозволяє забезпечувати зручний перегляд нашого сайту, а також дозволяє покращувати його. Для того щоб продовжити роботу з сайтом, вам необхідно прийняти умови <a href="https://armourglass.shop/privat-policy" target="_blank" rel="noopener">Політики конфіденційності</a></p>
+                <p>Наш сайт використовує cookies-файли для того, щоб відрізнити вас від інших користувачів нашого ресурсу. Це дозволяє забезпечувати зручний перегляд нашого сайту, а також дозволяє покращувати його. Для того щоб продовжити роботу з сайтом, вам необхідно прийняти умови <a href="https://studioglass.ua/privat-policy" target="_blank" rel="noopener">Політики конфіденційності</a></p>
             </div>
             <div class="btn close-cookies cookie-popup-agree-btn">прийняти</div>
         </div>
@@ -1582,9 +1486,17 @@
             </div>
         </div>
     
+        <!-- Shower schema popup  -->
+        <div class="popup-content shower-schema-popup" data-rel="shower-schema-popup">
+            <div class="layer-close"></div>
+            <div class="popup-container size-3 shower-schema-content">
+            <button class="btn-close close-popup"></button>
+            </div>
+        </div>
+    
     </div>    <link href="/css/swiper-bundle.min.css" rel="stylesheet" type="text/css" />
-    <link href="/css/sumoselect.min.css" rel="stylesheet" type="text/css" />
-    <link href="/css/style.css?v=1.2" rel="stylesheet" type="text/css" />
+    <link href="/css/sumoselect.min.css?v=1.0" rel="stylesheet" type="text/css" />
+    <link href="/css/style.css?v=1.3" rel="stylesheet" type="text/css" />
     
     
     <script defer src="/js/jquery.min.js"></script>
@@ -1596,17 +1508,17 @@
     <script defer src="/js/jquery.inputmask.min.js"></script>
     <script defer src="/js/jquery.sumoselect.min.js"></script>
     <script defer src="/js/jquery-ui.min.js"></script>
-    <script defer src="/js/global.js?v=2.2"></script>
+    <script defer src="/js/global.js?v=2.5"></script>
     <!-- can be disabled on mobile device -->
     <script defer src="/js/SmoothScroll.js"></script>
     <script defer src="/js/jquery.sticky-kit.min.js"></script>
     <script defer src="/js/custom.js?v=1.1"></script>
     <script defer src="/js/pagination.js?v=1.0"></script>
-    <link href="/css/ion.rangeSlider.min.css" rel="stylesheet" type="text/css" />
-    <link href="/css/rangeSliderCustom.css" rel="stylesheet" type="text/css" />
+    <link href="/css/ion.rangeSlider.min.css?v=1.0" rel="stylesheet" type="text/css" />
+    <link href="/css/rangeSliderCustom.css?v=1.0" rel="stylesheet" type="text/css" />
     <script defer src="/js/ion.rangeSlider.min.js"></script>
     <script defer src="/js/rangeSliderCustom.js"></script>
-    <link href="/css/SumoselectCustom.css" rel="stylesheet" type="text/css" />
+    <link href="/css/SumoselectCustom.css?v=1.0" rel="stylesheet" type="text/css" />
     <script defer src="/js/jquery.sumoselect.min.js"></script>
     <script defer src="/js/sumoselectCustom.js"></script>
     <script defer src="/js/ScrollMagic.min.js"></script>

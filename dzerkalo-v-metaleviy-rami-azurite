@@ -29,13 +29,13 @@
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=0" />
     <meta name="google-site-verification" content="_TssH0mwWwYlp7QE3SXnnyjrfpdPCnsAnNmcgxrhnvQ" />
     <link href="/css/bootstrap-grid.min.css" rel="stylesheet" type="text/css" />
-    <link href="/css/main.css" rel="stylesheet" type="text/css" />
+    <link href="/css/main.css?v=1.0" rel="stylesheet" type="text/css" />
     <link href="/css/custom.css?v=1.1" rel="stylesheet" type="text/css" />
     <link rel="shortcut icon" href="/img/favicon.ico" />
     <title>➤ Купити Дзеркало в металевій рамі StudioGlass AZURITE - Studio Glass</title>
 <meta name="description" content="Купити Дзеркало в металевій рамі StudioGlass AZURITE Львівська Фабрика Дзеркал ⭐ Studio Glass ✓ Гарантія 36 місяців ✓ Досвід обробки скла - 7 років ☎️ 0800 330 836">
-<link rel="canonical" href="https://armourglass.shop/dzerkalo-v-metaleviy-rami-azurite"/>
-<base href="https://armourglass.shop">
+<link rel="canonical" href="https://studioglass.ua/dzerkalo-v-metaleviy-rami-azurite"/>
+<base href="https://studioglass.ua">
 
 </head>
 
@@ -267,7 +267,7 @@
                         <ul class="social">
                             <li>
                                  
-                                <a href="https://www.instagram.com/armourglass.shop" target="_blank">
+                                <a href="https://www.instagram.com/studioglass.ua" target="_blank">
                                         <img class="s-icon-b" src="/uploads/pages/original/instagram-b_1.svg" alt="">
                                 </a>
                             </li>
@@ -483,6 +483,8 @@
                             <p>Заокруглена, плавна арочна форма, стильна металева рама та криштально прозоре, дзвінке дзеркальне полотно із чистотою відображення 100% - це висококласна модель AZURITE. Завдяки своїй нижній рівній частині дзеркало може не тільки висіти на стіні, але й опиратись на неї, стоячи на підлозі та створюючи окремий дизайнерський елемент у приміщенні, що відразу впадає в око. Верх дзеркала, де стрімкі лінії сходяться на округлій вершині, делікатно завершує композицію моделі.</p>
 <p>Наше дзеркало додасть стильної фарби Вашій домівці, адже лаконічність дизайну та майстерність виконання, відмінно поєднані у цій моделі, створюють ідилію форми та змісту.</p>
 <p>Металева рама дзеркала може бути пофарбована відповідно до таблиці кольорів Ral K7 Classic.</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
                         </div>
 
                         <div class="product_info-wrap">
@@ -592,9 +594,9 @@
                             <div class="thumb-input-number prod_quantity">
                                 <button type="button" class="decrement"></button>
                                 <input value="1" readonly="" tabindex="-1">
-                                <button type="button" class="increment" data-max="99981"></button>
+                                <button type="button" class="increment" data-max="99978"></button>
                             </div>
-                            <button class="btn btn-secondary order-btn add_to-cart"
+                            <button class="btn btn-secondary order-btn add_to-cart prod-detail-btn"
                             data-product_id="769" 
                             data-total_price="4445"
                                 data-s=400 data-h=1200
@@ -681,31 +683,24 @@
                             </div>
                             <div class="col-lg-6">
                                
-                                    <div class="lr-block-img">
-                                        <div class="text">
-                                            <div class="swiper-entry">
-                                                <div class="swiper-button-prev"><i></i></div>
-                                                <div class="swiper-button-next"><i></i></div>
-                                                <div class="swiper-container"
-                                                    data-options='{"slidesPerView":1, "effect":"fade", "loop":true}'>
-                                                    <div class="swiper-wrapper">
-                                                        <div class="swiper-slide">
-                                                            <div class="slide-img">
-                                                                <picture>
-                                                                    
+                                <div class="lr-block-img">
+                                    <picture>
+                                        
 
-                                                                    <source srcset='/uploads/3.jpg'
-                                                                        type='image/jpg'>
-                                                                    <img src='/uploads/3.jpg' alt='' loading='lazy'>
-                                                                </picture>
-                                                            </div>
-                                                        </div>
-                                                    </div>
-                                                    <div class="swiper-pagination"></div>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
+                                        <source srcset='/uploads/3.jpg' type='image/jpg'>
+                                        <img src='/uploads/3.jpg' alt='' loading='lazy'>
+                                    </picture>
+                                    <a class="btn-yt video-open" href="https://www.youtube.com/embed/0K80-dyX__8?feature&#x3D;share">
+                                        <svg width="120" height="85" viewBox="0 0 120 85" fill="none"
+                                            xmlns="http://www.w3.org/2000/svg">
+                                            <rect x="11.2798" y="7.89062" width="91.3681" height="58.6316"
+                                                fill="white" />
+                                            <path
+                                                d="M116.924 12.0963L117.074 13.0724C115.629 7.94803 111.728 3.99397 106.771 2.55477L106.666 2.52987C97.3449 6.82702e-05 59.8354 6.88228e-05 59.8354 6.88228e-05C59.8354 6.88228e-05 22.4205 -0.0497309 13.0045 2.52987C7.95275 3.99397 4.04686 7.94803 2.62698 12.9678L2.60207 13.0724C-0.88035 31.2541 -0.90526 53.101 2.75652 72.5676L2.60207 71.5815C4.04686 76.7059 7.94777 80.6599 12.9049 82.0991L13.0095 82.124C22.3209 84.6588 59.8404 84.6588 59.8404 84.6588C59.8404 84.6588 97.2503 84.6588 106.671 82.124C111.728 80.6599 115.634 76.7059 117.054 71.6861L117.079 71.5815C118.663 63.1256 119.57 53.3948 119.57 43.4549C119.57 43.0914 119.57 42.7229 119.565 42.3543C119.57 42.0157 119.57 41.6123 119.57 41.209C119.57 31.264 118.663 21.5333 116.924 12.0963ZM47.8686 60.5112V24.1926L79.0859 42.3792L47.8686 60.5112Z"
+                                                fill="#FF0000" />
+                                        </svg>
+                                    </a>
+                                </div>
                             </div>
                         </div>
                     </div>
@@ -770,7 +765,7 @@
 <p>Дзеркальне полотно може бути розміщене&nbsp;<strong>в рівень</strong>&nbsp;з металевою рамою, так і втоплене у неї. Дзеркало в рівень з рамою виглядає футуристично, гармонійно вписується у такі стилі дизайну, як: хай-тек, функціоналізм, скандинавський. Це не тільки модно, а й комфортно і функціонально, оскільки такому дзеркалу потрібен мінімальний догляд.</p>
 <p>Другий варіант краще передає всю красу алюмінієвої рами &ndash;&nbsp;<strong>втоплене&nbsp;</strong>дзеркальне полотно всередині рами залишає смужку металу, яка елегантно виступає над поверхнею дзеркала. Лаконічність дизайну і краса форми металевої рами говорять самі за себе.</p>
 <p>Легкість і міцність конструкції &ndash; найважливіші для нас показники. Саме тому наші рами виконані з полоси алюмінію товщиною&nbsp;<strong>40 х 3(2) мм</strong>. Окрім стандартних кольорів, за Вашим індивідуальним запитом ми можемо пофарбувати металеву раму відповідно до таблиці кольорів&nbsp;<strong>Ral K7 Classic</strong>.</p>
-<p>Ми любимо масштабні конструкції та великі форми, саме завдяки хорошій гнучкості алюмінію ми можемо виробляти металеві рами великих розмірів &ndash; вони втілені в нашій лінійці дзеркал&nbsp;<a href="https://armourglass.shop/megamirrors" target="_blank" rel="noopener"><strong><span lang="EN-US">MEGA MIRRORS</span></strong></a>&nbsp;</p>
+<p>Ми любимо масштабні конструкції та великі форми, саме завдяки хорошій гнучкості алюмінію ми можемо виробляти металеві рами великих розмірів &ndash; вони втілені в нашій лінійці дзеркал&nbsp;<a href="https://studioglass.ua/megamirrors" target="_blank" rel="noopener"><strong><span lang="EN-US">MEGA MIRRORS</span></strong></a>&nbsp;</p>
                                     </div>
                                 </div>
                             </div>
@@ -1523,34 +1518,36 @@
                         <div class="swiper-slide">
                             <div class="product js-product" data-price="2960">
                                 <div class="product_image-wrap">
-                                    <a class="product_image" href="/dzerkalo-v-derev-yaniy-rami-studioglass-black-water-krugle">
+                                    <a class="product_image" href="/sklyani-dveri-dlya-dushu-smith">
                                         <div class="img-default">
                                             <picture>
-                                                <source id="main-img-source1" srcset="/uploads/products/725X725/black-water_0003_black-water.webp" type="image/webp">
+                                                <source id="main-img-source1" srcset="/uploads/products/725X725/smith-930.webp" type="image/webp">
 
-                                                <source srcset="/uploads/products/725X725/black-water_0003_black-water.jpg" type="image/png">
-                                                <img src="/uploads/products/725X725/black-water_0003_black-water.jpg" alt="">
+                                                <source srcset="/uploads/products/725X725/smith-930.jpg" type="image/png">
+                                                <img src="/uploads/products/725X725/smith-930.jpg" alt="">
                                             </picture>
                                         </div>
                                         <div class="img-hover">
                                             <picture>
-                                                <source id="main-img-source1" srcset="/uploads/products/725X725/blank_0000_classic_1.webp" type="image/webp">
-                                                <source srcset="/uploads/products/725X725/blank_0000_classic_1.jpg" type="image/png">
-                                                <img src="/uploads/products/725X725/blank_0000_classic_1.jpg" alt="">
+                                                <source id="main-img-source1" srcset="/uploads/products/725X725/smith-930.webp" type="image/webp">
+
+                                                <source srcset="/uploads/products/725X725/smith-930.jpg" type="image/png">
+                                                <img src="/uploads/products/725X725/smith-930.jpg" alt="">
                                             </picture>
                                         </div>
 
                                         <ul class="product_labels">
+                                            <li class="product_label" style="background-color: #c15add;">НОВИНКИ</li>
                                         </ul>
                                     </a>
                                 </div>
                                 <div class="product_title">
-                                    <a href="/dzerkalo-v-derev-yaniy-rami-studioglass-black-water-krugle" >
-                                        Кругле дзеркало в дерев&#x27;яній рамі StudioGlass BLACK WATER
+                                    <a href="/sklyani-dveri-dlya-dushu-smith" >
+                                        Скляні двері для душу SMITH
                                     </a>
                                 </div>
                                 <div class="product_price-wrap" >
-                                        <div class="product_price" ><b itemprop="price" class="price">3982</b> <b >грн</b> </div>
+                                        <div class="product_price" ><b itemprop="price" class="price">33670</b> <b >грн</b> </div>
                                 </div>
                             </div>
                         </div>
@@ -1575,9 +1572,9 @@
         <!-- FOOTER -->
         <footer>
             <footer itemscope itemtype="http://schema.org/Organization">
-                <meta itemprop="url" content="https://armourglass.shop/">
+                <meta itemprop="url" content="https://studioglass.ua/">
                 <meta itemprop="telephone" content="+380800330836">
-                <meta itemprop="logo" content="https://armourglass.shop/uploads/original/logo-b.svg">
+                <meta itemprop="logo" content="https://studioglass.ua/uploads/original/logo-b.svg">
                 <meta itemprop="name" content="Studioglass">
                 <meta itemprop="description" content="Львівська Фабрика Дзеркал ⭐ Studio Glass ✓ Дзеркала з підсвіткою ✓ Дзеркала в рамі ✓ Душові кабіни ✓ Великі дзеркала ☎️ +38(080)033-08-36.">
                 <div class="container">
@@ -1808,7 +1805,7 @@
     <div class="cookies-informer cookies-informer-dark" data-time="3000">
         <div class="cookies-informer-inner">
             <div class="text text-popup-dark">
-                <p>Наш сайт використовує cookies-файли для того, щоб відрізнити вас від інших користувачів нашого ресурсу. Це дозволяє забезпечувати зручний перегляд нашого сайту, а також дозволяє покращувати його. Для того щоб продовжити роботу з сайтом, вам необхідно прийняти умови <a href="https://armourglass.shop/privat-policy" target="_blank" rel="noopener">Політики конфіденційності</a></p>
+                <p>Наш сайт використовує cookies-файли для того, щоб відрізнити вас від інших користувачів нашого ресурсу. Це дозволяє забезпечувати зручний перегляд нашого сайту, а також дозволяє покращувати його. Для того щоб продовжити роботу з сайтом, вам необхідно прийняти умови <a href="https://studioglass.ua/privat-policy" target="_blank" rel="noopener">Політики конфіденційності</a></p>
             </div>
             <div class="btn close-cookies cookie-popup-agree-btn">прийняти</div>
         </div>
@@ -2264,9 +2261,17 @@
             </div>
         </div>
     
+        <!-- Shower schema popup  -->
+        <div class="popup-content shower-schema-popup" data-rel="shower-schema-popup">
+            <div class="layer-close"></div>
+            <div class="popup-container size-3 shower-schema-content">
+            <button class="btn-close close-popup"></button>
+            </div>
+        </div>
+    
     </div>    <link href="/css/swiper-bundle.min.css" rel="stylesheet" type="text/css" />
-    <link href="/css/sumoselect.min.css" rel="stylesheet" type="text/css" />
-    <link href="/css/style.css?v=1.2" rel="stylesheet" type="text/css" />
+    <link href="/css/sumoselect.min.css?v=1.0" rel="stylesheet" type="text/css" />
+    <link href="/css/style.css?v=1.3" rel="stylesheet" type="text/css" />
     
     
     <script defer src="/js/jquery.min.js"></script>
@@ -2278,13 +2283,13 @@
     <script defer src="/js/jquery.inputmask.min.js"></script>
     <script defer src="/js/jquery.sumoselect.min.js"></script>
     <script defer src="/js/jquery-ui.min.js"></script>
-    <script defer src="/js/global.js?v=2.2"></script>
+    <script defer src="/js/global.js?v=2.5"></script>
     <!-- can be disabled on mobile device -->
     <script defer src="/js/SmoothScroll.js"></script>
     <script defer src="/js/jquery.sticky-kit.min.js"></script>
     <script defer src="/js/custom.js?v=1.1"></script>
     <script defer src="/js/pagination.js?v=1.0"></script>
-    <link href="/css/SumoselectCustom.css" rel="stylesheet" type="text/css" />
+    <link href="/css/SumoselectCustom.css?v=1.0" rel="stylesheet" type="text/css" />
     <script defer src="/js/jquery.sumoselect.min.js"></script>
     <script defer src="/js/sumoselectCustom.js"></script>
     <script defer src="/js/ScrollMagic.min.js"></script>
@@ -2295,7 +2300,7 @@
     <link rel="stylesheet" href="/css/lightgallery.min.css">
     <script defer src="/js/lightgallery-all.min.js"></script>
     <script defer src="/js/lightgallery-custom.js"></script>
-    <script defer src="/js/product_detail.js?v=1.6"></script>
+    <script defer src="/js/product_detail.js?v=1.7"></script>
     <script defer src="/js/jquery.sticky-kit.min.js"></script>
     
     

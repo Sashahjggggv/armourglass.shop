@@ -1,0 +1,8 @@
+/*-----------------------*/
+/*  Range Slider Custom  */
+/*-----------------------*/
+.slider-range .irs--round { height: 20px; }
+.slider-range .irs-min, .slider-range .irs-max, .slider-range .irs-from, .slider-range .irs-to, .slider-range .irs-single { display: none; }
+.slider-range .irs--round .irs-line { top: 9px; height: 2px; background-color: var(--clr-grey); border-radius: 0; }
+.slider-range .irs--round .irs-bar { top: 9px; height: 2px; background-color: var(--clr-white); }
+.slider-range .irs--round .irs-handle { top: 2px; width: 16px; height: 16px; border: 5px solid var(--clr-white); background-color: var(--clr-black); border-radius: 100%; -webkit-box-shadow: none; box-shadow: none; }
