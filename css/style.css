@@ -555,7 +555,7 @@ footer { --footer-br-clr: #3E3E3E; background-color: var(--clr-black); border-to
 .cards li { margin: 0 20px; }
 .cards img { max-height: 28px; -webkit-filter: grayscale(100%) contrast(50%); filter: grayscale(100%) contrast(50%); }
 .develope { margin-right: 40px; }
-.develope svg { margin-left: 5px; width: 90px; }
+.develope svg { margin-bottom: -5px; margin-left: 5px; width: 90px; }
 .develope svg path:not(.path-red) { fill: var(--clr-white); }
 @media (min-width: 1200px) { a.footer-contact-link:hover { opacity: 0.6; }
   a.footer-company-item:hover .img { -webkit-filter: grayscale(0); filter: grayscale(0); }
@@ -578,7 +578,7 @@ footer { --footer-br-clr: #3E3E3E; background-color: var(--clr-black); border-to
   .cards li { margin: 0 12px; }
   .cards img { max-height: 22px; }
   .develope { margin-right: 30px; }
-  .develope svg { width: 76px; } }
+  .develope svg { margin-bottom: -5px; width: 76px; } }
 @media (max-width: 1199px) { .footer-top-left { padding: 27px 12px 25px 24px; }
   .develope { margin-right: 0; } }
 @media (max-width: 991px) { .footer-top-inner { -webkit-box-orient: vertical; -webkit-box-direction: normal; -ms-flex-direction: column; flex-direction: column; }
