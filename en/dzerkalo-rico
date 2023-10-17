@@ -744,68 +744,6 @@
     </div>
 
 
-    <!-- Last View -->
-    <div class="section">
-        <div class="spacer spacer-xl"></div>
-        <div class="container">
-            <div class="h3 title-300 title-md text-center">
-               Last seen
-            </div>
-
-            <div class="swiper-entry products_swiper">
-                <div class="swiper-container"
-                    data-options='{"speed":700, "slidesPerView": 1, "spaceBetween": 12, "breakpoints":{"575":{"slidesPerView": 2, "spaceBetween": 5}, "767":{"slidesPerView": 3, "spaceBetween": 5}, "1200":{"spaceBetween": 5, "slidesPerView": 4}, "1441":{"spaceBetween": 5, "slidesPerView": 5}, "1601":{"spaceBetween": 5, "slidesPerView": 6} } }'>
-
-                    <div class="swiper-wrapper">
-                        <div class="swiper-slide">
-                            <div class="product js-product" data-price="2960">
-                                <div class="product_image-wrap">
-                                    <a class="product_image" href="/dzerkalo-agnes">
-                                        <div class="img-default">
-                                            <picture>
-                                                
-
-                                                <source srcset="/uploads/products/725X725/agnes1.png" type="image/png">
-                                                <img src="/uploads/products/725X725/agnes1.png" alt="">
-                                            </picture>
-                                        </div>
-                                        <div class="img-hover">
-                                            <picture>
-                                                
-                                                <source srcset="/uploads/products/725X725/930-x-930-agnes.png" type="image/png">
-                                                <img src="/uploads/products/725X725/930-x-930-agnes.png" alt="">
-                                            </picture>
-                                        </div>
-
-                                        <ul class="product_labels">
-                                        </ul>
-                                    </a>
-                                </div>
-                                <div class="product_title">
-                                    <a href="/dzerkalo-agnes" >
-                                        The mirror of StudioGlass AGNES round with backlight
-                                    </a>
-                                </div>
-                                <div class="product_price-wrap" >
-                                        <div class="product_price" ><b itemprop="price" class="price">3018</b> <b >UAH</b> </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-
-                </div>
-
-                <div class="swiper-controls">
-                    <div class="swiper-pagination"></div>
-                    <div class="swiper-controls-margin"></div>
-                    <div class="swiper-button-prev"><i></i></div>
-                    <div class="swiper-button-next"><i></i></div>
-                </div>
-
-            </div>
-        </div>
-        <div class="spacer spacer-xl"></div>
-    </div>
 
 </main>
 
