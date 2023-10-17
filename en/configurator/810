@@ -2,27 +2,7 @@
 <html lang="uk">
 
 <head>
-    <!-- Google Analytics -->
-    <!-- *************************************************** -->
-
-    <!-- Google Tag Manager -->
-        <script>
-            (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
-            new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
-            j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
-            'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
-            })(window,document,'script','dataLayer','GTM-NMBNCQH');
-        </script>
-    <!-- End Google Tag Manager -->
-
-    <script type='text/javascript'>
-        window.smartlook||(function(d) {
-        var o=smartlook=function(){ o.api.push(arguments)},h=d.getElementsByTagName('head')[0];
-        var c=d.createElement('script');o.api=new Array();c.async=true;c.type='text/javascript';
-        c.charset='utf-8';c.src='https://web-sdk.smartlook.com/recorder.js';h.appendChild(c);
-        })(document);
-        smartlook('init', '2e1ed484583c0917dda8f19c7ff68e3960ae8916', { region: 'eu' });
-    </script>
+    
     <meta http-equiv="content-type" content="text/html; charset=utf-8" />
     <meta name="format-detection" content="telephone=no" />
     <meta name="apple-mobile-web-app-capable" content="yes" />
@@ -36,11 +16,6 @@
 </head>
 
 <body data-lang=en class="">
-
-    <!-- Google Tag Manager (noscript) -->
-    <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-NMBNCQH"
-    height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
-    <!-- End Google Tag Manager (noscript) -->
 
     <!-- LOADER -->
     <div id="loader-wrapper"></div>
@@ -80,7 +55,7 @@
                                 <a href="/en/product-collections-en">Product Collections</a>
                             </li>
                             <li>
-                                <a href="/en/about-en">About Studio Glass</a>
+                                <a href="/en/about-en">About Armour Glass</a>
                             </li>
             
                         </ul>
@@ -188,7 +163,7 @@
                             <nav class="h-menu-links">
                                 <ul>
                                         <li>
-                                            <a href="/en/about-en">About Studio Glass</a>
+                                            <a href="/en/about-en">About Armour Glass</a>
                                         </li>
                                         <li>
                                             <a href="/en/product-collections-en">Product Collections</a>
@@ -261,7 +236,7 @@
                         <ul class="social">
                             <li>
                                  
-                                <a href="https://www.instagram.com/studioglass.ua" target="_blank">
+                                <a href="https://www.instagram.com/armourglass.shop" target="_blank">
                                         <img class="s-icon-w" src="/uploads/pages/original/instagram-w_2.svg" alt="">
                                 </a>
                             </li>
@@ -273,7 +248,7 @@
                             </li>
                             <li>
                                  
-                                <a href="https://t.me/StudioGlass" target="_blank">
+                                <a href="https://t.me/studioglass" target="_blank">
                                         <img class="s-icon-w" src="/uploads/pages/tel.png" alt="">
                                 </a>
                             </li>
@@ -367,7 +342,7 @@
 
             <div class="config-img-wrapper sticky-gap-item">
               <a href="/en/dzerkalo-v-metaleviy-rami-amethyst" class="config-img-title text-cut-4">
-                <span>Mirror in a metal frame StudioGlass AMETHYST</span>
+                <span>Mirror in a metal frame ArmourGlass AMETHYST</span>
               </a>
               <div class="config-img" id="main-img" data-main-img-path="/uploads/products/930X930/amethyst-brass-930.jpg">
                 <a class="btn-back" href="/en/dzerkalo-v-metaleviy-rami-amethyst">
@@ -791,7 +766,7 @@
                   <div class="config-checkout">
                     <div class="name-wrapper-block">
                       <div class="title-300 h5">
-                        Mirror in a metal frame StudioGlass AMETHYST
+                        Mirror in a metal frame ArmourGlass AMETHYST
                       </div>
                       <button class="btn big down-btn generate_pdf_btn">
                         <a>
@@ -901,11 +876,11 @@
         <!-- FOOTER -->
         <footer>
             <footer itemscope itemtype="http://schema.org/Organization">
-                <meta itemprop="url" content="https://studioglass.ua/">
+                <meta itemprop="url" content="https://armourglass.shop/">
                 <meta itemprop="telephone" content="+380800330836">
-                <meta itemprop="logo" content="https://studioglass.ua/uploads/original/logo-b.svg">
-                <meta itemprop="name" content="Studioglass">
-                <meta itemprop="description" content="Львівська Фабрика Дзеркал ⭐ Studio Glass ✓ Дзеркала з підсвіткою ✓ Дзеркала в рамі ✓ Душові кабіни ✓ Великі дзеркала ☎️ +38(080)033-08-36.">
+                <meta itemprop="logo" content="https://armourglass.shop/uploads/original/logo-b.svg">
+                <meta itemprop="name" content="ArmourGlass">
+                <meta itemprop="description" content="Львівська Фабрика Дзеркал ⭐ Armour Glass ✓ Дзеркала з підсвіткою ✓ Дзеркала в рамі ✓ Душові кабіни ✓ Великі дзеркала ☎️ +38(080)033-08-36.">
                 <div class="container">
                     <div class="row">
                         <div class="col-xl-11 offset-xl-1 px-0">
@@ -933,7 +908,7 @@
                                                 <a href="/en/contacts-en">Contacts</a>
                                             </li>
                                             <li>
-                                                <a href="/en/about-en">About Studio Glass</a>
+                                                <a href="/en/about-en">About Armour Glass</a>
                                             </li>
                                             <li>
                                                 <a href="/en/oplata-ta-dostavka">Payment and delivery</a>
@@ -1133,20 +1108,14 @@
         <div class="cookies-informer-inner">
             <div class="text ">
                 <p>Our site uses cookies to distinguish you from other users of our site. This allows us to provide convenient viewing of our site, and also allows us to improve it</p>
-<p><a href="https://studioglass.ua/en/privat-policy-en" target="_blank" rel="noopener">Cookies policy</a></p>
+<p><a href="https://armourglass.shop/en/privat-policy-en" target="_blank" rel="noopener">Cookies policy</a></p>
             </div>
             <div class="btn close-cookies cookie-popup-agree-btn">accept</div>
         </div>
         <div class="btn-close close-cookies "></div>
     </div>
 
-    <!-- Global site tag (gtag.js) - Google Analytics -->
-    <script>
-    window.dataLayer = window.dataLayer || [];
-    function gtag(){dataLayer.push(arguments);}
-    gtag('js', new Date());
-    gtag('config', 'GTM-NMBNCQH');
-    </script>
+    
 
     <div class="cart">
     

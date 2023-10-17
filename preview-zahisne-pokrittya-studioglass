@@ -2,27 +2,7 @@
 <html lang="uk">
 
 <head>
-    <!-- Google Analytics -->
-    <!-- *************************************************** -->
-
-    <!-- Google Tag Manager -->
-        <script>
-            (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
-            new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
-            j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
-            'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
-            })(window,document,'script','dataLayer','GTM-NMBNCQH');
-        </script>
-    <!-- End Google Tag Manager -->
-
-    <script type='text/javascript'>
-        window.smartlook||(function(d) {
-        var o=smartlook=function(){ o.api.push(arguments)},h=d.getElementsByTagName('head')[0];
-        var c=d.createElement('script');o.api=new Array();c.async=true;c.type='text/javascript';
-        c.charset='utf-8';c.src='https://web-sdk.smartlook.com/recorder.js';h.appendChild(c);
-        })(document);
-        smartlook('init', '2e1ed484583c0917dda8f19c7ff68e3960ae8916', { region: 'eu' });
-    </script>
+    
     <meta http-equiv="content-type" content="text/html; charset=utf-8" />
     <meta name="format-detection" content="telephone=no" />
     <meta name="apple-mobile-web-app-capable" content="yes" />
@@ -32,18 +12,13 @@
     <link href="/css/main.css?v=1.0" rel="stylesheet" type="text/css" />
     <link href="/css/custom.css?v=1.1" rel="stylesheet" type="text/css" />
     <link rel="shortcut icon" href="/img/favicon.ico" />
-    <title>Захисне Покриття StudioGlass</title>
-<link rel="canonical" href="https://studioglass.ua/preview-zahisne-pokrittya-studioglass"/>
-<base href="https://studioglass.ua">
+    <title>Захисне Покриття ArmourGlass</title>
+<link rel="canonical" href="https://armourglass.shop/preview-zahisne-pokrittya-studioglass"/>
+<base href="https://armourglass.shop">
 
 </head>
 
 <body data-lang=uk class="">
-
-    <!-- Google Tag Manager (noscript) -->
-    <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-NMBNCQH"
-    height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
-    <!-- End Google Tag Manager (noscript) -->
 
     <!-- LOADER -->
     <div id="loader-wrapper"></div>
@@ -194,7 +169,7 @@
                             <nav class="h-menu-links">
                                 <ul>
                                         <li>
-                                            <a href="/about">Про Studio Glass</a>
+                                            <a href="/about">Про Armour Glass</a>
                                         </li>
                                         <li>
                                             <a href="/product-collections">Колекції товарів</a>
@@ -266,7 +241,7 @@
                         <ul class="social">
                             <li>
                                  
-                                <a href="https://www.instagram.com/studioglass.ua" target="_blank">
+                                <a href="https://www.instagram.com/armourglass.shop" target="_blank">
                                         <img class="s-icon-w" src="/uploads/pages/original/instagram-w_2.svg" alt="">
                                 </a>
                             </li>
@@ -278,7 +253,7 @@
                             </li>
                             <li>
                                  
-                                <a href="https://t.me/StudioGlass" target="_blank">
+                                <a href="https://t.me/studioglass" target="_blank">
                                         <img class="s-icon-w" src="/uploads/pages/tel.png" alt="">
                                 </a>
                             </li>
@@ -326,7 +301,7 @@
                             <div class="row justify-content-center banner-line-top">
                                 <div class="col-xxl-8 col-xl-10 text-center">
                                     <h1 class="title-300 h3">
-                                        Захисне покриття для скла StudioGlass
+                                        Захисне покриття для скла ArmourGlass
                                     </h1>
                                 </div>
                             </div>
@@ -344,7 +319,7 @@
                                         
                                     </div>
                                     <div class="text">
-                                        <p dir="ltr">Скло у душовій кабіні часто піддається негативному впливу жорсткої води та мийних засобів. Саме тому скляні душові кабіни <strong>StudioGlass&trade;</strong> можуть за бажанням клієнта мати додаткове покриття, яке полегшує підтримання скла в чистоті.<span id="docs-internal-guid-3b9c5ca4-7fff-b6f6-141d-10322a11a2d4"></span></p>
+                                        <p dir="ltr">Скло у душовій кабіні часто піддається негативному впливу жорсткої води та мийних засобів. Саме тому скляні душові кабіни <strong>ArmourGlass&trade;</strong> можуть за бажанням клієнта мати додаткове покриття, яке полегшує підтримання скла в чистоті.<span id="docs-internal-guid-3b9c5ca4-7fff-b6f6-141d-10322a11a2d4"></span></p>
 <p dir="ltr">Завдяки структурі, яку захисна речовина утворює з поверхнею скла, краплі води не розтікаються, не змочуючи поверхню, а швидко злітають із неї. Оскільки реакція відбувається на молекулярному рівні, ефект від покриття зберігається на значний термін.</p>
                                     </div>
                                 </div>
@@ -429,7 +404,7 @@
                             <div class="row justify-content-center">
                                 <div class="col-xxl-8 col-xl-10">
                                     <div class="title-100 h2 title-md text-center">
-                                        Компанія StudioGlass™ надає 5 років гарантії на захисне покриття для душових кабін
+                                        Компанія ArmourGlass™ надає 5 років гарантії на захисне покриття для душових кабін
                                     </div>
                                     <div class="text">
                                         <p><span id="docs-internal-guid-b7d64392-7fff-7430-6081-06ee8e99f476"></span></p>
@@ -447,7 +422,7 @@
                             <div class="col-lg-6 col-xl-4 offset-xl-1 align-self-center order-1 order-lg-0">
                                 <div class="lr-block-info type-2">
                                     <div class="title-100 h2 title-md">
-                                        Переваги покриття StudioGlass™:
+                                        Переваги покриття ArmourGlass™:
                                     </div>
                                     <div class="text">
                                         <p><span id="docs-internal-guid-957e51d0-7fff-5a2d-b1b3-54b0c3828007"></span></p>
@@ -540,7 +515,7 @@
                                     
                                     </div>
                                     <div class="text">
-                                        <p dir="ltr">Компанія&nbsp;<strong>StudioGlass&trade;</strong>&nbsp;рекомендує використовувати для очищення душових кабін побутові мийні засоби перевірених брендів, призначені для скляних поверхонь.</p>
+                                        <p dir="ltr">Компанія&nbsp;<strong>ArmourGlass&trade;</strong>&nbsp;рекомендує використовувати для очищення душових кабін побутові мийні засоби перевірених брендів, призначені для скляних поверхонь.</p>
 <p dir="ltr"><strong>Примітка</strong>: речовина, яка використовується для захисного покриття, не має нічого спільного з автомобільним &ldquo;антидощем&rdquo;, нанокерамікою та восковими покриттями, а є рідким полімером, який вступає в реакцію з поверхнею скла на молекулярному рівні.<span id="docs-internal-guid-fe3f3507-7fff-99e0-597f-21916f1f86b5"></span></p>
 <p dir="ltr"><strong>Увага!</strong> Гарантія не поширюється на випадки, коли до поверхні скла була застосована дія абразивних матеріалів або ж хімічних сполук, здатних вступати в реакцію з поверхнею скла та руйнувати її структуру.</p>
                                     </div>
@@ -621,11 +596,11 @@
         <!-- FOOTER -->
         <footer>
             <footer itemscope itemtype="http://schema.org/Organization">
-                <meta itemprop="url" content="https://studioglass.ua/">
+                <meta itemprop="url" content="https://armourglass.shop/">
                 <meta itemprop="telephone" content="+380800330836">
-                <meta itemprop="logo" content="https://studioglass.ua/uploads/original/logo-b.svg">
-                <meta itemprop="name" content="Studioglass">
-                <meta itemprop="description" content="Львівська Фабрика Дзеркал ⭐ Studio Glass ✓ Дзеркала з підсвіткою ✓ Дзеркала в рамі ✓ Душові кабіни ✓ Великі дзеркала ☎️ +38(080)033-08-36.">
+                <meta itemprop="logo" content="https://armourglass.shop/uploads/original/logo-b.svg">
+                <meta itemprop="name" content="ArmourGlass">
+                <meta itemprop="description" content="Львівська Фабрика Дзеркал ⭐ Armour Glass ✓ Дзеркала з підсвіткою ✓ Дзеркала в рамі ✓ Душові кабіни ✓ Великі дзеркала ☎️ +38(080)033-08-36.">
                 <div class="container">
                     <div class="row">
                         <div class="col-xl-11 offset-xl-1 px-0">
@@ -656,7 +631,7 @@
                                                 <a href="/contacts">Контакти</a>
                                             </li>
                                             <li>
-                                                <a href="/about">Про Studio Glass</a>
+                                                <a href="/about">Про Armour Glass</a>
                                             </li>
                                             <li>
                                                 <a href="/oplata-ta-dostavka">Оплата та доставка</a>
@@ -854,20 +829,14 @@
     <div class="cookies-informer " data-time="3000">
         <div class="cookies-informer-inner">
             <div class="text ">
-                <p>Наш сайт використовує cookies-файли для того, щоб відрізнити вас від інших користувачів нашого ресурсу. Це дозволяє забезпечувати зручний перегляд нашого сайту, а також дозволяє покращувати його. Для того щоб продовжити роботу з сайтом, вам необхідно прийняти умови <a href="https://studioglass.ua/privat-policy" target="_blank" rel="noopener">Політики конфіденційності</a></p>
+                <p>Наш сайт використовує cookies-файли для того, щоб відрізнити вас від інших користувачів нашого ресурсу. Це дозволяє забезпечувати зручний перегляд нашого сайту, а також дозволяє покращувати його. Для того щоб продовжити роботу з сайтом, вам необхідно прийняти умови <a href="https://armourglass.shop/privat-policy" target="_blank" rel="noopener">Політики конфіденційності</a></p>
             </div>
             <div class="btn close-cookies cookie-popup-agree-btn">прийняти</div>
         </div>
         <div class="btn-close close-cookies "></div>
     </div>
 
-    <!-- Global site tag (gtag.js) - Google Analytics -->
-    <script>
-    window.dataLayer = window.dataLayer || [];
-    function gtag(){dataLayer.push(arguments);}
-    gtag('js', new Date());
-    gtag('config', 'GTM-NMBNCQH');
-    </script>
+    
 
     <div class="cart">
     
@@ -1356,7 +1325,7 @@
     <script defer src="/js/lightgallery-all.min.js"></script>
     <script defer src="/js/lightgallery-custom.js"></script>
     <script defer
-      src="https://maps.googleapis.com/maps/api/js?key=AIzaSyDWncFKfrNPjUt_hNEl9uj1zzsZ55HVdMA&libraries=geometry,places&v=3&language=uk"></script>
+      src="https://maps.googleapis.com/maps/api/js?key=AIzaSyClBLlxNuBIprKBsHs0khJVm_5f1Rdz7kE&libraries=geometry,places&v=3&language=uk"></script>
     <script defer src="/js/infobox.js"></script>
     <script defer src="/js/markerclusterer.js"></script>
     <script defer src="/js/map.js"></script>

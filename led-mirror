@@ -2,27 +2,7 @@
 <html lang="uk">
 
 <head>
-    <!-- Google Analytics -->
-    <!-- *************************************************** -->
-
-    <!-- Google Tag Manager -->
-        <script>
-            (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
-            new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
-            j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
-            'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
-            })(window,document,'script','dataLayer','GTM-NMBNCQH');
-        </script>
-    <!-- End Google Tag Manager -->
-
-    <script type='text/javascript'>
-        window.smartlook||(function(d) {
-        var o=smartlook=function(){ o.api.push(arguments)},h=d.getElementsByTagName('head')[0];
-        var c=d.createElement('script');o.api=new Array();c.async=true;c.type='text/javascript';
-        c.charset='utf-8';c.src='https://web-sdk.smartlook.com/recorder.js';h.appendChild(c);
-        })(document);
-        smartlook('init', '2e1ed484583c0917dda8f19c7ff68e3960ae8916', { region: 'eu' });
-    </script>
+    
     <meta http-equiv="content-type" content="text/html; charset=utf-8" />
     <meta name="format-detection" content="telephone=no" />
     <meta name="apple-mobile-web-app-capable" content="yes" />
@@ -32,19 +12,14 @@
     <link href="/css/main.css?v=1.0" rel="stylesheet" type="text/css" />
     <link href="/css/custom.css?v=1.1" rel="stylesheet" type="text/css" />
     <link rel="shortcut icon" href="/img/favicon.ico" />
-    <title>➤ Дзеркала з підсвіткою • Купити Дзеркало з лед підсвіткою - Studio Glass</title>
-<meta name="description" content="【 Купити дзеркало з підсвіткою 】 Львівська Фабрика Дзеркал ⭐ Studio Glass ✓ Гарантія 36 місяців ✓ Досвід обробки скла - 7 років ☎️ +38(080)033-08-36.">
-<link rel="canonical" href="https://studioglass.ua/led-mirror"/>
-<base href="https://studioglass.ua">
+    <title>➤ Дзеркала з підсвіткою • Купити Дзеркало з лед підсвіткою - Armour Glass</title>
+<meta name="description" content="【 Купити дзеркало з підсвіткою 】 Львівська Фабрика Дзеркал ⭐ Armour Glass ✓ Гарантія 36 місяців ✓ Досвід обробки скла - 7 років ☎️ +38(080)033-08-36.">
+<link rel="canonical" href="https://armourglass.shop/led-mirror"/>
+<base href="https://armourglass.shop">
 
 </head>
 
 <body data-lang=uk class=" light-theme ">
-
-    <!-- Google Tag Manager (noscript) -->
-    <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-NMBNCQH"
-    height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
-    <!-- End Google Tag Manager (noscript) -->
 
     <!-- LOADER -->
     <div id="loader-wrapper"></div>
@@ -195,7 +170,7 @@
                             <nav class="h-menu-links">
                                 <ul>
                                         <li>
-                                            <a href="/about">Про Studio Glass</a>
+                                            <a href="/about">Про Armour Glass</a>
                                         </li>
                                         <li>
                                             <a href="/product-collections">Колекції товарів</a>
@@ -267,7 +242,7 @@
                         <ul class="social">
                             <li>
                                  
-                                <a href="https://www.instagram.com/studioglass.ua" target="_blank">
+                                <a href="https://www.instagram.com/armourglass.shop" target="_blank">
                                         <img class="s-icon-b" src="/uploads/pages/original/instagram-b_1.svg" alt="">
                                 </a>
                             </li>
@@ -279,7 +254,7 @@
                             </li>
                             <li>
                                  
-                                <a href="https://t.me/StudioGlass" target="_blank">
+                                <a href="https://t.me/studioglass" target="_blank">
                                         <img class="s-icon-b" src="/uploads/pages/tel_1.png" alt="">
                                 </a>
                             </li>
@@ -353,7 +328,7 @@
             <!-- category -->
             <div class="section">
                 <div class="container">
-                    <div class="row category-row" data-gTagData="{&quot;item_list_id&quot;:66,&quot;item_list_name&quot;:&quot;Led Mirrors&quot;,&quot;items&quot;:[{&quot;item_id&quot;:283,&quot;item_name&quot;:&quot;Дзеркало StudioGlass AGNES з підсвіткою кругле&quot;,&quot;item_variant&quot;:&quot;&quot;,&quot;google_business_vertical&quot;:&quot;retail&quot;,&quot;price&quot;:3018,&quot;quantity&quot;:1,&quot;item_category&quot;:&quot;Led Mirrors&quot;},{&quot;item_id&quot;:238,&quot;item_name&quot;:&quot;Дзеркало StudioGlass RICO з підсвіткою кругле&quot;,&quot;item_variant&quot;:&quot;&quot;,&quot;google_business_vertical&quot;:&quot;retail&quot;,&quot;price&quot;:3314,&quot;quantity&quot;:1,&quot;item_category&quot;:&quot;Led Mirrors&quot;},{&quot;item_id&quot;:322,&quot;item_name&quot;:&quot;Дзеркало StudioGlass MORAINE з підсвіткою кругле&quot;,&quot;item_variant&quot;:&quot;&quot;,&quot;google_business_vertical&quot;:&quot;retail&quot;,&quot;price&quot;:3517,&quot;quantity&quot;:1,&quot;item_category&quot;:&quot;Led Mirrors&quot;},{&quot;item_id&quot;:911,&quot;item_name&quot;:&quot;Кругле дзеркало на комбінованому шкіряному ремені StudioGlass MEERAUGE &quot;,&quot;item_variant&quot;:&quot;&quot;,&quot;google_business_vertical&quot;:&quot;retail&quot;,&quot;price&quot;:3425,&quot;quantity&quot;:1,&quot;item_category&quot;:&quot;Led Mirrors&quot;},{&quot;item_id&quot;:193,&quot;item_name&quot;:&quot;Дзеркало StudioGlass COMO з підсвіткою прямокутне&quot;,&quot;item_variant&quot;:&quot;&quot;,&quot;google_business_vertical&quot;:&quot;retail&quot;,&quot;price&quot;:4048,&quot;quantity&quot;:1,&quot;item_category&quot;:&quot;Led Mirrors&quot;},{&quot;item_id&quot;:286,&quot;item_name&quot;:&quot;Дзеркало StudioGlass BUFFALO з підсвіткою прямокутне&quot;,&quot;item_variant&quot;:&quot;&quot;,&quot;google_business_vertical&quot;:&quot;retail&quot;,&quot;price&quot;:3618,&quot;quantity&quot;:1,&quot;item_category&quot;:&quot;Led Mirrors&quot;},{&quot;item_id&quot;:211,&quot;item_name&quot;:&quot;Дзеркало StudioGlass KERID з підсвіткою прямокутне&quot;,&quot;item_variant&quot;:&quot;&quot;,&quot;google_business_vertical&quot;:&quot;retail&quot;,&quot;price&quot;:4048,&quot;quantity&quot;:1,&quot;item_category&quot;:&quot;Led Mirrors&quot;},{&quot;item_id&quot;:328,&quot;item_name&quot;:&quot;Дзеркало StudioGlass RESIA з фоновою підсвіткою прямокутне з матовою рамкою&quot;,&quot;item_variant&quot;:&quot;&quot;,&quot;google_business_vertical&quot;:&quot;retail&quot;,&quot;price&quot;:5098,&quot;quantity&quot;:1,&quot;item_category&quot;:&quot;Led Mirrors&quot;},{&quot;item_id&quot;:319,&quot;item_name&quot;:&quot;Дзеркало StudioGlass MOON з підсвіткою півколо&quot;,&quot;item_variant&quot;:&quot;&quot;,&quot;google_business_vertical&quot;:&quot;retail&quot;,&quot;price&quot;:4340,&quot;quantity&quot;:1,&quot;item_category&quot;:&quot;Led Mirrors&quot;},{&quot;item_id&quot;:187,&quot;item_name&quot;:&quot;Дзеркало StudioGlass BLOSSOM з фронтальною підсвіткою овальне&quot;,&quot;item_variant&quot;:&quot;&quot;,&quot;google_business_vertical&quot;:&quot;retail&quot;,&quot;price&quot;:5247,&quot;quantity&quot;:1,&quot;item_category&quot;:&quot;Led Mirrors&quot;},{&quot;item_id&quot;:316,&quot;item_name&quot;:&quot;Дзеркало StudioGlass MELISSANI з фоновою підсвіткою овальне&quot;,&quot;item_variant&quot;:&quot;&quot;,&quot;google_business_vertical&quot;:&quot;retail&quot;,&quot;price&quot;:6456,&quot;quantity&quot;:1,&quot;item_category&quot;:&quot;Led Mirrors&quot;},{&quot;item_id&quot;:592,&quot;item_name&quot;:&quot;Дзеркало StudioGlass LUCERNE з фоновою підсвіткою&quot;,&quot;item_variant&quot;:&quot;&quot;,&quot;google_business_vertical&quot;:&quot;retail&quot;,&quot;price&quot;:6456,&quot;quantity&quot;:1,&quot;item_category&quot;:&quot;Led Mirrors&quot;},{&quot;item_id&quot;:969,&quot;item_name&quot;:&quot;Дзеркало StudioGlass KERID GROWTH з підсвіткою&quot;,&quot;item_variant&quot;:&quot;&quot;,&quot;google_business_vertical&quot;:&quot;retail&quot;,&quot;price&quot;:7286,&quot;quantity&quot;:1,&quot;item_category&quot;:&quot;Led Mirrors&quot;},{&quot;item_id&quot;:226,&quot;item_name&quot;:&quot;Дзеркало StudioGlass MELVIN з підсвіткою прямокутне&quot;,&quot;item_variant&quot;:&quot;&quot;,&quot;google_business_vertical&quot;:&quot;retail&quot;,&quot;price&quot;:4048,&quot;quantity&quot;:1,&quot;item_category&quot;:&quot;Led Mirrors&quot;},{&quot;item_id&quot;:244,&quot;item_name&quot;:&quot;Дзеркало StudioGlass SALTON з підсвіткою прямокутне&quot;,&quot;item_variant&quot;:&quot;&quot;,&quot;google_business_vertical&quot;:&quot;retail&quot;,&quot;price&quot;:4048,&quot;quantity&quot;:1,&quot;item_category&quot;:&quot;Led Mirrors&quot;},{&quot;item_id&quot;:859,&quot;item_name&quot;:&quot;Дзеркало StudioGlass KAMAL з підсвіткою прямокутне&quot;,&quot;item_variant&quot;:&quot;&quot;,&quot;google_business_vertical&quot;:&quot;retail&quot;,&quot;price&quot;:4955,&quot;quantity&quot;:1,&quot;item_category&quot;:&quot;Led Mirrors&quot;}]}">
+                    <div class="row category-row" data-gTagData="{&quot;item_list_id&quot;:66,&quot;item_list_name&quot;:&quot;Led Mirrors&quot;,&quot;items&quot;:[{&quot;item_id&quot;:283,&quot;item_name&quot;:&quot;Дзеркало ArmourGlass AGNES з підсвіткою кругле&quot;,&quot;item_variant&quot;:&quot;&quot;,&quot;google_business_vertical&quot;:&quot;retail&quot;,&quot;price&quot;:3018,&quot;quantity&quot;:1,&quot;item_category&quot;:&quot;Led Mirrors&quot;},{&quot;item_id&quot;:238,&quot;item_name&quot;:&quot;Дзеркало ArmourGlass RICO з підсвіткою кругле&quot;,&quot;item_variant&quot;:&quot;&quot;,&quot;google_business_vertical&quot;:&quot;retail&quot;,&quot;price&quot;:3314,&quot;quantity&quot;:1,&quot;item_category&quot;:&quot;Led Mirrors&quot;},{&quot;item_id&quot;:322,&quot;item_name&quot;:&quot;Дзеркало ArmourGlass MORAINE з підсвіткою кругле&quot;,&quot;item_variant&quot;:&quot;&quot;,&quot;google_business_vertical&quot;:&quot;retail&quot;,&quot;price&quot;:3517,&quot;quantity&quot;:1,&quot;item_category&quot;:&quot;Led Mirrors&quot;},{&quot;item_id&quot;:911,&quot;item_name&quot;:&quot;Кругле дзеркало на комбінованому шкіряному ремені ArmourGlass MEERAUGE &quot;,&quot;item_variant&quot;:&quot;&quot;,&quot;google_business_vertical&quot;:&quot;retail&quot;,&quot;price&quot;:3425,&quot;quantity&quot;:1,&quot;item_category&quot;:&quot;Led Mirrors&quot;},{&quot;item_id&quot;:193,&quot;item_name&quot;:&quot;Дзеркало ArmourGlass COMO з підсвіткою прямокутне&quot;,&quot;item_variant&quot;:&quot;&quot;,&quot;google_business_vertical&quot;:&quot;retail&quot;,&quot;price&quot;:4048,&quot;quantity&quot;:1,&quot;item_category&quot;:&quot;Led Mirrors&quot;},{&quot;item_id&quot;:286,&quot;item_name&quot;:&quot;Дзеркало ArmourGlass BUFFALO з підсвіткою прямокутне&quot;,&quot;item_variant&quot;:&quot;&quot;,&quot;google_business_vertical&quot;:&quot;retail&quot;,&quot;price&quot;:3618,&quot;quantity&quot;:1,&quot;item_category&quot;:&quot;Led Mirrors&quot;},{&quot;item_id&quot;:211,&quot;item_name&quot;:&quot;Дзеркало ArmourGlass KERID з підсвіткою прямокутне&quot;,&quot;item_variant&quot;:&quot;&quot;,&quot;google_business_vertical&quot;:&quot;retail&quot;,&quot;price&quot;:4048,&quot;quantity&quot;:1,&quot;item_category&quot;:&quot;Led Mirrors&quot;},{&quot;item_id&quot;:328,&quot;item_name&quot;:&quot;Дзеркало ArmourGlass RESIA з фоновою підсвіткою прямокутне з матовою рамкою&quot;,&quot;item_variant&quot;:&quot;&quot;,&quot;google_business_vertical&quot;:&quot;retail&quot;,&quot;price&quot;:5098,&quot;quantity&quot;:1,&quot;item_category&quot;:&quot;Led Mirrors&quot;},{&quot;item_id&quot;:319,&quot;item_name&quot;:&quot;Дзеркало ArmourGlass MOON з підсвіткою півколо&quot;,&quot;item_variant&quot;:&quot;&quot;,&quot;google_business_vertical&quot;:&quot;retail&quot;,&quot;price&quot;:4340,&quot;quantity&quot;:1,&quot;item_category&quot;:&quot;Led Mirrors&quot;},{&quot;item_id&quot;:187,&quot;item_name&quot;:&quot;Дзеркало ArmourGlass BLOSSOM з фронтальною підсвіткою овальне&quot;,&quot;item_variant&quot;:&quot;&quot;,&quot;google_business_vertical&quot;:&quot;retail&quot;,&quot;price&quot;:5247,&quot;quantity&quot;:1,&quot;item_category&quot;:&quot;Led Mirrors&quot;},{&quot;item_id&quot;:316,&quot;item_name&quot;:&quot;Дзеркало ArmourGlass MELISSANI з фоновою підсвіткою овальне&quot;,&quot;item_variant&quot;:&quot;&quot;,&quot;google_business_vertical&quot;:&quot;retail&quot;,&quot;price&quot;:6456,&quot;quantity&quot;:1,&quot;item_category&quot;:&quot;Led Mirrors&quot;},{&quot;item_id&quot;:592,&quot;item_name&quot;:&quot;Дзеркало ArmourGlass LUCERNE з фоновою підсвіткою&quot;,&quot;item_variant&quot;:&quot;&quot;,&quot;google_business_vertical&quot;:&quot;retail&quot;,&quot;price&quot;:6456,&quot;quantity&quot;:1,&quot;item_category&quot;:&quot;Led Mirrors&quot;},{&quot;item_id&quot;:969,&quot;item_name&quot;:&quot;Дзеркало ArmourGlass KERID GROWTH з підсвіткою&quot;,&quot;item_variant&quot;:&quot;&quot;,&quot;google_business_vertical&quot;:&quot;retail&quot;,&quot;price&quot;:7286,&quot;quantity&quot;:1,&quot;item_category&quot;:&quot;Led Mirrors&quot;},{&quot;item_id&quot;:226,&quot;item_name&quot;:&quot;Дзеркало ArmourGlass MELVIN з підсвіткою прямокутне&quot;,&quot;item_variant&quot;:&quot;&quot;,&quot;google_business_vertical&quot;:&quot;retail&quot;,&quot;price&quot;:4048,&quot;quantity&quot;:1,&quot;item_category&quot;:&quot;Led Mirrors&quot;},{&quot;item_id&quot;:244,&quot;item_name&quot;:&quot;Дзеркало ArmourGlass SALTON з підсвіткою прямокутне&quot;,&quot;item_variant&quot;:&quot;&quot;,&quot;google_business_vertical&quot;:&quot;retail&quot;,&quot;price&quot;:4048,&quot;quantity&quot;:1,&quot;item_category&quot;:&quot;Led Mirrors&quot;},{&quot;item_id&quot;:859,&quot;item_name&quot;:&quot;Дзеркало ArmourGlass KAMAL з підсвіткою прямокутне&quot;,&quot;item_variant&quot;:&quot;&quot;,&quot;google_business_vertical&quot;:&quot;retail&quot;,&quot;price&quot;:4955,&quot;quantity&quot;:1,&quot;item_category&quot;:&quot;Led Mirrors&quot;}]}">
                         <div class="col-xxl-2 col-lg-3 col-md-4">
                             <!-- category menu-->
                             <aside class="sidebar">
@@ -602,7 +577,7 @@
                                     </div>
                                     <div class="product_title">
                                         <a href="/dzerkalo-agnes" itemprop="name">
-                                            Дзеркало StudioGlass AGNES з підсвіткою кругле
+                                            Дзеркало ArmourGlass AGNES з підсвіткою кругле
                                         </a>
                                     </div>
                                     <div class="product_price-wrap" itemprop="offers" itemscope itemtype="https://schema.org/Offer">
@@ -635,7 +610,7 @@
                                     </div>
                                     <div class="product_title">
                                         <a href="/dzerkalo-rico" itemprop="name">
-                                            Дзеркало StudioGlass RICO з підсвіткою кругле
+                                            Дзеркало ArmourGlass RICO з підсвіткою кругле
                                         </a>
                                     </div>
                                     <div class="product_price-wrap" itemprop="offers" itemscope itemtype="https://schema.org/Offer">
@@ -668,7 +643,7 @@
                                     </div>
                                     <div class="product_title">
                                         <a href="/dzerkalo-moraine-z-pidsvitkoyu-krugle" itemprop="name">
-                                            Дзеркало StudioGlass MORAINE з підсвіткою кругле
+                                            Дзеркало ArmourGlass MORAINE з підсвіткою кругле
                                         </a>
                                     </div>
                                     <div class="product_price-wrap" itemprop="offers" itemscope itemtype="https://schema.org/Offer">
@@ -701,7 +676,7 @@
                                     </div>
                                     <div class="product_title">
                                         <a href="/merage" itemprop="name">
-                                            Кругле дзеркало на комбінованому шкіряному ремені StudioGlass MEERAUGE 
+                                            Кругле дзеркало на комбінованому шкіряному ремені ArmourGlass MEERAUGE 
                                         </a>
                                     </div>
                                     <div class="product_price-wrap" itemprop="offers" itemscope itemtype="https://schema.org/Offer">
@@ -734,7 +709,7 @@
                                     </div>
                                     <div class="product_title">
                                         <a href="/dzerkalo-como-z-pidsvitkoyu-pryamokutne" itemprop="name">
-                                            Дзеркало StudioGlass COMO з підсвіткою прямокутне
+                                            Дзеркало ArmourGlass COMO з підсвіткою прямокутне
                                         </a>
                                     </div>
                                     <div class="product_price-wrap" itemprop="offers" itemscope itemtype="https://schema.org/Offer">
@@ -766,7 +741,7 @@
                                     </div>
                                     <div class="product_title">
                                         <a href="/dzerkalo-buffalo-z-pidsvitkoyu-pryamokutne" itemprop="name">
-                                            Дзеркало StudioGlass BUFFALO з підсвіткою прямокутне
+                                            Дзеркало ArmourGlass BUFFALO з підсвіткою прямокутне
                                         </a>
                                     </div>
                                     <div class="product_price-wrap" itemprop="offers" itemscope itemtype="https://schema.org/Offer">
@@ -799,7 +774,7 @@
                                     </div>
                                     <div class="product_title">
                                         <a href="/dzerkalo-kerid-z-pidsvitkoyu-pryamokutne" itemprop="name">
-                                            Дзеркало StudioGlass KERID з підсвіткою прямокутне
+                                            Дзеркало ArmourGlass KERID з підсвіткою прямокутне
                                         </a>
                                     </div>
                                     <div class="product_price-wrap" itemprop="offers" itemscope itemtype="https://schema.org/Offer">
@@ -832,7 +807,7 @@
                                     </div>
                                     <div class="product_title">
                                         <a href="/dzerkalo-resia-pryamokutne-z-matovoyu-ramkoyu" itemprop="name">
-                                            Дзеркало StudioGlass RESIA з фоновою підсвіткою прямокутне з матовою рамкою
+                                            Дзеркало ArmourGlass RESIA з фоновою підсвіткою прямокутне з матовою рамкою
                                         </a>
                                     </div>
                                     <div class="product_price-wrap" itemprop="offers" itemscope itemtype="https://schema.org/Offer">
@@ -866,7 +841,7 @@
                                     </div>
                                     <div class="product_title">
                                         <a href="/dzerkalo-moon-z-pidsvitkoyu-pivkolo" itemprop="name">
-                                            Дзеркало StudioGlass MOON з підсвіткою півколо
+                                            Дзеркало ArmourGlass MOON з підсвіткою півколо
                                         </a>
                                     </div>
                                     <div class="product_price-wrap" itemprop="offers" itemscope itemtype="https://schema.org/Offer">
@@ -899,7 +874,7 @@
                                     </div>
                                     <div class="product_title">
                                         <a href="/dzerkalo-blossom-ovalne" itemprop="name">
-                                            Дзеркало StudioGlass BLOSSOM з фронтальною підсвіткою овальне
+                                            Дзеркало ArmourGlass BLOSSOM з фронтальною підсвіткою овальне
                                         </a>
                                     </div>
                                     <div class="product_price-wrap" itemprop="offers" itemscope itemtype="https://schema.org/Offer">
@@ -933,7 +908,7 @@
                                     </div>
                                     <div class="product_title">
                                         <a href="/dzerkalo-melissani-ovalne" itemprop="name">
-                                            Дзеркало StudioGlass MELISSANI з фоновою підсвіткою овальне
+                                            Дзеркало ArmourGlass MELISSANI з фоновою підсвіткою овальне
                                         </a>
                                     </div>
                                     <div class="product_price-wrap" itemprop="offers" itemscope itemtype="https://schema.org/Offer">
@@ -967,7 +942,7 @@
                                     </div>
                                     <div class="product_title">
                                         <a href="/dzerkalo-lucerne-z-fonovoyu-pidsvitkoyu" itemprop="name">
-                                            Дзеркало StudioGlass LUCERNE з фоновою підсвіткою
+                                            Дзеркало ArmourGlass LUCERNE з фоновою підсвіткою
                                         </a>
                                     </div>
                                     <div class="product_price-wrap" itemprop="offers" itemscope itemtype="https://schema.org/Offer">
@@ -1000,7 +975,7 @@
                                     </div>
                                     <div class="product_title">
                                         <a href="/dzerkalo-kerid-growth-z-pidsvitkoyu-969" itemprop="name">
-                                            Дзеркало StudioGlass KERID GROWTH з підсвіткою
+                                            Дзеркало ArmourGlass KERID GROWTH з підсвіткою
                                         </a>
                                     </div>
                                     <div class="product_price-wrap" itemprop="offers" itemscope itemtype="https://schema.org/Offer">
@@ -1033,7 +1008,7 @@
                                     </div>
                                     <div class="product_title">
                                         <a href="/dzerkalo-melvin-z-pidsvitkoyu-pryamokutne" itemprop="name">
-                                            Дзеркало StudioGlass MELVIN з підсвіткою прямокутне
+                                            Дзеркало ArmourGlass MELVIN з підсвіткою прямокутне
                                         </a>
                                     </div>
                                     <div class="product_price-wrap" itemprop="offers" itemscope itemtype="https://schema.org/Offer">
@@ -1066,7 +1041,7 @@
                                     </div>
                                     <div class="product_title">
                                         <a href="/dzerkalo-salton-z-pidsvitkoyu-pryamokutne" itemprop="name">
-                                            Дзеркало StudioGlass SALTON з підсвіткою прямокутне
+                                            Дзеркало ArmourGlass SALTON з підсвіткою прямокутне
                                         </a>
                                     </div>
                                     <div class="product_price-wrap" itemprop="offers" itemscope itemtype="https://schema.org/Offer">
@@ -1099,7 +1074,7 @@
                                     </div>
                                     <div class="product_title">
                                         <a href="/dzerkalo-kamal-z-pidsvitkoyu" itemprop="name">
-                                            Дзеркало StudioGlass KAMAL з підсвіткою прямокутне
+                                            Дзеркало ArmourGlass KAMAL з підсвіткою прямокутне
                                         </a>
                                     </div>
                                     <div class="product_price-wrap" itemprop="offers" itemscope itemtype="https://schema.org/Offer">
@@ -1180,25 +1155,25 @@
                                     <h1 class="h6">
                                         Дзеркала з LED-підсвіткою від українського виробника
                                     </h1>
-                                        <p>Для виготовлення дзеркал StudioGlass&trade; із LED-підсвіткою використовуються високоякісні матеріали європейського зразка. Виробник Mirox MNGE створює лише екологічно чисті та якісні продукти без додавання міді та свинцю. Завдяки срібному покриттю, дзеркальне полотно є абсолютно безпечним для людей та має 100% точність відображення без викривлень.&nbsp;</p>
+                                        <p>Для виготовлення дзеркал ArmourGlass&trade; із LED-підсвіткою використовуються високоякісні матеріали європейського зразка. Виробник Mirox MNGE створює лише екологічно чисті та якісні продукти без додавання міді та свинцю. Завдяки срібному покриттю, дзеркальне полотно є абсолютно безпечним для людей та має 100% точність відображення без викривлень.&nbsp;</p>
 <p>Mirox MNGE є вологостійким дзеркальним полотном, що дозволяє використовувати його у ванних кімнатах або ж приміщеннях із підвищеною вологістю.</p>
-<p>Для StudioGlass&trade; найвищим пріоритетом є безпечне користування виготовленою продукцією. Кожна модель дзеркала має армоване антитравматичне покриття скла. Спеціальна плівка дозволяє зафіксувати полотно, завдяки чому при побитті уламки не будуть розлітатись. Таким чином дзеркала StudioGlass&trade; навіть при пошкодженні не призведуть до травм. Найбільш важливою ця деталь є для батьків маленьких дітей та власників тварин.&nbsp;</p>
+<p>Для ArmourGlass&trade; найвищим пріоритетом є безпечне користування виготовленою продукцією. Кожна модель дзеркала має армоване антитравматичне покриття скла. Спеціальна плівка дозволяє зафіксувати полотно, завдяки чому при побитті уламки не будуть розлітатись. Таким чином дзеркала ArmourGlass&trade; навіть при пошкодженні не призведуть до травм. Найбільш важливою ця деталь є для батьків маленьких дітей та власників тварин.&nbsp;</p>
                                     <div class="more-text">
                                         <div class="text">
                                             <p>LED-Professional - стрічка, що працює понад 50 000 годин безперервного використання</p>
-<p>StudioGlass&trade; використовує для дзеркал із підсвіткою стрічку класу professional із діодами від компанії SAMSUNG. Вона має найкращі показники світлового потоку та ресурс в 5 років безперервної роботи.<br />Потужність такої стрічки складає 13,5 Вт/м, а світловий потік 1950 Lm.</p>
+<p>ArmourGlass&trade; використовує для дзеркал із підсвіткою стрічку класу professional із діодами від компанії SAMSUNG. Вона має найкращі показники світлового потоку та ресурс в 5 років безперервної роботи.<br />Потужність такої стрічки складає 13,5 Вт/м, а світловий потік 1950 Lm.</p>
 <p>Колір світла:</p>
 <p>⦁ Білий колір 6500-7000 К (по замовчуванню)</p>
 <p>⦁ Нейтральний білий 4000-4500 К</p>
 <p>⦁ Теплий колір 2700-3000 К</p>
-<p>Клас захисту у дзеркал StudioGlass&trade;&nbsp;</p>
-<p>Моделі із LED-підсвіткою від StudioGlass&trade; мають&nbsp; клас захисту IP 44. Завдяки цьому їх можна використовувати у приміщеннях із підвищеною вологістю. Дзеркала повністю захищені від потрапляння води або ж дрібного пилу у конструкцію.&nbsp;</p>
+<p>Клас захисту у дзеркал ArmourGlass&trade;&nbsp;</p>
+<p>Моделі із LED-підсвіткою від ArmourGlass&trade; мають&nbsp; клас захисту IP 44. Завдяки цьому їх можна використовувати у приміщеннях із підвищеною вологістю. Дзеркала повністю захищені від потрапляння води або ж дрібного пилу у конструкцію.&nbsp;</p>
 <p>Вологостійкість полотна</p>
 <p>Дзеркальне полотно від виробника Mirox MNGE має найвищий степінь захищеності, що дозволяє без скорочення строку експлуатації використовувати його в приміщеннях із підвищеною вологістю. Таке скло в десятки разів більш стійке до утворення корозійних пошкоджень згідно зі стандартами випробувань CASS. Також дзеркальне полотно більш стійке до подряпин та незначних пошкоджень при використанні.&nbsp;<br />Згідно зі стандартами RoHS полотно Mirox MNGE не містить шкідливих компонентів, таких як мідь або формальдегіди.&nbsp;</p>
-<p>Монтаж дзеркал із підсвіткою від StudioGlass&trade;&nbsp;</p>
+<p>Монтаж дзеркал із підсвіткою від ArmourGlass&trade;&nbsp;</p>
 <p>Завдяки продуманій конструкції дзеркала, монтаж та підключення дротів не повинні займати більш ніж 20 хвилин. Будь-яка модель кріпиться на дюбель-гачки, котрі йдуть в комплекті із дзеркалом. Їх потрібно спочатку вкрутити у стіну, після чого вішати дзеркало.</p>
 <p>На тильній стороні дзеркала можна знайти отвори спеціальної форми з допустимим зміщенням до 5 см, котрі заклеєні наклейками.&nbsp;</p>
-<p>Дзеркала StudioGlass&trade; з LED-підсвіткою підключаються виключно до мережі 220В.</p>
+<p>Дзеркала ArmourGlass&trade; з LED-підсвіткою підключаються виключно до мережі 220В.</p>
                                         </div>
                                         <div class="read-more" data-read-more="Читати більше"
                                             data-read-less="Згорнути">
@@ -1225,11 +1200,11 @@
         <!-- FOOTER -->
         <footer>
             <footer itemscope itemtype="http://schema.org/Organization">
-                <meta itemprop="url" content="https://studioglass.ua/">
+                <meta itemprop="url" content="https://armourglass.shop/">
                 <meta itemprop="telephone" content="+380800330836">
-                <meta itemprop="logo" content="https://studioglass.ua/uploads/original/logo-b.svg">
-                <meta itemprop="name" content="Studioglass">
-                <meta itemprop="description" content="Львівська Фабрика Дзеркал ⭐ Studio Glass ✓ Дзеркала з підсвіткою ✓ Дзеркала в рамі ✓ Душові кабіни ✓ Великі дзеркала ☎️ +38(080)033-08-36.">
+                <meta itemprop="logo" content="https://armourglass.shop/uploads/original/logo-b.svg">
+                <meta itemprop="name" content="ArmourGlass">
+                <meta itemprop="description" content="Львівська Фабрика Дзеркал ⭐ Armour Glass ✓ Дзеркала з підсвіткою ✓ Дзеркала в рамі ✓ Душові кабіни ✓ Великі дзеркала ☎️ +38(080)033-08-36.">
                 <div class="container">
                     <div class="row">
                         <div class="col-xl-11 offset-xl-1 px-0">
@@ -1260,7 +1235,7 @@
                                                 <a href="/contacts">Контакти</a>
                                             </li>
                                             <li>
-                                                <a href="/about">Про Studio Glass</a>
+                                                <a href="/about">Про Armour Glass</a>
                                             </li>
                                             <li>
                                                 <a href="/oplata-ta-dostavka">Оплата та доставка</a>
@@ -1458,20 +1433,14 @@
     <div class="cookies-informer cookies-informer-dark" data-time="3000">
         <div class="cookies-informer-inner">
             <div class="text text-popup-dark">
-                <p>Наш сайт використовує cookies-файли для того, щоб відрізнити вас від інших користувачів нашого ресурсу. Це дозволяє забезпечувати зручний перегляд нашого сайту, а також дозволяє покращувати його. Для того щоб продовжити роботу з сайтом, вам необхідно прийняти умови <a href="https://studioglass.ua/privat-policy" target="_blank" rel="noopener">Політики конфіденційності</a></p>
+                <p>Наш сайт використовує cookies-файли для того, щоб відрізнити вас від інших користувачів нашого ресурсу. Це дозволяє забезпечувати зручний перегляд нашого сайту, а також дозволяє покращувати його. Для того щоб продовжити роботу з сайтом, вам необхідно прийняти умови <a href="https://armourglass.shop/privat-policy" target="_blank" rel="noopener">Політики конфіденційності</a></p>
             </div>
             <div class="btn close-cookies cookie-popup-agree-btn">прийняти</div>
         </div>
         <div class="btn-close close-cookies btn-close-dark"></div>
     </div>
 
-    <!-- Global site tag (gtag.js) - Google Analytics -->
-    <script>
-    window.dataLayer = window.dataLayer || [];
-    function gtag(){dataLayer.push(arguments);}
-    gtag('js', new Date());
-    gtag('config', 'GTM-NMBNCQH');
-    </script>
+    
 
     <div class="cart">
     

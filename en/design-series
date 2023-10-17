@@ -2,27 +2,7 @@
 <html lang="uk">
 
 <head>
-    <!-- Google Analytics -->
-    <!-- *************************************************** -->
-
-    <!-- Google Tag Manager -->
-        <script>
-            (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
-            new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
-            j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
-            'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
-            })(window,document,'script','dataLayer','GTM-NMBNCQH');
-        </script>
-    <!-- End Google Tag Manager -->
-
-    <script type='text/javascript'>
-        window.smartlook||(function(d) {
-        var o=smartlook=function(){ o.api.push(arguments)},h=d.getElementsByTagName('head')[0];
-        var c=d.createElement('script');o.api=new Array();c.async=true;c.type='text/javascript';
-        c.charset='utf-8';c.src='https://web-sdk.smartlook.com/recorder.js';h.appendChild(c);
-        })(document);
-        smartlook('init', '2e1ed484583c0917dda8f19c7ff68e3960ae8916', { region: 'eu' });
-    </script>
+    
     <meta http-equiv="content-type" content="text/html; charset=utf-8" />
     <meta name="format-detection" content="telephone=no" />
     <meta name="apple-mobile-web-app-capable" content="yes" />
@@ -32,19 +12,14 @@
     <link href="/css/main.css?v=1.0" rel="stylesheet" type="text/css" />
     <link href="/css/custom.css?v=1.1" rel="stylesheet" type="text/css" />
     <link rel="shortcut icon" href="/img/favicon.ico" />
-    <title>➤ Designer mirrors • Buy a designer mirror - Studio Glass</title>
-<meta name="description" content="【 Buy Designer mirror 】 Lviv Mirror Factory ⭐ Studio Glass ✓ Warranty 36 months ✓ Glass processing experience - 7 years ☎️ +38(080)033-08-36.">
-<link rel="canonical" href="https://studioglass.ua/en/design-series"/>
-<base href="https://studioglass.ua">
+    <title>➤ Designer mirrors • Buy a designer mirror - Armour Glass</title>
+<meta name="description" content="【 Buy Designer mirror 】 Lviv Mirror Factory ⭐ Armour Glass ✓ Warranty 36 months ✓ Glass processing experience - 7 years ☎️ +38(080)033-08-36.">
+<link rel="canonical" href="https://armourglass.shop/en/design-series"/>
+<base href="https://armourglass.shop">
 
 </head>
 
 <body data-lang=en class=" light-theme ">
-
-    <!-- Google Tag Manager (noscript) -->
-    <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-NMBNCQH"
-    height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
-    <!-- End Google Tag Manager (noscript) -->
 
     <!-- LOADER -->
     <div id="loader-wrapper"></div>
@@ -84,7 +59,7 @@
                                 <a href="/en/product-collections-en">Product Collections</a>
                             </li>
                             <li>
-                                <a href="/en/about-en">About Studio Glass</a>
+                                <a href="/en/about-en">About Armour Glass</a>
                             </li>
             
                         </ul>
@@ -192,7 +167,7 @@
                             <nav class="h-menu-links">
                                 <ul>
                                         <li>
-                                            <a href="/en/about-en">About Studio Glass</a>
+                                            <a href="/en/about-en">About Armour Glass</a>
                                         </li>
                                         <li>
                                             <a href="/en/product-collections-en">Product Collections</a>
@@ -265,7 +240,7 @@
                         <ul class="social">
                             <li>
                                  
-                                <a href="https://www.instagram.com/studioglass.ua" target="_blank">
+                                <a href="https://www.instagram.com/armourglass.shop" target="_blank">
                                         <img class="s-icon-b" src="/uploads/pages/original/instagram-b_1.svg" alt="">
                                 </a>
                             </li>
@@ -277,7 +252,7 @@
                             </li>
                             <li>
                                  
-                                <a href="https://t.me/StudioGlass" target="_blank">
+                                <a href="https://t.me/studioglass" target="_blank">
                                         <img class="s-icon-b" src="/uploads/pages/tel_1.png" alt="">
                                 </a>
                             </li>
@@ -351,7 +326,7 @@
             <!-- category -->
             <div class="section">
                 <div class="container">
-                    <div class="row category-row" data-gTagData="{&quot;item_list_id&quot;:142,&quot;item_list_name&quot;:&quot;Design Series&quot;,&quot;items&quot;:[{&quot;item_id&quot;:1198,&quot;item_name&quot;:&quot;Mirror in a metal frame StudioGlass AGATE &quot;,&quot;item_variant&quot;:&quot;&quot;,&quot;google_business_vertical&quot;:&quot;retail&quot;,&quot;price&quot;:9200,&quot;quantity&quot;:1,&quot;item_category&quot;:&quot;Design Series&quot;},{&quot;item_id&quot;:1001,&quot;item_name&quot;:&quot;Mirror in a metal frame StudioGlass AMETHYST&quot;,&quot;item_variant&quot;:&quot;&quot;,&quot;google_business_vertical&quot;:&quot;retail&quot;,&quot;price&quot;:8570,&quot;quantity&quot;:1,&quot;item_category&quot;:&quot;Design Series&quot;},{&quot;item_id&quot;:998,&quot;item_name&quot;:&quot;Mirror in a metal frame StudioGlass AGATE &quot;,&quot;item_variant&quot;:&quot;&quot;,&quot;google_business_vertical&quot;:&quot;retail&quot;,&quot;price&quot;:7012,&quot;quantity&quot;:1,&quot;item_category&quot;:&quot;Design Series&quot;},{&quot;item_id&quot;:1049,&quot;item_name&quot;:&quot;Mirror in a metal frame StudioGlass AGATE &quot;,&quot;item_variant&quot;:&quot;&quot;,&quot;google_business_vertical&quot;:&quot;retail&quot;,&quot;price&quot;:7124,&quot;quantity&quot;:1,&quot;item_category&quot;:&quot;Design Series&quot;},{&quot;item_id&quot;:892,&quot;item_name&quot;:&quot;Mirror in a metal frame StudioGlass GALAXY NGC 4567&quot;,&quot;item_variant&quot;:&quot;&quot;,&quot;google_business_vertical&quot;:&quot;retail&quot;,&quot;price&quot;:5195,&quot;quantity&quot;:1,&quot;item_category&quot;:&quot;Design Series&quot;},{&quot;item_id&quot;:889,&quot;item_name&quot;:&quot;Mirror in a metal frame StudioGlass GALAXY FNGC 4567-8&quot;,&quot;item_variant&quot;:&quot;&quot;,&quot;google_business_vertical&quot;:&quot;retail&quot;,&quot;price&quot;:5195,&quot;quantity&quot;:1,&quot;item_category&quot;:&quot;Design Series&quot;},{&quot;item_id&quot;:813,&quot;item_name&quot;:&quot;Mirror in a metal frame StudioGlass GALAXY AM 0644&quot;,&quot;item_variant&quot;:&quot;&quot;,&quot;google_business_vertical&quot;:&quot;retail&quot;,&quot;price&quot;:5195,&quot;quantity&quot;:1,&quot;item_category&quot;:&quot;Design Series&quot;},{&quot;item_id&quot;:919,&quot;item_name&quot;:&quot;Mirror in a metal frame StudioGlass TURMALINE&quot;,&quot;item_variant&quot;:&quot;&quot;,&quot;google_business_vertical&quot;:&quot;retail&quot;,&quot;price&quot;:5991,&quot;quantity&quot;:1,&quot;item_category&quot;:&quot;Design Series&quot;},{&quot;item_id&quot;:810,&quot;item_name&quot;:&quot;Mirror in a metal frame StudioGlass AMETHYST&quot;,&quot;item_variant&quot;:&quot;&quot;,&quot;google_business_vertical&quot;:&quot;retail&quot;,&quot;price&quot;:5991,&quot;quantity&quot;:1,&quot;item_category&quot;:&quot;Design Series&quot;},{&quot;item_id&quot;:768,&quot;item_name&quot;:&quot;Mirror in a metal frame StudioGlass AGATE &quot;,&quot;item_variant&quot;:&quot;&quot;,&quot;google_business_vertical&quot;:&quot;retail&quot;,&quot;price&quot;:4445,&quot;quantity&quot;:1,&quot;item_category&quot;:&quot;Design Series&quot;},{&quot;item_id&quot;:771,&quot;item_name&quot;:&quot;Mirror in a metal frame StudioGlass AZURITE &quot;,&quot;item_variant&quot;:&quot;&quot;,&quot;google_business_vertical&quot;:&quot;retail&quot;,&quot;price&quot;:4445,&quot;quantity&quot;:1,&quot;item_category&quot;:&quot;Design Series&quot;},{&quot;item_id&quot;:765,&quot;item_name&quot;:&quot;Mirror in a metal frame StudioGlass OPAL&quot;,&quot;item_variant&quot;:&quot;&quot;,&quot;google_business_vertical&quot;:&quot;retail&quot;,&quot;price&quot;:4445,&quot;quantity&quot;:1,&quot;item_category&quot;:&quot;Design Series&quot;},{&quot;item_id&quot;:944,&quot;item_name&quot;:&quot;Mirror in a metal frame StudioGlass AMETHYST SQ 8&quot;,&quot;item_variant&quot;:&quot;&quot;,&quot;google_business_vertical&quot;:&quot;retail&quot;,&quot;price&quot;:4466,&quot;quantity&quot;:1,&quot;item_category&quot;:&quot;Design Series&quot;},{&quot;item_id&quot;:762,&quot;item_name&quot;:&quot;Mirror in a metal frame StudioGlass AMETHYST SQ 8&quot;,&quot;item_variant&quot;:&quot;&quot;,&quot;google_business_vertical&quot;:&quot;retail&quot;,&quot;price&quot;:4466,&quot;quantity&quot;:1,&quot;item_category&quot;:&quot;Design Series&quot;},{&quot;item_id&quot;:789,&quot;item_name&quot;:&quot;Mirror in a metal frame StudioGlass OPAL SQ&quot;,&quot;item_variant&quot;:&quot;&quot;,&quot;google_business_vertical&quot;:&quot;retail&quot;,&quot;price&quot;:3150,&quot;quantity&quot;:1,&quot;item_category&quot;:&quot;Design Series&quot;}]}">
+                    <div class="row category-row" data-gTagData="{&quot;item_list_id&quot;:142,&quot;item_list_name&quot;:&quot;Design Series&quot;,&quot;items&quot;:[{&quot;item_id&quot;:1198,&quot;item_name&quot;:&quot;Mirror in a metal frame ArmourGlass AGATE &quot;,&quot;item_variant&quot;:&quot;&quot;,&quot;google_business_vertical&quot;:&quot;retail&quot;,&quot;price&quot;:9200,&quot;quantity&quot;:1,&quot;item_category&quot;:&quot;Design Series&quot;},{&quot;item_id&quot;:1001,&quot;item_name&quot;:&quot;Mirror in a metal frame ArmourGlass AMETHYST&quot;,&quot;item_variant&quot;:&quot;&quot;,&quot;google_business_vertical&quot;:&quot;retail&quot;,&quot;price&quot;:8570,&quot;quantity&quot;:1,&quot;item_category&quot;:&quot;Design Series&quot;},{&quot;item_id&quot;:998,&quot;item_name&quot;:&quot;Mirror in a metal frame ArmourGlass AGATE &quot;,&quot;item_variant&quot;:&quot;&quot;,&quot;google_business_vertical&quot;:&quot;retail&quot;,&quot;price&quot;:7012,&quot;quantity&quot;:1,&quot;item_category&quot;:&quot;Design Series&quot;},{&quot;item_id&quot;:1049,&quot;item_name&quot;:&quot;Mirror in a metal frame ArmourGlass AGATE &quot;,&quot;item_variant&quot;:&quot;&quot;,&quot;google_business_vertical&quot;:&quot;retail&quot;,&quot;price&quot;:7124,&quot;quantity&quot;:1,&quot;item_category&quot;:&quot;Design Series&quot;},{&quot;item_id&quot;:892,&quot;item_name&quot;:&quot;Mirror in a metal frame ArmourGlass GALAXY NGC 4567&quot;,&quot;item_variant&quot;:&quot;&quot;,&quot;google_business_vertical&quot;:&quot;retail&quot;,&quot;price&quot;:5195,&quot;quantity&quot;:1,&quot;item_category&quot;:&quot;Design Series&quot;},{&quot;item_id&quot;:889,&quot;item_name&quot;:&quot;Mirror in a metal frame ArmourGlass GALAXY FNGC 4567-8&quot;,&quot;item_variant&quot;:&quot;&quot;,&quot;google_business_vertical&quot;:&quot;retail&quot;,&quot;price&quot;:5195,&quot;quantity&quot;:1,&quot;item_category&quot;:&quot;Design Series&quot;},{&quot;item_id&quot;:813,&quot;item_name&quot;:&quot;Mirror in a metal frame ArmourGlass GALAXY AM 0644&quot;,&quot;item_variant&quot;:&quot;&quot;,&quot;google_business_vertical&quot;:&quot;retail&quot;,&quot;price&quot;:5195,&quot;quantity&quot;:1,&quot;item_category&quot;:&quot;Design Series&quot;},{&quot;item_id&quot;:919,&quot;item_name&quot;:&quot;Mirror in a metal frame ArmourGlass TURMALINE&quot;,&quot;item_variant&quot;:&quot;&quot;,&quot;google_business_vertical&quot;:&quot;retail&quot;,&quot;price&quot;:5991,&quot;quantity&quot;:1,&quot;item_category&quot;:&quot;Design Series&quot;},{&quot;item_id&quot;:810,&quot;item_name&quot;:&quot;Mirror in a metal frame ArmourGlass AMETHYST&quot;,&quot;item_variant&quot;:&quot;&quot;,&quot;google_business_vertical&quot;:&quot;retail&quot;,&quot;price&quot;:5991,&quot;quantity&quot;:1,&quot;item_category&quot;:&quot;Design Series&quot;},{&quot;item_id&quot;:768,&quot;item_name&quot;:&quot;Mirror in a metal frame ArmourGlass AGATE &quot;,&quot;item_variant&quot;:&quot;&quot;,&quot;google_business_vertical&quot;:&quot;retail&quot;,&quot;price&quot;:4445,&quot;quantity&quot;:1,&quot;item_category&quot;:&quot;Design Series&quot;},{&quot;item_id&quot;:771,&quot;item_name&quot;:&quot;Mirror in a metal frame ArmourGlass AZURITE &quot;,&quot;item_variant&quot;:&quot;&quot;,&quot;google_business_vertical&quot;:&quot;retail&quot;,&quot;price&quot;:4445,&quot;quantity&quot;:1,&quot;item_category&quot;:&quot;Design Series&quot;},{&quot;item_id&quot;:765,&quot;item_name&quot;:&quot;Mirror in a metal frame ArmourGlass OPAL&quot;,&quot;item_variant&quot;:&quot;&quot;,&quot;google_business_vertical&quot;:&quot;retail&quot;,&quot;price&quot;:4445,&quot;quantity&quot;:1,&quot;item_category&quot;:&quot;Design Series&quot;},{&quot;item_id&quot;:944,&quot;item_name&quot;:&quot;Mirror in a metal frame ArmourGlass AMETHYST SQ 8&quot;,&quot;item_variant&quot;:&quot;&quot;,&quot;google_business_vertical&quot;:&quot;retail&quot;,&quot;price&quot;:4466,&quot;quantity&quot;:1,&quot;item_category&quot;:&quot;Design Series&quot;},{&quot;item_id&quot;:762,&quot;item_name&quot;:&quot;Mirror in a metal frame ArmourGlass AMETHYST SQ 8&quot;,&quot;item_variant&quot;:&quot;&quot;,&quot;google_business_vertical&quot;:&quot;retail&quot;,&quot;price&quot;:4466,&quot;quantity&quot;:1,&quot;item_category&quot;:&quot;Design Series&quot;},{&quot;item_id&quot;:789,&quot;item_name&quot;:&quot;Mirror in a metal frame ArmourGlass OPAL SQ&quot;,&quot;item_variant&quot;:&quot;&quot;,&quot;google_business_vertical&quot;:&quot;retail&quot;,&quot;price&quot;:3150,&quot;quantity&quot;:1,&quot;item_category&quot;:&quot;Design Series&quot;}]}">
                         <div class="col-xxl-2 col-lg-3 col-md-4">
                             <!-- category menu-->
                             <aside class="sidebar">
@@ -570,7 +545,7 @@
                                     </div>
                                     <div class="product_title">
                                         <a href="/en/dzerkalo-v-metaleviy-rami-agate-998-1198" itemprop="name">
-                                            Mirror in a metal frame StudioGlass AGATE 
+                                            Mirror in a metal frame ArmourGlass AGATE 
                                         </a>
                                     </div>
                                     <div class="product_price-wrap" itemprop="offers" itemscope itemtype="https://schema.org/Offer">
@@ -604,7 +579,7 @@
                                     </div>
                                     <div class="product_title">
                                         <a href="/en/dzerkalo-v-metaleviy-rami-amethyst-1001" itemprop="name">
-                                            Mirror in a metal frame StudioGlass AMETHYST
+                                            Mirror in a metal frame ArmourGlass AMETHYST
                                         </a>
                                     </div>
                                     <div class="product_price-wrap" itemprop="offers" itemscope itemtype="https://schema.org/Offer">
@@ -638,7 +613,7 @@
                                     </div>
                                     <div class="product_title">
                                         <a href="/en/dzerkalo-v-metaleviy-rami-agate-998" itemprop="name">
-                                            Mirror in a metal frame StudioGlass AGATE 
+                                            Mirror in a metal frame ArmourGlass AGATE 
                                         </a>
                                     </div>
                                     <div class="product_price-wrap" itemprop="offers" itemscope itemtype="https://schema.org/Offer">
@@ -672,7 +647,7 @@
                                     </div>
                                     <div class="product_title">
                                         <a href="/en/dzerkalo-v-metaleviy-rami-agate-1049" itemprop="name">
-                                            Mirror in a metal frame StudioGlass AGATE 
+                                            Mirror in a metal frame ArmourGlass AGATE 
                                         </a>
                                     </div>
                                     <div class="product_price-wrap" itemprop="offers" itemscope itemtype="https://schema.org/Offer">
@@ -706,7 +681,7 @@
                                     </div>
                                     <div class="product_title">
                                         <a href="/en/dzerkalo-v-metaleviy-rami-studioglass-galaxy-ngc" itemprop="name">
-                                            Mirror in a metal frame StudioGlass GALAXY NGC 4567
+                                            Mirror in a metal frame ArmourGlass GALAXY NGC 4567
                                         </a>
                                     </div>
                                     <div class="product_price-wrap" itemprop="offers" itemscope itemtype="https://schema.org/Offer">
@@ -740,7 +715,7 @@
                                     </div>
                                     <div class="product_title">
                                         <a href="/en/dzerkalo-v-metaleviy-rami-studioglass-galaxy-fngc" itemprop="name">
-                                            Mirror in a metal frame StudioGlass GALAXY FNGC 4567-8
+                                            Mirror in a metal frame ArmourGlass GALAXY FNGC 4567-8
                                         </a>
                                     </div>
                                     <div class="product_price-wrap" itemprop="offers" itemscope itemtype="https://schema.org/Offer">
@@ -774,7 +749,7 @@
                                     </div>
                                     <div class="product_title">
                                         <a href="/en/galaxy-am-0644" itemprop="name">
-                                            Mirror in a metal frame StudioGlass GALAXY AM 0644
+                                            Mirror in a metal frame ArmourGlass GALAXY AM 0644
                                         </a>
                                     </div>
                                     <div class="product_price-wrap" itemprop="offers" itemscope itemtype="https://schema.org/Offer">
@@ -807,7 +782,7 @@
                                     </div>
                                     <div class="product_title">
                                         <a href="/en/turmaline" itemprop="name">
-                                            Mirror in a metal frame StudioGlass TURMALINE
+                                            Mirror in a metal frame ArmourGlass TURMALINE
                                         </a>
                                     </div>
                                     <div class="product_price-wrap" itemprop="offers" itemscope itemtype="https://schema.org/Offer">
@@ -840,7 +815,7 @@
                                     </div>
                                     <div class="product_title">
                                         <a href="/en/dzerkalo-v-metaleviy-rami-amethyst" itemprop="name">
-                                            Mirror in a metal frame StudioGlass AMETHYST
+                                            Mirror in a metal frame ArmourGlass AMETHYST
                                         </a>
                                     </div>
                                     <div class="product_price-wrap" itemprop="offers" itemscope itemtype="https://schema.org/Offer">
@@ -873,7 +848,7 @@
                                     </div>
                                     <div class="product_title">
                                         <a href="/en/dzerkalo-v-metaleviy-rami-agate" itemprop="name">
-                                            Mirror in a metal frame StudioGlass AGATE 
+                                            Mirror in a metal frame ArmourGlass AGATE 
                                         </a>
                                     </div>
                                     <div class="product_price-wrap" itemprop="offers" itemscope itemtype="https://schema.org/Offer">
@@ -906,7 +881,7 @@
                                     </div>
                                     <div class="product_title">
                                         <a href="/en/dzerkalo-v-metaleviy-rami-azurite" itemprop="name">
-                                            Mirror in a metal frame StudioGlass AZURITE 
+                                            Mirror in a metal frame ArmourGlass AZURITE 
                                         </a>
                                     </div>
                                     <div class="product_price-wrap" itemprop="offers" itemscope itemtype="https://schema.org/Offer">
@@ -939,7 +914,7 @@
                                     </div>
                                     <div class="product_title">
                                         <a href="/en/dzerkalo-v-metaleviy-rami-opal" itemprop="name">
-                                            Mirror in a metal frame StudioGlass OPAL
+                                            Mirror in a metal frame ArmourGlass OPAL
                                         </a>
                                     </div>
                                     <div class="product_price-wrap" itemprop="offers" itemscope itemtype="https://schema.org/Offer">
@@ -972,7 +947,7 @@
                                     </div>
                                     <div class="product_title">
                                         <a href="/en/dzerkalo-v-metaleviy-rami-amethyst-sq-6" itemprop="name">
-                                            Mirror in a metal frame StudioGlass AMETHYST SQ 8
+                                            Mirror in a metal frame ArmourGlass AMETHYST SQ 8
                                         </a>
                                     </div>
                                     <div class="product_price-wrap" itemprop="offers" itemscope itemtype="https://schema.org/Offer">
@@ -1005,7 +980,7 @@
                                     </div>
                                     <div class="product_title">
                                         <a href="/en/dzerkalo-v-metaleviy-rami-amethyst-sq-8" itemprop="name">
-                                            Mirror in a metal frame StudioGlass AMETHYST SQ 8
+                                            Mirror in a metal frame ArmourGlass AMETHYST SQ 8
                                         </a>
                                     </div>
                                     <div class="product_price-wrap" itemprop="offers" itemscope itemtype="https://schema.org/Offer">
@@ -1038,7 +1013,7 @@
                                     </div>
                                     <div class="product_title">
                                         <a href="/en/dzerkalo-v-metaleviy-rami-opal-sq" itemprop="name">
-                                            Mirror in a metal frame StudioGlass OPAL SQ
+                                            Mirror in a metal frame ArmourGlass OPAL SQ
                                         </a>
                                     </div>
                                     <div class="product_price-wrap" itemprop="offers" itemscope itemtype="https://schema.org/Offer">
@@ -1071,7 +1046,7 @@
                                     <h1 class="h6">
                                         Design series of mirrors in a metal frame
                                     </h1>
-                                        <p>The main task before us was to make the perfect mirrors to complement the interior design in the style of boho, Scandinavian or even Japanese. For this purpose, interesting shapes were chosen, framed by a classic metal of restrained colors. Thanks to this combination, the design of a series of mirrors from StudioGlass стала became a bestseller from the first days of launch.</p>
+                                        <p>The main task before us was to make the perfect mirrors to complement the interior design in the style of boho, Scandinavian or even Japanese. For this purpose, interesting shapes were chosen, framed by a classic metal of restrained colors. Thanks to this combination, the design of a series of mirrors from ArmourGlass стала became a bestseller from the first days of launch.</p>
 <p>To create a frame, we use only a metal strip of 4 cm x 3 mm. This material allows you to create a strong structure that will hold its shape.</p>
                                     <div class="more-text">
                                         <div class="text">
@@ -1081,11 +1056,11 @@
 <p>Since in today's world mirrors are not needed to perform their direct functions, we have considered absolutely all possible options. Anti-corrosion treatment of metal prevents damage and defects, so the mirror will last a long time.</p>
 <p>The thickness of the frame immediately affects the appearance and practicality of the mirror. The metal strip is not deformed, keeping the shape of even free parts without a frame. The practicality lies in the lighter weight of such a mirror.</p>
 <p>Mirror cloth Mirox MNGE</p>
-<p>StudioGlass &trade; uses the fabric of the world-famous manufacturer Mirox MNGE to make mirror products. This canvas meets all modern requirements of quality and environmental friendliness. The purity of reflection in this canvas is 100%. All mirrors are made without the addition of copper and lead, do not contain harmful volatile substances and are therefore completely safe for human health and the environment. Mirox MNGE mirror cloth is completely resistant to moisture, so it can be used in bathrooms.</p>
-<p>Protection class in StudioGlass mirrors</p>
-<p>All StudioGlass дз mirrors have protection class IP 44. This means that the appliance can be used in damp bathrooms. They are protected from accidental water ingress and dust penetration.</p>
+<p>ArmourGlass &trade; uses the fabric of the world-famous manufacturer Mirox MNGE to make mirror products. This canvas meets all modern requirements of quality and environmental friendliness. The purity of reflection in this canvas is 100%. All mirrors are made without the addition of copper and lead, do not contain harmful volatile substances and are therefore completely safe for human health and the environment. Mirox MNGE mirror cloth is completely resistant to moisture, so it can be used in bathrooms.</p>
+<p>Protection class in ArmourGlass mirrors</p>
+<p>All ArmourGlass дз mirrors have protection class IP 44. This means that the appliance can be used in damp bathrooms. They are protected from accidental water ingress and dust penetration.</p>
 <p>Guarantee</p>
-<p>StudioGlass насам is first and foremost a guarantee of quality. We provide a 3-year warranty on each product from the date of receipt.</p>
+<p>ArmourGlass насам is first and foremost a guarantee of quality. We provide a 3-year warranty on each product from the date of receipt.</p>
                                         </div>
                                         <div class="read-more" data-read-more="Read more"
                                             data-read-less="Hide">
@@ -1112,11 +1087,11 @@
         <!-- FOOTER -->
         <footer>
             <footer itemscope itemtype="http://schema.org/Organization">
-                <meta itemprop="url" content="https://studioglass.ua/">
+                <meta itemprop="url" content="https://armourglass.shop/">
                 <meta itemprop="telephone" content="+380800330836">
-                <meta itemprop="logo" content="https://studioglass.ua/uploads/original/logo-b.svg">
-                <meta itemprop="name" content="Studioglass">
-                <meta itemprop="description" content="Львівська Фабрика Дзеркал ⭐ Studio Glass ✓ Дзеркала з підсвіткою ✓ Дзеркала в рамі ✓ Душові кабіни ✓ Великі дзеркала ☎️ +38(080)033-08-36.">
+                <meta itemprop="logo" content="https://armourglass.shop/uploads/original/logo-b.svg">
+                <meta itemprop="name" content="ArmourGlass">
+                <meta itemprop="description" content="Львівська Фабрика Дзеркал ⭐ Armour Glass ✓ Дзеркала з підсвіткою ✓ Дзеркала в рамі ✓ Душові кабіни ✓ Великі дзеркала ☎️ +38(080)033-08-36.">
                 <div class="container">
                     <div class="row">
                         <div class="col-xl-11 offset-xl-1 px-0">
@@ -1144,7 +1119,7 @@
                                                 <a href="/en/contacts-en">Contacts</a>
                                             </li>
                                             <li>
-                                                <a href="/en/about-en">About Studio Glass</a>
+                                                <a href="/en/about-en">About Armour Glass</a>
                                             </li>
                                             <li>
                                                 <a href="/en/oplata-ta-dostavka">Payment and delivery</a>
@@ -1344,20 +1319,14 @@
         <div class="cookies-informer-inner">
             <div class="text text-popup-dark">
                 <p>Our site uses cookies to distinguish you from other users of our site. This allows us to provide convenient viewing of our site, and also allows us to improve it</p>
-<p><a href="https://studioglass.ua/en/privat-policy-en" target="_blank" rel="noopener">Cookies policy</a></p>
+<p><a href="https://armourglass.shop/en/privat-policy-en" target="_blank" rel="noopener">Cookies policy</a></p>
             </div>
             <div class="btn close-cookies cookie-popup-agree-btn">accept</div>
         </div>
         <div class="btn-close close-cookies btn-close-dark"></div>
     </div>
 
-    <!-- Global site tag (gtag.js) - Google Analytics -->
-    <script>
-    window.dataLayer = window.dataLayer || [];
-    function gtag(){dataLayer.push(arguments);}
-    gtag('js', new Date());
-    gtag('config', 'GTM-NMBNCQH');
-    </script>
+    
 
     <div class="cart">
     
