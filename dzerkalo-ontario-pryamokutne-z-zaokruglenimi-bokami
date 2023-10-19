@@ -2,38 +2,20 @@
 <html lang="uk">
 
 <head>
-    <!-- Google Analytics -->
-    <!-- *************************************************** -->
+    
 
-    <!-- Google Tag Manager -->
-        <script>
-            (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
-            new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
-            j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
-            'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
-            })(window,document,'script','dataLayer','GTM-NMBNCQH');
-        </script>
-    <!-- End Google Tag Manager -->
-
-    <script type='text/javascript'>
-        window.smartlook||(function(d) {
-        var o=smartlook=function(){ o.api.push(arguments)},h=d.getElementsByTagName('head')[0];
-        var c=d.createElement('script');o.api=new Array();c.async=true;c.type='text/javascript';
-        c.charset='utf-8';c.src='https://web-sdk.smartlook.com/recorder.js';h.appendChild(c);
-        })(document);
-        smartlook('init', '2e1ed484583c0917dda8f19c7ff68e3960ae8916', { region: 'eu' });
-    </script>
+    
     <meta http-equiv="content-type" content="text/html; charset=utf-8" />
     <meta name="format-detection" content="telephone=no" />
     <meta name="apple-mobile-web-app-capable" content="yes" />
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=0" />
-    <meta name="google-site-verification" content="_TssH0mwWwYlp7QE3SXnnyjrfpdPCnsAnNmcgxrhnvQ" />
+    
     <link href="/css/bootstrap-grid.min.css" rel="stylesheet" type="text/css" />
     <link href="/css/main.css?v=1.0" rel="stylesheet" type="text/css" />
     <link href="/css/custom.css?v=1.1" rel="stylesheet" type="text/css" />
     <link rel="shortcut icon" href="/img/favicon.ico" />
-    <title>➤ Купити Прямокутне дзеркало StudioGlass ONTARIO з фронтальною підсвіткою із заокругленими боками - Studio Glass</title>
-<meta name="description" content="Купити Прямокутне дзеркало StudioGlass ONTARIO з фронтальною підсвіткою із заокругленими боками Львівська Фабрика Дзеркал ⭐ Studio Glass ✓ Гарантія 36 місяців ✓ Досвід обробки скла - 7 років ☎️ 0800 330 836">
+    <title>➤ Купити Прямокутне дзеркало ArmourGlass ONTARIO з фронтальною підсвіткою із заокругленими боками - Armour Glass</title>
+<meta name="description" content="Купити Прямокутне дзеркало ArmourGlass ONTARIO з фронтальною підсвіткою із заокругленими боками Львівська Фабрика Дзеркал ⭐ Armour Glass ✓ Гарантія 36 місяців ✓ Досвід обробки скла - 7 років ☎️ 0800 330 836">
 <link rel="canonical" href="https://armourglass.shop/dzerkalo-ontario-pryamokutne-z-zaokruglenimi-bokami"/>
 <base href="https://armourglass.shop">
 
@@ -41,10 +23,7 @@
 
 <body data-lang=uk class=" light-theme ">
 
-    <!-- Google Tag Manager (noscript) -->
-    <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-NMBNCQH"
-    height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
-    <!-- End Google Tag Manager (noscript) -->
+    
 
     <!-- LOADER -->
     <div id="loader-wrapper"></div>
@@ -195,7 +174,7 @@
                             <nav class="h-menu-links">
                                 <ul>
                                         <li>
-                                            <a href="/about">Про Studio Glass</a>
+                                            <a href="/about">Про Armour Glass</a>
                                         </li>
                                         <li>
                                             <a href="/product-collections">Колекції товарів</a>
@@ -279,7 +258,7 @@
                             </li>
                             <li>
                                  
-                                <a href="https://t.me/StudioGlass" target="_blank">
+                                <a href="https://t.me/studioglass" target="_blank">
                                         <img class="s-icon-b" src="/uploads/pages/tel_1.png" alt="">
                                 </a>
                             </li>
@@ -346,7 +325,7 @@
                     <meta itemprop="position" content="3" />
                     </li>
                 <li class="active" itemprop="itemListElement" itemscope itemtype="https://schema.org/ListItem">
-                    <span itemprop="name">Прямокутне дзеркало StudioGlass ONTARIO з фронтальною підсвіткою із заокругленими боками</span>
+                    <span itemprop="name">Прямокутне дзеркало ArmourGlass ONTARIO з фронтальною підсвіткою із заокругленими боками</span>
                     <meta itemprop="position" content="4" />
                 </li>
             </ul>
@@ -386,7 +365,7 @@
                                 data-product_id="232" 
                                 data-total_price="3482"
                                     data-s=500 data-h=500
-                                data-product_name="Прямокутне дзеркало StudioGlass ONTARIO з фронтальною підсвіткою із заокругленими боками"
+                                data-product_name="Прямокутне дзеркало ArmourGlass ONTARIO з фронтальною підсвіткою із заокругленими боками"
                                 data-product_type="1"
                                 data-product_cats='["Led Mirrors","Mirrors"]'
                             >
@@ -404,7 +383,7 @@
                         </div>
 
                         <h1 class="product_detail-title" itemprop="name">
-                            Прямокутне дзеркало StudioGlass ONTARIO з фронтальною підсвіткою із заокругленими боками
+                            Прямокутне дзеркало ArmourGlass ONTARIO з фронтальною підсвіткою із заокругленими боками
                         </h1>
 
                         <div class="product_detail-description text">
@@ -541,7 +520,7 @@
                                 </div>
                                 <div>
                                     <p class="product_info-item-value">
-                                        Studio Glass Україна
+                                        Armour Glass Україна
                                     </p>
                                 </div>
                             </div>
@@ -564,7 +543,7 @@
                             data-total_price="3482"
                                 data-s=500 data-h=500
 
-                            data-product_name="Прямокутне дзеркало StudioGlass ONTARIO з фронтальною підсвіткою із заокругленими боками"
+                            data-product_name="Прямокутне дзеркало ArmourGlass ONTARIO з фронтальною підсвіткою із заокругленими боками"
                             data-product_type="1"
                             data-product_cats='["Led Mirrors","Mirrors"]'
                             >
@@ -653,7 +632,7 @@
                                             Дзеркальне полотно
                                         </h5>
                                         <p><span id="docs-internal-guid-cd9072c8-7fff-b9ee-581e-d0c0db50d71e"></span></p>
-<p dir="ltr">Для виготовлення дзеркальних виробів із LED-підсвіткою, компанія <strong>StudioGlass&trade;</strong> використовує полотно всесвітньо відомих виробників <strong>AGC</strong> та <strong>SAINT GOBAIN</strong>. Це полотно відповідає усім сучасним вимогам якості та екологічності. Чистота відображення у даного полотна 100%. Усі дзеркала виготовлені без додавання міді та свинцю, не містять шкідливих летючих речовин і тому є повністю безпечними для здоров&rsquo;я людини та навколишнього середовища. Дзеркальне полотно <strong>AGC MIROX MNGE</strong> та <strong>SAINT GOBAIN MIRALITE REVOLUTION</strong> є повністю стійким до вологи, тому може використовуватись у ванних кімнатах.</p>
+<p dir="ltr">Для виготовлення дзеркальних виробів із LED-підсвіткою, компанія <strong>ArmourGlass&trade;</strong> використовує полотно всесвітньо відомих виробників <strong>AGC</strong> та <strong>SAINT GOBAIN</strong>. Це полотно відповідає усім сучасним вимогам якості та екологічності. Чистота відображення у даного полотна 100%. Усі дзеркала виготовлені без додавання міді та свинцю, не містять шкідливих летючих речовин і тому є повністю безпечними для здоров&rsquo;я людини та навколишнього середовища. Дзеркальне полотно <strong>AGC MIROX MNGE</strong> та <strong>SAINT GOBAIN MIRALITE REVOLUTION</strong> є повністю стійким до вологи, тому може використовуватись у ванних кімнатах.</p>
                                     </div>
                                 </div>
                             </div>
@@ -727,7 +706,7 @@
                                             Армоване антитравматичне скло
                                         </h5>
                                         <p><span id="docs-internal-guid-53d4af5f-7fff-2b98-aa46-5217856b626d"></span></p>
-<p dir="ltr">Усі дзеркала компанії <strong>StudioGlass&trade;</strong> армуються плівкою, яка не дає уламкам дзеркала розлітатись при ударі. Антитравматичне дзеркало з такою технологією є повністю безпечним і навіть при розбитті не може завдати шкоди! Безпека при використанні дзеркал компанії <strong>StudioGlass&trade;</strong>&nbsp; є одним із основних пріоритетів компанії.</p>
+<p dir="ltr">Усі дзеркала компанії <strong>ArmourGlass&trade;</strong> армуються плівкою, яка не дає уламкам дзеркала розлітатись при ударі. Антитравматичне дзеркало з такою технологією є повністю безпечним і навіть при розбитті не може завдати шкоди! Безпека при використанні дзеркал компанії <strong>ArmourGlass&trade;</strong>&nbsp; є одним із основних пріоритетів компанії.</p>
                                     </div>
                                 </div>
                             </div>
@@ -745,7 +724,7 @@
                                         <h5>
                                             LED стрічка: 50 000 годин безперервної  роботи
                                         </h5>
-                                        <p dir="ltr">У дзеркалах компанії <strong>StudioGlass&trade;</strong> використовується світлодіодна LED стрічка класу <strong>Professional </strong>з найвищими показниками світлового потоку, розроблена на діодах компанії <strong>SAMSUNG</strong>. Світлодіодна стрічка є гнучкою друкованою платою, яка всіяна світлодіодами та резисторами. Вона призначена для створення стильного й оригінального джерела освітлення приміщення. Велика кількість світлодіодів на 1 метр стрічки та широкий кут забезпечують рівномірне та насичене світіння. Ресурс цієї стрічки становить мінімум <strong>5 років</strong> безперервної роботи. Кількість світлодіодів у стрічці&nbsp;120 шт/м, робоча напруга 12 V.</p>
+                                        <p dir="ltr">У дзеркалах компанії <strong>ArmourGlass&trade;</strong> використовується світлодіодна LED стрічка класу <strong>Professional </strong>з найвищими показниками світлового потоку, розроблена на діодах компанії <strong>SAMSUNG</strong>. Світлодіодна стрічка є гнучкою друкованою платою, яка всіяна світлодіодами та резисторами. Вона призначена для створення стильного й оригінального джерела освітлення приміщення. Велика кількість світлодіодів на 1 метр стрічки та широкий кут забезпечують рівномірне та насичене світіння. Ресурс цієї стрічки становить мінімум <strong>5 років</strong> безперервної роботи. Кількість світлодіодів у стрічці&nbsp;120 шт/м, робоча напруга 12 V.</p>
 <p dir="ltr"><strong>Колір світла:&nbsp;&nbsp;</strong></p>
 <ul>
 <li dir="ltr" aria-level="1">
@@ -830,7 +809,7 @@
                                         <h5>
                                             Вологостійкість
                                         </h5>
-                                        <p dir="ltr">Дзеркала компанії <strong>StudioGlass&trade;</strong> можуть використовуватись у ванних кімнатах та приміщеннях з високим рівнем вологості. Дзеркальні полотна, що використовуються у наших виробах, відповідають найвищим вимогам експлуатації:&nbsp;</p>
+                                        <p dir="ltr">Дзеркала компанії <strong>ArmourGlass&trade;</strong> можуть використовуватись у ванних кімнатах та приміщеннях з високим рівнем вологості. Дзеркальні полотна, що використовуються у наших виробах, відповідають найвищим вимогам експлуатації:&nbsp;</p>
 <ul>
 <li dir="ltr" aria-level="1">
 <p dir="ltr" role="presentation">Екологічно чисте дзеркало, що не містить ртуті, міді та свинцю</p>
@@ -875,7 +854,7 @@
                                             Клас захисту
                                         </h5>
                                         <p><span id="docs-internal-guid-a66c87b6-7fff-3bf2-29d8-3a608162d0cb"></span></p>
-<p dir="ltr">Усі дзеркала компанії <strong>StudioGlass&trade;</strong> мають клас захисту <strong>IP 44</strong>. Це означає, що електроприлад можна використовувати всередині приміщень із підвищеною вологістю (наприклад, у ванній кімнаті). Вони захищені від випадкових попадань води і від проникнення пилу.</p>
+<p dir="ltr">Усі дзеркала компанії <strong>ArmourGlass&trade;</strong> мають клас захисту <strong>IP 44</strong>. Це означає, що електроприлад можна використовувати всередині приміщень із підвищеною вологістю (наприклад, у ванній кімнаті). Вони захищені від випадкових попадань води і від проникнення пилу.</p>
                                     </div>
                                 </div>
                             </div>
@@ -949,7 +928,7 @@
                                             Простий монтаж дзеркала
                                         </h5>
                                         <p><span id="docs-internal-guid-78787792-7fff-3fb3-f212-d4b8bbc57578"></span></p>
-<p dir="ltr">Конструкція дзеркала продумана таким чином, щоб монтаж та підключення до живлення займали не більше 20 хвилин. Дзеркало кріпиться за допомогою дюбель-гачків, які монтуються у стіну та слугують кронштейнами для кріплень, які знаходяться на задній частині корпусу дзеркала. Отвори для кріплень мають допуски у <strong>5 мм</strong> для точного позиціонування виробу. На корпусі також присутній короб з виведеним кабелем та конектором, який слугує місцем для схову зайвої довжини кабеля. Дзеркала компанії <strong>StudioGlass&trade;</strong> з LED-підсвіткою по замовчуванню живляться від мережі <strong>220 В</strong>.</p>
+<p dir="ltr">Конструкція дзеркала продумана таким чином, щоб монтаж та підключення до живлення займали не більше 20 хвилин. Дзеркало кріпиться за допомогою дюбель-гачків, які монтуються у стіну та слугують кронштейнами для кріплень, які знаходяться на задній частині корпусу дзеркала. Отвори для кріплень мають допуски у <strong>5 мм</strong> для точного позиціонування виробу. На корпусі також присутній короб з виведеним кабелем та конектором, який слугує місцем для схову зайвої довжини кабеля. Дзеркала компанії <strong>ArmourGlass&trade;</strong> з LED-підсвіткою по замовчуванню живляться від мережі <strong>220 В</strong>.</p>
                                     </div>
                                 </div>
                             </div>
@@ -1146,8 +1125,8 @@
                 <meta itemprop="url" content="https://armourglass.shop/">
                 <meta itemprop="telephone" content="+380800330836">
                 <meta itemprop="logo" content="https://armourglass.shop/uploads/original/logo-b.svg">
-                <meta itemprop="name" content="Studioglass">
-                <meta itemprop="description" content="Львівська Фабрика Дзеркал ⭐ Studio Glass ✓ Дзеркала з підсвіткою ✓ Дзеркала в рамі ✓ Душові кабіни ✓ Великі дзеркала ☎️ +38(080)033-08-36.">
+                <meta itemprop="name" content="ArmourGlass">
+                <meta itemprop="description" content="Львівська Фабрика Дзеркал ⭐ Armour Glass ✓ Дзеркала з підсвіткою ✓ Дзеркала в рамі ✓ Душові кабіни ✓ Великі дзеркала ☎️ +38(080)033-08-36.">
                 <div class="container">
                     <div class="row">
                         <div class="col-xl-11 offset-xl-1 px-0">
@@ -1178,7 +1157,7 @@
                                                 <a href="/contacts">Контакти</a>
                                             </li>
                                             <li>
-                                                <a href="/about">Про Studio Glass</a>
+                                                <a href="/about">Про Armour Glass</a>
                                             </li>
                                             <li>
                                                 <a href="/oplata-ta-dostavka">Оплата та доставка</a>
