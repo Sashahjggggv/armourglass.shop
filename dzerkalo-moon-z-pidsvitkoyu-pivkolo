@@ -602,7 +602,7 @@
                             <div class="thumb-input-number prod_quantity">
                                 <button type="button" class="decrement"></button>
                                 <input value="1" readonly="" tabindex="-1">
-                                <button type="button" class="increment" data-max="9999960"></button>
+                                <button type="button" class="increment" data-max="9999959"></button>
                             </div>
                             <button class="btn btn-secondary order-btn add_to-cart prod-detail-btn"
                             data-product_id="319" 
